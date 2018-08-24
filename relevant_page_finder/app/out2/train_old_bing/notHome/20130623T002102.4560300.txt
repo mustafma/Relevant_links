@@ -1,0 +1,17 @@
+bodycookies
+urlfacebook
+urldalvi
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+bodyfacebook
+titledalvi
+titlecontainsnamecombination
+titlecontainsonenameorgan
+urlbhavana
+urlcom
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3
+titlebhavana

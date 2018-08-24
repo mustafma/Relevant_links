@@ -1,0 +1,13 @@
+urllisten
+urltidal
+urlhttps://listen.tidal.com/artist/4108008
+urlartist
+titletidal
+titlenoofwordslessthan5
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlhttps
+bodynoofwordslessthan50
+urlrank46
+bodynoofentitynameindoclessthan3

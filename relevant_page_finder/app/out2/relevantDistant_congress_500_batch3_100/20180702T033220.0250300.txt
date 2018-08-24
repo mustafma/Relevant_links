@@ -1,0 +1,13 @@
+urlhttps://catalog.archives.gov/id/7431940
+urlcatalog
+urlarchives
+urlid
+titlenoofwordslessthan5
+urlnoofpartslessthan7
+urlrank
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+urlrank11
+bodynoofentitynameindoclessthan3
+urlgov

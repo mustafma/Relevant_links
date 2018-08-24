@@ -1,0 +1,13 @@
+urlrank16
+urlwww
+urlsenate
+urlhttps://www.corker.senate.gov/
+urlcorker
+titlenoofwordslessthan5
+urlrank
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlgov

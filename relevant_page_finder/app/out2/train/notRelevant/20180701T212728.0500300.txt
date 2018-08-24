@@ -1,0 +1,24 @@
+titlenoofwords_greater _than_10
+titleshelley
+titlemoore
+titlefullname
+urlwww
+titlecontainsonenameorgan
+titleinstagram
+titlesenator
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlcontainsonenameorgan
+urlhttps
+titlecapito
+titlesencapito
+titlevideos
+urlhttps://www.instagram.com/sencapito/
+bodynoofwordslessthan50
+titlephotos
+urlrank11
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlsencapito
+urlinstagram

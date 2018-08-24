@@ -1,0 +1,14 @@
+bodycontainsnamecombination
+titlefullname
+titlecontainsonenameorgan
+urlrank2
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfullname
+bodyben
+urlrank
+urlil
+urlcontainsonenameorgan
+urlac
+bodynoofwordslessthan50

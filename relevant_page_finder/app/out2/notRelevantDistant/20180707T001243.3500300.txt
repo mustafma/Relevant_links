@@ -1,0 +1,13 @@
+urlvideo
+urlwww
+urlhttp://www.cityofdavid.org.il/de/video/2314
+titlenoofwordslessthan5
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlil
+urlorg
+urlrank42
+bodynoofwordslessthan50
+urlcityofdavid
+bodynoofentitynameindoclessthan3

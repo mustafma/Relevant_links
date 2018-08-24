@@ -1,0 +1,25 @@
+titlebackground
+titlehouma
+titleprofile
+titlecontainsonenameorgan
+urlhttps://www.mylife.com/lance-leonard/e473281252062
+urlcom
+urlnoofpartslessthan7
+titlelance
+titlela
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlrank47
+urlmylife
+titlenoofwords_greater _than_10
+titlecom
+urlwww
+titlejoseph
+titleleonard
+urlrank
+titlemylife
+urlcontainsonenameorgan
+urllance
+urlhttps
+bodynoofwordslessthan50
+urlleonard

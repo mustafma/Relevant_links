@@ -1,0 +1,15 @@
+urljamesratwoodii
+urlwww
+urlprofile
+titlenoofwordslessthan5
+urllender
+urlzillow
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlhttps://www.zillow.com/lender-profile/jamesratwoodii/
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+urlrank44
+bodynoofentitynameindoclessthan3

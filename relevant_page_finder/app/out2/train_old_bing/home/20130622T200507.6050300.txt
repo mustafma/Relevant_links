@@ -1,0 +1,15 @@
+titlehome
+urlhttp
+urledu
+titleroy
+titlevan
+urlbvr
+titlepage
+urlnoofpartslessthan5
+titlebenjamin
+titlecontainsnamecombination
+urlstanford
+titlecontainsonenameorgan
+titlenoofwordslessthan7
+urlwww
+titlefullname

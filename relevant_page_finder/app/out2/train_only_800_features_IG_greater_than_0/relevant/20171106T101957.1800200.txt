@@ -1,0 +1,17 @@
+bodyload
+bodyla
+urlcom
+bodynoofentitynameindoclessthan3
+urlcontainsonenameorgan
+bodyfollow
+urlrank16
+bodysearch
+titlecontainsonenameorgan
+bodypost
+bodyfollowing
+bodycom
+bodycontainsonenameorgan
+bodyimagealtun
+bodydownload
+urlrank
+bodynoofwordslessthan100

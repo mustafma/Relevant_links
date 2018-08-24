@@ -1,0 +1,25 @@
+titleanna
+titlecongress
+titlefullname
+titlecontainsonenameorgan
+titlegeorges
+urlcom
+urlnoofpartslessthan7
+urlhttps://www.pinterest.com/pin/4503668348420892/
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titlenoofwords_greater _than_10
+titleeshoo
+titleca
+titlepinterest
+urlpin
+urlwww
+titlerepresentative
+titlegeorge
+urlrank
+titlepresent
+urlhttps
+urlrank30
+bodynoofwordslessthan50
+titlewomen
+urlpinterest

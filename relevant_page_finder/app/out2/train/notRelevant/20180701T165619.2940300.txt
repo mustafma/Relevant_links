@@ -1,0 +1,17 @@
+urlfinra
+titleinvestment
+titlebrokercheck
+titlefinancial
+urlhttp://brokercheck.finra.org/individual/2998294
+titleadvisor
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlbrokercheck
+urlorg
+bodynoofwordslessthan50
+titlenoofwordslessthan10
+bodynoofentitynameindoclessthan3
+titlebroker
+urlindividual
+urlrank15

@@ -1,0 +1,15 @@
+urlsenator
+urljoni
+titlenoofwordslessthan5
+urlhumanrights
+urlernst
+urlrank
+urlrank6
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlhttps
+urlhttps://humanrights.iowa.gov/us-senator-joni-k-ernst
+bodynoofwordslessthan50
+urliowa
+bodynoofentitynameindoclessthan3
+urlgov

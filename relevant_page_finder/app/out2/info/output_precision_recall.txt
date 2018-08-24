@@ -1,0 +1,110 @@
+Query: Dan Sullivan ,Expected page: [ https://www.sullivan.senate.gov/]
+Precision=0.9666666666666667
+Recall=0.8285714285714286
+google Precision=0.8536585365853658
+google resuls count=41
+Query: Mark Robert Warner ,Expected page: [ https://www.warner.senate.gov/public/]
+Precision=1.0
+Recall=0.896551724137931
+google Precision=0.8529411764705882
+google resuls count=34
+Query: christopher henry smith ,Expected page: [ https://chrissmith.house.gov/]
+Precision=0.75
+Recall=0.8571428571428571
+google Precision=0.4375
+google resuls count=32
+Query: Tim Walberg ,Expected page: [ https://walberg.house.gov/]
+Precision=1.0
+Recall=0.9411764705882353
+google Precision=0.8717948717948718
+google resuls count=39
+Query: Glenn Grothman ,Expected page: [ https://grothman.house.gov/]
+Precision=0.9090909090909091
+Recall=1.0
+google Precision=0.7692307692307693
+google resuls count=39
+Query: Norma Torres ,Expected page: [ http://www.normatorres.com/]
+Precision=0.9354838709677419
+Recall=0.9354838709677419
+google Precision=0.7948717948717948
+google resuls count=39
+Query: Lamar Smith ,Expected page: [ http://lamarsmith.house.gov/]
+Precision=0.8611111111111112
+Recall=0.96875
+google Precision=0.8
+google resuls count=40
+Query: Dave Trott ,Expected page: [ https://trott.house.gov/]
+Precision=0.8846153846153846
+Recall=0.9583333333333334
+google Precision=0.6857142857142857
+google resuls count=35
+Query: Thomas R. Suozzi ,Expected page: [ http://suozziforcongress.com/]
+Precision=1.0
+Recall=0.9130434782608695
+google Precision=0.696969696969697
+google resuls count=33
+Query: Mike Lee ,Expected page: [ https://www.lee.senate.gov/]
+Precision=0.9642857142857143
+Recall=0.9310344827586207
+google Precision=0.725
+google resuls count=40
+Query: Ann Wagner ,Expected page: [ https://annwagner.com/]
+Precision=0.9411764705882353
+Recall=0.9411764705882353
+google Precision=0.8292682926829268
+google resuls count=41
+Query: Scott Tipton ,Expected page: [ https://tipton.house.gov/]
+Precision=0.96875
+Recall=1.0
+google Precision=0.8157894736842105
+google resuls count=38
+Query: Adrian Michael Smith ,Expected page: [ http://www.joinadrian.com/]
+Precision=0.5714285714285714
+Recall=1.0
+google Precision=0.2222222222222222
+google resuls count=36
+Query: Jackie Speier ,Expected page: [ https://speier.house.gov/]
+Precision=1.0
+Recall=0.9714285714285714
+google Precision=0.8974358974358975
+google resuls count=39
+Query: Paul Tonko ,Expected page: [ https://tonko.house.gov/]
+Precision=1.0
+Recall=0.90625
+google Precision=0.8888888888888888
+google resuls count=36
+Query: Thom Tillis ,Expected page: [ https://www.tillis.senate.gov/]
+Precision=0.9705882352941176
+Recall=0.9166666666666666
+google Precision=0.8780487804878049
+google resuls count=41
+Query: Mark Walker ,Expected page: [ https://walker.house.gov/]
+Precision=0.9393939393939394
+Recall=0.9393939393939394
+google Precision=0.868421052631579
+google resuls count=38
+Query: Glenn Thompson ,Expected page: [ http://thompson.house.gov/]
+Precision=0.9354838709677419
+Recall=0.9666666666666667
+google Precision=0.6976744186046512
+google resuls count=43
+Query: Juan Vargas ,Expected page: [ http://www.votevargas.com/]
+Precision=0.84
+Recall=0.9545454545454546
+google Precision=0.6111111111111112
+google resuls count=36
+Query: Filemon Vela ,Expected page: [ https://vela.house.gov/]
+Precision=1.0
+Recall=0.9722222222222222
+google Precision=0.8780487804878049
+google resuls count=41
+
+
+End of file for reading
+
+
+
+Avg system Precision=0.9219037372205067
+Avg system Recall=0.9399218818636385
+Avg google Precision=0.7537295024937235
+Avg google list length per query=38.05

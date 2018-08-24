@@ -1,0 +1,13 @@
+urlwww
+urlsenate
+titlenoofwordslessthan5
+urlhttps://www.isakson.senate.gov/
+urlisakson
+urlrank
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlrank3
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlgov

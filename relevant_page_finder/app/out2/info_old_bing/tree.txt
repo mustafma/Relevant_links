@@ -1,0 +1,260 @@
+
+Classifier evaluation:
+----------------------
+
+Correctly Classified Instances         383               80.1255 %
+Incorrectly Classified Instances        95               19.8745 %
+Kappa statistic                          0.5972
+Mean absolute error                      0.2109
+Root mean squared error                  0.4349
+Relative absolute error                 42.773  %
+Root relative squared error             87.5851 %
+Coverage of cases (0.95 level)          83.682  %
+Mean rel. region size (0.95 level)      57.7406 %
+Total Number of Instances              478     
+
+
+Classifier description:
+-----------------------
+J48 unpruned tree
+------------------
+
+urlcs <= 0
+|   urlprofile <= 0
+|   |   bodyimagealtquantcast <= 0
+|   |   |   bodyaffiliations <= 0
+|   |   |   |   bodycookies <= 0
+|   |   |   |   |   bodywish <= 0
+|   |   |   |   |   |   bodycontacts <= 0
+|   |   |   |   |   |   |   bodyfollowed <= 0
+|   |   |   |   |   |   |   |   bodyimagealtphoto <= 0
+|   |   |   |   |   |   |   |   |   bodyinvestors <= 0
+|   |   |   |   |   |   |   |   |   |   urlstanford <= 0
+|   |   |   |   |   |   |   |   |   |   |   bodyfast <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   bodyrisk <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyenter <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyarea <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodykansas <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycomputational <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyforum <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytaylor <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyvideo <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyron <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodylike <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodygeneral <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyalon <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyconference <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybig <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodylaw <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofentitynameindoclessthan15 <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynamed <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlepage <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysupport <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlecontainsnamecombination <= 0: notHome (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlecontainsnamecombination > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyyoutube <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan50 <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlefullname <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybusiness <= 0: home (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybusiness > 0: notHome (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlefullname > 0: home (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan50 > 0: notHome (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyyoutube > 0: notHome (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysupport > 0: home (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlepage > 0: home (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynamed > 0: home (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofentitynameindoclessthan15 > 0: notHome (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodylaw > 0: home (11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybig > 0: notHome (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyconference > 0: notHome (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyalon > 0: notHome (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodygeneral > 0: notHome (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodylike > 0: notHome (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyron > 0: home (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyvideo > 0: notHome (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytaylor > 0: home (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyforum > 0: home (12.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycomputational > 0: notHome (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodykansas > 0: home (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyarea > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycurrent <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydevelopment <= 0: notHome (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydevelopment > 0: home (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycurrent > 0: notHome (15.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyenter > 0: notHome (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   bodyrisk > 0: notHome (12.0)
+|   |   |   |   |   |   |   |   |   |   |   bodyfast > 0: notHome (14.0)
+|   |   |   |   |   |   |   |   |   |   urlstanford > 0: home (13.0/1.0)
+|   |   |   |   |   |   |   |   |   bodyinvestors > 0: home (15.0/1.0)
+|   |   |   |   |   |   |   |   bodyimagealtphoto > 0: home (17.0/1.0)
+|   |   |   |   |   |   |   bodyfollowed > 0: home (19.0/1.0)
+|   |   |   |   |   |   bodycontacts > 0: notHome (15.0)
+|   |   |   |   |   bodywish > 0: notHome (17.0)
+|   |   |   |   bodycookies > 0: notHome (68.0/2.0)
+|   |   |   bodyaffiliations > 0: home (21.0/1.0)
+|   |   bodyimagealtquantcast > 0: notHome (37.0)
+|   urlprofile > 0: home (26.0/1.0)
+urlcs > 0: home (26.0)
+
+Number of Leaves  : 	39
+
+Size of the tree : 	77
+
+Graph:
+------
+digraph J48Tree {
+N0 [label="urlcs" ]
+N0->N1 [label="<= 0"]
+N1 [label="urlprofile" ]
+N1->N2 [label="<= 0"]
+N2 [label="bodyimagealtquantcast" ]
+N2->N3 [label="<= 0"]
+N3 [label="bodyaffiliations" ]
+N3->N4 [label="<= 0"]
+N4 [label="bodycookies" ]
+N4->N5 [label="<= 0"]
+N5 [label="bodywish" ]
+N5->N6 [label="<= 0"]
+N6 [label="bodycontacts" ]
+N6->N7 [label="<= 0"]
+N7 [label="bodyfollowed" ]
+N7->N8 [label="<= 0"]
+N8 [label="bodyimagealtphoto" ]
+N8->N9 [label="<= 0"]
+N9 [label="bodyinvestors" ]
+N9->N10 [label="<= 0"]
+N10 [label="urlstanford" ]
+N10->N11 [label="<= 0"]
+N11 [label="bodyfast" ]
+N11->N12 [label="<= 0"]
+N12 [label="bodyrisk" ]
+N12->N13 [label="<= 0"]
+N13 [label="bodyenter" ]
+N13->N14 [label="<= 0"]
+N14 [label="bodyarea" ]
+N14->N15 [label="<= 0"]
+N15 [label="bodykansas" ]
+N15->N16 [label="<= 0"]
+N16 [label="bodycomputational" ]
+N16->N17 [label="<= 0"]
+N17 [label="bodyforum" ]
+N17->N18 [label="<= 0"]
+N18 [label="bodytaylor" ]
+N18->N19 [label="<= 0"]
+N19 [label="bodyvideo" ]
+N19->N20 [label="<= 0"]
+N20 [label="bodyron" ]
+N20->N21 [label="<= 0"]
+N21 [label="bodylike" ]
+N21->N22 [label="<= 0"]
+N22 [label="bodygeneral" ]
+N22->N23 [label="<= 0"]
+N23 [label="bodyalon" ]
+N23->N24 [label="<= 0"]
+N24 [label="bodyconference" ]
+N24->N25 [label="<= 0"]
+N25 [label="bodybig" ]
+N25->N26 [label="<= 0"]
+N26 [label="bodylaw" ]
+N26->N27 [label="<= 0"]
+N27 [label="bodynoofentitynameindoclessthan15" ]
+N27->N28 [label="<= 0"]
+N28 [label="bodynamed" ]
+N28->N29 [label="<= 0"]
+N29 [label="titlepage" ]
+N29->N30 [label="<= 0"]
+N30 [label="bodysupport" ]
+N30->N31 [label="<= 0"]
+N31 [label="titlecontainsnamecombination" ]
+N31->N32 [label="<= 0"]
+N32 [label="notHome (7.0)" shape=box style=filled ]
+N31->N33 [label="> 0"]
+N33 [label="bodyyoutube" ]
+N33->N34 [label="<= 0"]
+N34 [label="bodynoofwordslessthan50" ]
+N34->N35 [label="<= 0"]
+N35 [label="titlefullname" ]
+N35->N36 [label="<= 0"]
+N36 [label="bodybusiness" ]
+N36->N37 [label="<= 0"]
+N37 [label="home (7.0/2.0)" shape=box style=filled ]
+N36->N38 [label="> 0"]
+N38 [label="notHome (2.0)" shape=box style=filled ]
+N35->N39 [label="> 0"]
+N39 [label="home (5.0)" shape=box style=filled ]
+N34->N40 [label="> 0"]
+N40 [label="notHome (2.0)" shape=box style=filled ]
+N33->N41 [label="> 0"]
+N41 [label="notHome (2.0)" shape=box style=filled ]
+N30->N42 [label="> 0"]
+N42 [label="home (4.0)" shape=box style=filled ]
+N29->N43 [label="> 0"]
+N43 [label="home (6.0)" shape=box style=filled ]
+N28->N44 [label="> 0"]
+N44 [label="home (7.0)" shape=box style=filled ]
+N27->N45 [label="> 0"]
+N45 [label="notHome (6.0)" shape=box style=filled ]
+N26->N46 [label="> 0"]
+N46 [label="home (11.0)" shape=box style=filled ]
+N25->N47 [label="> 0"]
+N47 [label="notHome (4.0)" shape=box style=filled ]
+N24->N48 [label="> 0"]
+N48 [label="notHome (5.0)" shape=box style=filled ]
+N23->N49 [label="> 0"]
+N49 [label="notHome (5.0)" shape=box style=filled ]
+N22->N50 [label="> 0"]
+N50 [label="notHome (8.0)" shape=box style=filled ]
+N21->N51 [label="> 0"]
+N51 [label="notHome (10.0)" shape=box style=filled ]
+N20->N52 [label="> 0"]
+N52 [label="home (10.0)" shape=box style=filled ]
+N19->N53 [label="> 0"]
+N53 [label="notHome (10.0)" shape=box style=filled ]
+N18->N54 [label="> 0"]
+N54 [label="home (8.0)" shape=box style=filled ]
+N17->N55 [label="> 0"]
+N55 [label="home (12.0/1.0)" shape=box style=filled ]
+N16->N56 [label="> 0"]
+N56 [label="notHome (7.0)" shape=box style=filled ]
+N15->N57 [label="> 0"]
+N57 [label="home (9.0)" shape=box style=filled ]
+N14->N58 [label="> 0"]
+N58 [label="bodycurrent" ]
+N58->N59 [label="<= 0"]
+N59 [label="bodydevelopment" ]
+N59->N60 [label="<= 0"]
+N60 [label="notHome (4.0)" shape=box style=filled ]
+N59->N61 [label="> 0"]
+N61 [label="home (2.0)" shape=box style=filled ]
+N58->N62 [label="> 0"]
+N62 [label="notHome (15.0)" shape=box style=filled ]
+N13->N63 [label="> 0"]
+N63 [label="notHome (10.0)" shape=box style=filled ]
+N12->N64 [label="> 0"]
+N64 [label="notHome (12.0)" shape=box style=filled ]
+N11->N65 [label="> 0"]
+N65 [label="notHome (14.0)" shape=box style=filled ]
+N10->N66 [label="> 0"]
+N66 [label="home (13.0/1.0)" shape=box style=filled ]
+N9->N67 [label="> 0"]
+N67 [label="home (15.0/1.0)" shape=box style=filled ]
+N8->N68 [label="> 0"]
+N68 [label="home (17.0/1.0)" shape=box style=filled ]
+N7->N69 [label="> 0"]
+N69 [label="home (19.0/1.0)" shape=box style=filled ]
+N6->N70 [label="> 0"]
+N70 [label="notHome (15.0)" shape=box style=filled ]
+N5->N71 [label="> 0"]
+N71 [label="notHome (17.0)" shape=box style=filled ]
+N4->N72 [label="> 0"]
+N72 [label="notHome (68.0/2.0)" shape=box style=filled ]
+N3->N73 [label="> 0"]
+N73 [label="home (21.0/1.0)" shape=box style=filled ]
+N2->N74 [label="> 0"]
+N74 [label="notHome (37.0)" shape=box style=filled ]
+N1->N75 [label="> 0"]
+N75 [label="home (26.0/1.0)" shape=box style=filled ]
+N0->N76 [label="> 0"]
+N76 [label="home (26.0)" shape=box style=filled ]
+}
+

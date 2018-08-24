@@ -1,0 +1,24 @@
+titlenoofwords_greater _than_10
+titlepinterest
+titlecongressio
+urlhttps://www.pinterest.com/pin/130111876717979704/
+urlpin
+titlearizona
+urlwww
+titleruben
+titlerepresentative
+titlecontainsonenameorgan
+titlegallego
+titlepolitician
+titlemarinelarena
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlhttps
+titleth
+bodynoofwordslessthan50
+titleamerican
+titlecontainsnamecombination
+urlrank24
+bodynoofentitynameindoclessthan3
+urlpinterest

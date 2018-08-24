@@ -1,0 +1,17 @@
+urlfinra
+titleinvestment
+titlebrokercheck
+titlefinancial
+titleadvisor
+urlnoofpartslessthan7
+urlrank
+urlbrokercheck
+urlorg
+urlhttps
+urlrank42
+bodynoofwordslessthan50
+titlenoofwordslessthan10
+bodynoofentitynameindoclessthan3
+titlebroker
+urlhttps://brokercheck.finra.org/individual/3208815
+urlindividual

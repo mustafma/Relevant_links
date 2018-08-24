@@ -1,0 +1,16 @@
+urlveasey
+urlarticle
+urlwww
+urltranscripts
+titlenoofwordslessthan5
+urlasp
+urlnoofpartslessthan10
+urlpolicyconference
+urlhttp
+urlrank
+urlcontainsonenameorgan
+urlorg
+urlhttp://www.policyconference.org/article/transcripts/2017/veasey.asp
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlrank48

@@ -1,0 +1,25 @@
+urlrank16
+titlehartzler
+titlecontainsonenameorgan
+titlejo
+titlepolitician
+urlcom
+urlnoofpartslessthan7
+titleserved
+titlecongr
+titleth
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titlemissouri
+titlenoofwords_greater _than_10
+titlepinteres
+urlpin
+urlwww
+titlerepresentative
+titlevicky
+urlhttps://www.pinterest.com/pin/130111876717759280/
+urlrank
+urlhttps
+bodynoofwordslessthan50
+titleamerican
+urlpinterest

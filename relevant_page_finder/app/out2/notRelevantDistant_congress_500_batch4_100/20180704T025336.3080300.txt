@@ -1,0 +1,27 @@
+titlehouse
+titlefullname
+titlecontainsonenameorgan
+titlecongressional
+urlhttps://www.pinterest.com/pin/130111876717629015/
+titlerepresentatives
+titlelocated
+urlcom
+titleking
+urlnoofpartslessthan7
+titlearnold
+titleth
+titlecontainsnamecombination
+urlrank24
+bodynoofentitynameindoclessthan3
+titlenoofwords_greater _than_10
+titlepinteres
+urlpin
+urlwww
+titlemember
+urlrank
+titleiowa
+titlesteven
+urlhttps
+titledistrict
+bodynoofwordslessthan50
+urlpinterest

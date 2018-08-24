@@ -1,0 +1,17 @@
+urlrank28
+urltweeters
+titlecongress
+urlwww
+urlsuzanne
+titletweet
+urltweetcongress
+titlenoofwordslessthan5
+urlbonamici
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlcontainsonenameorgan
+urlorg
+bodynoofwordslessthan50
+urlhttp://www.tweetcongress.org/tweeters/or/b001278-suzanne-bonamici
+bodynoofentitynameindoclessthan3

@@ -1,0 +1,24 @@
+titlenoofwords_greater _than_10
+titlefullname
+urlwww
+titlerepnormatorres
+titlecontainsonenameorgan
+urlrepnormatorres
+titlerep
+titlenorma
+titleinstagram
+urlcom
+urlfullname
+urlnoofpartslessthan7
+urlrank
+urlhttps://www.instagram.com/repnormatorres/
+urlcontainsonenameorgan
+urlcontainsnamecombination
+urlhttps
+titlevideos
+bodynoofwordslessthan50
+titlephotos
+titletorres
+bodynoofentitynameindoclessthan3
+urlrank48
+urlinstagram

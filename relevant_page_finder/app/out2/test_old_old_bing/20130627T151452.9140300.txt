@@ -1,0 +1,8 @@
+urljustinchiu
+urlnoofpartslessthan5
+urlhttp
+urlcom
+titlenoofwordslessthan5
+urlcontainsonenameorgan
+urlcontainsnamecombination
+urlfullname

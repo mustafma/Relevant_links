@@ -1,0 +1,15 @@
+urlhttp://waterloolaw.ca/findalawyer.php?id=103
+titlererouting
+titlewaterloolaw
+titleorg
+urlfindalawyer
+urlphp
+urlca
+urlid
+titlenoofwordslessthan5
+urlrank8
+urlhttp
+urlrank
+urlnoofpartslessthan5
+titlewww
+urlwaterloolaw

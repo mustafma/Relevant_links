@@ -1,0 +1,17 @@
+urlveasey
+urltortags
+urlwww
+urlhttps://www.apfa.org/component/tortags/tag/marc_veasey
+urltag
+titlenoofwordslessthan5
+urlnoofpartslessthan10
+urlmarc
+urlrank
+urlcontainsonenameorgan
+urlorg
+urlhttps
+urlapfa
+bodynoofwordslessthan50
+urlrank45
+bodynoofentitynameindoclessthan3
+urlcomponent

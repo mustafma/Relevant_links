@@ -1,0 +1,16 @@
+urlfamily
+urlshwartzman
+urlfacebook
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+bodyfacebook
+urlnoofpartslessthan7
+titleshwartzman
+urlru
+titlecontainsonenameorgan
+urlcom
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3
+bodycookie
+titlefacebook

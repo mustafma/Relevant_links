@@ -1,0 +1,24 @@
+urlhacmun
+titlehacmun
+titlelaw
+titleaviv
+titlecontainsonenameorgan
+titletel
+titleheskia
+urlnoofpartslessthan5
+titleisrael
+bodynoofentitynameindoclessthan3
+urlamos
+urlhttps://www.tel-aviv.law/amos-hacmun
+titlenoofwords_greater _than_10
+urlwww
+titleyafo
+urltel
+titlelawyer
+titlefirm
+urlaviv
+urllaw
+urlrank
+urlhttps
+bodynoofwordslessthan50
+urlrank15

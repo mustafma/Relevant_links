@@ -1,0 +1,13 @@
+urlhttps://www.hatch.senate.gov/
+urlwww
+urlsenate
+titlenoofwordslessthan5
+urlhatch
+urlrank
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlrank3
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlgov

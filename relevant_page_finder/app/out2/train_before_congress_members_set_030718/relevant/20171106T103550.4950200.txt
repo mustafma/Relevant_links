@@ -1,0 +1,15 @@
+urldarrell
+urlwww
+urlhttp://www.igmchicago.org/participants/darrell-duffie
+urlduffie
+titlenoofwordslessthan5
+urligmchicago
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlcontainsonenameorgan
+urlorg
+urlrank10
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlparticipants

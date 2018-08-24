@@ -1,0 +1,17 @@
+bodycookies
+titleelizabeth
+urlfacebook
+urlcontainsonenameorgan
+urlhttps
+urlelizabeth
+bodynoofwordslessthan50
+titleduke
+urlnoofpartslessthan5
+bodyfacebook
+titlecontainsnamecombination
+titlecontainsonenameorgan
+urlcom
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3
+urlduke

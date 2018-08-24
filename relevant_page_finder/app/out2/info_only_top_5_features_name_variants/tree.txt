@@ -1,0 +1,190 @@
+
+Confusion matrix:
+-----------------------
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 0 0 | a = notRelevant
+ 0 0 | b = relevant
+
+WEKA Attribute IG Stats:
+
+bodycontainsnamecombination	0.0400946018785695
+bodyfullname	0.03654013844464987
+titlefullname	0.03701221120088405
+urlcontainsnamecombination	0.002087382813630523
+urlcontainsonenameorgan	0.034543212746565244
+
+Classifier description:
+-----------------------
+All the base classifiers: 
+
+
+REPTree
+============
+
+titlefullname < 0.5
+|   urlcontainsonenameorgan < 0.5 : notRelevant (123/42) [68/23]
+|   urlcontainsonenameorgan >= 0.5 : relevant (251/77) [131/26]
+titlefullname >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   bodyfullname < 0.5 : notRelevant (3/1) [2/0]
+|   |   bodyfullname >= 0.5 : relevant (229/56) [98/29]
+|   urlcontainsonenameorgan >= 0.5 : relevant (769/116) [389/64]
+
+Size of the tree : 9
+
+
+REPTree
+============
+
+urlcontainsonenameorgan < 0.5
+|   titlefullname < 0.5 : notRelevant (134/37) [61/18]
+|   titlefullname >= 0.5
+|   |   bodyfullname < 0.5 : notRelevant (5/1) [3/1]
+|   |   bodyfullname >= 0.5 : relevant (212/60) [113/30]
+urlcontainsonenameorgan >= 0.5 : relevant (1024/182) [511/97]
+
+Size of the tree : 7
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   urlcontainsonenameorgan < 0.5 : notRelevant (61/19) [32/11]
+|   urlcontainsonenameorgan >= 0.5 : relevant (153/61) [70/25]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   titlefullname < 0.5 : notRelevant (75/28) [33/12]
+|   |   titlefullname >= 0.5 : relevant (216/51) [111/31]
+|   urlcontainsonenameorgan >= 0.5 : relevant (870/124) [442/65]
+
+Size of the tree : 9
+
+
+REPTree
+============
+
+urlcontainsonenameorgan < 0.5
+|   titlefullname < 0.5 : notRelevant (131/45) [60/19]
+|   titlefullname >= 0.5 : relevant (222/63) [106/24]
+urlcontainsonenameorgan >= 0.5 : relevant (1022/184) [522/101]
+
+Size of the tree : 5
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   urlcontainsonenameorgan < 0.5 : notRelevant (63/23) [41/14]
+|   urlcontainsonenameorgan >= 0.5 : relevant (144/64) [62/23]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   titlefullname < 0.5 : notRelevant (55/25) [40/18]
+|   |   titlefullname >= 0.5 : relevant (215/52) [109/25]
+|   urlcontainsonenameorgan >= 0.5 : relevant (898/129) [436/61]
+
+Size of the tree : 9
+
+
+REPTree
+============
+ : relevant (1375/323) [688/161]
+
+Size of the tree : 1
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   urlcontainsonenameorgan < 0.5 : notRelevant (69/25) [32/12]
+|   urlcontainsonenameorgan >= 0.5
+|   |   urlcontainsnamecombination < 0.5
+|   |   |   titlefullname < 0.5 : relevant (99/40) [62/28]
+|   |   |   titlefullname >= 0.5 : notRelevant (24/12) [12/5]
+|   |   urlcontainsnamecombination >= 0.5 : relevant (6/0) [8/4]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   titlefullname < 0.5 : notRelevant (66/29) [32/11]
+|   |   titlefullname >= 0.5 : relevant (228/60) [91/23]
+|   urlcontainsonenameorgan >= 0.5 : relevant (883/133) [451/60]
+
+Size of the tree : 13
+
+
+REPTree
+============
+
+titlefullname < 0.5
+|   urlcontainsonenameorgan < 0.5 : notRelevant (119/47) [60/23]
+|   urlcontainsonenameorgan >= 0.5 : relevant (233/66) [130/32]
+titlefullname >= 0.5 : relevant (1023/180) [498/90]
+
+Size of the tree : 5
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   urlcontainsonenameorgan < 0.5 : notRelevant (48/15) [21/9]
+|   urlcontainsonenameorgan >= 0.5 : relevant (154/71) [66/25]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   titlefullname < 0.5 : notRelevant (64/22) [32/8]
+|   |   titlefullname >= 0.5 : relevant (239/57) [108/33]
+|   urlcontainsonenameorgan >= 0.5 : relevant (870/118) [461/67]
+
+Size of the tree : 9
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   urlcontainsonenameorgan < 0.5 : notRelevant (61/23) [40/14]
+|   urlcontainsonenameorgan >= 0.5 : relevant (144/62) [58/25]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   titlefullname < 0.5 : notRelevant (54/21) [38/17]
+|   |   titlefullname >= 0.5 : relevant (225/59) [101/27]
+|   urlcontainsonenameorgan >= 0.5 : relevant (891/130) [451/62]
+
+Size of the tree : 9
+
+
+
+Confusion matrix after cross validation:
+-----------------------
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+  124  367 |    a = notRelevant
+   68 1504 |    b = relevant
+
+class notRelevant webpage
+F1: 0.363103953147877
+Prec: 0.6458333333333334
+Recall: 0.2525458248472505
+class relevant webpage 
+F1: 0.8736566947429568
+Prec: 0.8038482095136291
+Recall: 0.9567430025445293
+
+Classifier evaluation:
+----------------------
+
+Correctly Classified Instances        1628               78.9142 %
+Incorrectly Classified Instances       435               21.0858 %
+Kappa statistic                          0.2647
+Mean absolute error                      0.3211
+Root mean squared error                  0.3985
+Relative absolute error                 88.4827 %
+Root relative squared error             93.586  %
+Coverage of cases (0.95 level)         100      %
+Mean rel. region size (0.95 level)     100      %
+Total Number of Instances             2063     
+

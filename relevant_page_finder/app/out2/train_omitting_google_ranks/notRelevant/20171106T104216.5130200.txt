@@ -1,0 +1,13 @@
+urlwww
+urlphp
+urlpaper
+titlenoofwordslessthan5
+urlocs
+titlecarlson
+urlorg
+urlindex
+urlhttps://www.aaai.org/ocs/index.php/aaai/aaai10/paper/view/1879
+urlaaai
+urlnoofpartsgreaterthan10
+urlhttps
+urlview

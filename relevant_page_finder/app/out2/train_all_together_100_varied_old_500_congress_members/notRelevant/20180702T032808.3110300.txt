@@ -1,0 +1,11 @@
+urlrank16
+urlhttps://horizonweekly.ca/en/66135-2/
+urlnoofpartslessthan7
+urlrank
+urlhttps
+urlhorizonweekly
+bodynoofwordslessthan50
+urlca
+bodynoofentitynameindoclessthan3
+urlen
+titlenoofwordslessthan5

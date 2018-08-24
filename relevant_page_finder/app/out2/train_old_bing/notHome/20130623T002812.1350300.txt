@@ -1,0 +1,17 @@
+bodycookies
+urlhttp
+titleyitzhak
+urlfacebook
+urlcontainsonenameorgan
+titlefogel
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+bodyfacebook
+titlecontainsnamecombination
+titlecontainsonenameorgan
+urlyitzhak
+urlfogel
+urlcom
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3

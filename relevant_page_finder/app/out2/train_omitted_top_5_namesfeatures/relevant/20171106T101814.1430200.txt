@@ -1,0 +1,17 @@
+urlpages
+urlwww
+urlaspx
+urlhttps://www.haifa.muni.il/english/mayorsoffice/pages/default.aspx
+urldefault
+titlenoofwordslessthan5
+urlenglish
+urlnoofpartslessthan10
+urlrank
+urlmuni
+urlil
+urlhttps
+urlrank2
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlhaifa
+urlmayorsoffice

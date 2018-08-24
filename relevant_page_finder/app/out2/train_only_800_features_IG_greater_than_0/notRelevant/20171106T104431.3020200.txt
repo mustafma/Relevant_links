@@ -1,0 +1,11 @@
+bodycontainsnamecombination
+titlefullname
+titlecontainsonenameorgan
+bodyth
+urlcom
+titlecontainsnamecombination
+bodyaugust
+bodycontainsonenameorgan
+bodyfullname
+urlrank
+bodynoofwordslessthan50

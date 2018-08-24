@@ -1,0 +1,14 @@
+urlrank16
+urlsteve
+urlbacic
+titlenoofwordslessthan5
+urlhttp://performersmanagement.com/portfolio/steve-bacic-2/
+urlcom
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlcontainsonenameorgan
+urlperformersmanagement
+urlportfolio
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

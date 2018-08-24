@@ -1,0 +1,13 @@
+urlhttps://www.feinstein.senate.gov/
+urlwww
+urlsenate
+titlenoofwordslessthan5
+urlrank
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlhttps
+urlrank2
+bodynoofwordslessthan50
+urlfeinstein
+bodynoofentitynameindoclessthan3
+urlgov

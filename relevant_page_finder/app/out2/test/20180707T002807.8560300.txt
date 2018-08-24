@@ -1,0 +1,16 @@
+urlhttps://www.arcgis.com/home/item.html?id=70e424f4368d433984b5459f909dcbf1
+urlarcgis
+urlitem
+urlwww
+urlhome
+urlid
+titlenoofwordslessthan5
+urldcbf
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlhtml
+urlrank37

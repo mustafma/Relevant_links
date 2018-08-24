@@ -1,0 +1,13 @@
+urlhttps://www.enzi.senate.gov/
+urlenzi
+urlwww
+urlsenate
+titlenoofwordslessthan5
+urlrank8
+urlrank
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlgov

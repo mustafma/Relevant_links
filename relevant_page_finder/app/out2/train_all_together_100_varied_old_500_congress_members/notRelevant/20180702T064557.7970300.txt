@@ -1,0 +1,25 @@
+titleclay
+titlelaw
+titlecontainsonenameorgan
+titlehiggins
+titlepolitician
+urlcom
+urlnoofpartslessthan7
+urlhttps://www.pinterest.com/pin/130111876717710812/
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titleglen
+titlenoofwords_greater _than_10
+titlepinteres
+titlelouis
+urlpin
+titleofficer
+urlwww
+titlerepresentative
+titlelouisiana
+urlrank
+titleenforcement
+urlhttps
+bodynoofwordslessthan50
+urlrank14
+urlpinterest

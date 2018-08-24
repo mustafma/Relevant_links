@@ -1,0 +1,16 @@
+urlrank16
+urlarticle
+urlwww
+urltranscripts
+titlenoofwordslessthan5
+urlmenendez
+urlasp
+urlnoofpartslessthan10
+urlpolicyconference
+urlhttp
+urlrank
+urlcontainsonenameorgan
+urlorg
+urlhttp://www.policyconference.org/article/transcripts/2018/menendez.asp
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

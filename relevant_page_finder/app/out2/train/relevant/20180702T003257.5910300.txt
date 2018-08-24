@@ -1,0 +1,15 @@
+urlmd
+urlwww
+urlhttps://www.md.com/doctor/daniel-k-davis-md
+titlenoofwordslessthan5
+urlcom
+urldaniel
+urlnoofpartslessthan7
+urldoctor
+urlrank
+urlcontainsonenameorgan
+urlhttps
+urlrank20
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urldavis

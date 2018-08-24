@@ -1,0 +1,13 @@
+urlhttp
+urlmartinschneider
+urlcontainsonenameorgan
+urlfullname
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+titlecontainsonenameorgan
+titlemartinschneider
+urlcom
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3
+urlcontainsnamecombination
+titlefullname

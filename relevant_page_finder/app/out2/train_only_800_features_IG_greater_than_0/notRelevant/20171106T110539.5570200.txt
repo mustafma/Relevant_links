@@ -1,0 +1,8 @@
+bodyil
+bodyimagealt
+bodygov
+bodyimagesrccontainsonenameorgan
+urlrank
+bodynoofwordsgreaterthan500
+bodynoofentitynameindoclessthan3
+bodynet

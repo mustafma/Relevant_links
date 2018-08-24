@@ -1,0 +1,17 @@
+bodycontainsnamecombination
+titlefullname
+titlecontainsonenameorgan
+bodyimagesrccontainsonenameorgan
+bodycom
+bodyitaliano
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfran
+bodyimagealt
+bodyfullname
+bodydeutsch
+bodyais
+urlrank
+urlil
+bodyenglish

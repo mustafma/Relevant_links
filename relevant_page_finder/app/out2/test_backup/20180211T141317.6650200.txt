@@ -1,0 +1,12 @@
+urllisper
+urllittle
+urlhttp
+urlrank
+urlnoofpartslessthan5
+urlorg
+urlrank2
+urlwww
+urlhttp://www.little-lisper.org/
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+titlenoofwordslessthan5

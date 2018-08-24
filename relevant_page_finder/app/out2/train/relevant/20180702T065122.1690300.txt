@@ -1,0 +1,17 @@
+urlhttps://www.apfa.org/component/tortags/tag/drew_ferguson
+urltortags
+urlwww
+urltag
+urldrew
+titlenoofwordslessthan5
+urlnoofpartslessthan10
+urlferguson
+urlrank
+urlcontainsonenameorgan
+urlorg
+urlhttps
+urlapfa
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlcomponent
+urlrank47

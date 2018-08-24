@@ -1,0 +1,13 @@
+urlhacmun
+urlwww
+urlhg
+titlenoofwordslessthan5
+urlhttps://www.hg.org/lawyer/amos-hacmun/113570
+urlnoofpartslessthan7
+urllawyer
+urlcontainsonenameorgan
+urlorg
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlamos

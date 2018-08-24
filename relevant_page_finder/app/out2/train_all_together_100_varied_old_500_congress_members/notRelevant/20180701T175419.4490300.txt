@@ -1,0 +1,20 @@
+titlenoofwords_greater _than_10
+urluk
+titleblockbusters
+urlmajestic
+titlecinema
+titlecontainsonenameorgan
+titlelatest
+titleshowtimes
+urlrank
+titlekings
+urlnoofpartslessthan5
+urlrank50
+urlhttps
+urlcinema
+titlemajestic
+bodynoofwordslessthan50
+titlelynn
+bodynoofentitynameindoclessthan3
+titlefilms
+urlhttps://majestic-cinema.co.uk/

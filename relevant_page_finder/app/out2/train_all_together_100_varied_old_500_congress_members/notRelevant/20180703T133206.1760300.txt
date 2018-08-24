@@ -1,0 +1,26 @@
+titledolton
+titlebackground
+titleprofile
+urlkinzinger
+titlecontainsonenameorgan
+urlcom
+urlnoofpartslessthan7
+urlzarker
+titlecontainsnamecombination
+urlrank24
+bodynoofentitynameindoclessthan3
+urlmylife
+urladam
+titleadam
+titlenoofwords_greater _than_10
+titlecom
+urlhttps://www.mylife.com/adam-kinzinger/zarker4322x
+urlwww
+titleil
+titledaniel
+urlrank
+titlekinzinger
+titlemylife
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50

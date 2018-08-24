@@ -1,0 +1,3274 @@
+
+Confusion matrix:
+-----------------------
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 0 0 | a = notRelevant
+ 0 0 | b = relevant
+
+WEKA Attribute IG Stats:
+
+//www	0.0
+_than_10	0.0
+bodyabstract	0.0
+bodyac	0.019463455085737436
+bodyacademic	0.007418525724808944
+bodyaccess	0.0
+bodyaccessibility	0.0
+bodyaccording	0.0037647830096522172
+bodyaccount	0.0
+bodyaccounts	0.0
+bodyaction	0.013338582410393096
+bodyactive	0.007480008265298932
+bodyactivities	0.0
+bodyad	0.003175912034961703
+bodyadd	0.0023834307985673986
+bodyadded	0.0
+bodyadditional	0.0
+bodyaddress	0.004025093134035762
+bodyads	0.005586656833061809
+bodyadvanced	0.003488653292712751
+bodyadvertise	0.0
+bodyadvertising	0.013086931534598722
+bodyadvice	0.0
+bodyaffiliate	0.009813857336346543
+bodyaffiliates	0.006878864960341846
+bodyafrica	0.0
+bodyage	0.005015585940230993
+bodyago	0.0
+bodyagreeing	0.002483637338013267
+bodyagreement	0.0
+bodyair	0.002175374718809686
+bodyais	0.01854707781300413
+bodyal	0.0
+bodyalerts	0.0
+bodyalt	0.013857145184610564
+bodyamazon	0.0
+bodyamerica	0.0024641325070595688
+bodyamerican	0.016933525536428795
+bodyamir	0.0
+bodyanalysis	0.009428683114057868
+bodyannual	0.01596735695543894
+bodyapp	0.004145031333308236
+bodyapplication	0.009590049755712093
+bodyapplications	0.004532944614145995
+bodyapplied	0.0
+bodyapproach	0.009534347069569238
+bodyapps	0.003701728456692699
+bodyapril	0.00775892596398331
+bodyarchive	0.0
+bodyarea	0.0050174673456709895
+bodyareas	0.005167489586553886
+bodyart	0.0
+bodyarticle	0.015465087492843144
+bodyarticles	0.004510195644119586
+bodyarts	0.0
+bodyasia	0.0
+bodyask	0.006495702724848451
+bodyasked	0.0
+bodyassistant	0.0
+bodyassociation	0.00458979148714922
+bodyaudible	0.011031880001889482
+bodyaudio	0.002791106898466067
+bodyaugust	0.002892668006082566
+bodyaustralia	0.0
+bodyauthor	0.0
+bodyauthors	0.0032232311052131646
+bodyavailable	0.003912632544552874
+bodyaviv	0.0032421079645165163
+bodyaward	0.0037514053030098804
+bodyawards	0.0019520963190773344
+bodyaxis	0.0
+bodybaby	0.008446379583548436
+bodybad	0.0
+bodybank	0.016129395473363894
+bodybanking	0.011059266945520618
+bodybar	0.0020832290850626434
+bodybased	0.011377999592059096
+bodybeauty	0.006651766781566315
+bodybelieve	0.0
+bodyben	0.016952838275908988
+bodybest	0.0029906897402300903
+bodybetter	0.0
+bodybig	0.017507512408592163
+bodybiography	0.0
+bodybit	0.0
+bodyblock	0.0
+bodyblocked	0.0
+bodyblog	0.0
+bodyboard	0.01796569414862259
+bodybook	0.0
+bodybooks	0.002263432736038351
+bodyborn	0.006112546324491763
+bodybox	0.0
+bodybrands	0.007547645399887504
+bodybrasil	0.01267944520378883
+bodybrazil	0.0
+bodybrowse	0.0
+bodybrowser	0.0
+bodybuilding	0.003340137417200184
+bodybusiness	0.00804003266942066
+bodybutton	0.0026935491130599676
+bodybuy	0.0
+bodyca	0.0
+bodycalendar	0.0025240205466994237
+bodycalifornia	0.007924683444619274
+bodycalled	0.005922406453248263
+bodycanada	0.0
+bodycancel	0.0
+bodycapacity	0.0
+bodycapital	0.009038782157507752
+bodycard	0.0057851292816866184
+bodycards	0.00798160531228409
+bodycare	0.0
+bodycareer	0.015030284228983226
+bodycareers	0.0041093598323932445
+bodycase	0.008397415090673155
+bodycatch	0.0
+bodycelebrities	0.0025835837478318524
+bodycelebrity	0.0
+bodycell	0.0
+bodycenter	0.007108797775705722
+bodycentral	0.0
+bodychair	0.004952881596503533
+bodychairman	0.016645943593972312
+bodychange	0.0
+bodychapter	0.0
+bodycharacters	0.0
+bodycharts	0.0
+bodycheck	0.0
+bodychildren	0.0
+bodychina	0.0
+bodychoice	0.0
+bodychoices	0.0
+bodychoose	0.0
+bodycitation	0.0
+bodycity	0.0
+bodyclass	0.008099804744091887
+bodyclear	0.0
+bodyclick	0.0021102820654952392
+bodyclose	0.0
+bodycloud	0.0
+bodyclub	0.0
+bodycode	0.0
+bodycodes	0.0
+bodycollege	0.0047093935186449665
+bodycom	0.0
+bodycome	0.003343345375619866
+bodycomics	0.015145409787762465
+bodycoming	0.0033438172645295916
+bodycomment	0.0
+bodycomments	0.0
+bodycommercial	0.0029456935968581455
+bodycommittee	0.004159576703654522
+bodycommunity	0.004025093134035762
+bodycompanies	0.007061115758162817
+bodycompany	0.01390908516338163
+bodycomplete	0.0
+bodycomputers	0.0
+bodycomputing	0.0019575778710612113
+bodyconditions	0.0
+bodyconference	0.015873831743336453
+bodyconfirmation	0.0
+bodyconnect	0.0024187176812662248
+bodycontact	0.011928633811430722
+bodycontainsnamecombination	0.049827507658263825
+bodycontainsonenameorgan	0.01769448447315025
+bodycontent	0.0
+bodycontinue	0.0
+bodycontribute	0.0
+bodycontributor	0.0
+bodycontrol	0.00863993722648504
+bodyconversation	0.0
+bodyconversations	0.0
+bodycookie	0.011303518574808047
+bodycookies	0.014354135338120577
+bodycopy	0.0019675228495196206
+bodycopyright	0.0
+bodycorporate	0.0023181449246902908
+bodycountries	0.0
+bodycountry	0.0
+bodycourse	0.0
+bodycourses	0.0
+bodycreate	0.0020406838553556073
+bodycreated	0.004952881596503533
+bodycreative	0.0
+bodycredit	0.0
+bodycredits	0.0
+bodyculture	0.0031804703852325034
+bodycurrency	0.006663243040955447
+bodycurrent	0.0
+bodycurrently	0.0
+bodycustomer	0.0
+bodycustomers	0.0
+bodydaily	0.0
+bodydan	0.0
+bodydaniel	0.0
+bodydansk	0.0022817720252691354
+bodydata	0.007540740414776481
+bodydatabase	0.0
+bodydate	0.0
+bodydavid	0.009521145094634531
+bodyday	0.0
+bodydays	0.0022776302953808614
+bodydeal	0.00258385514744075
+bodydeals	0.002834499461341178
+bodydecember	0.0022349744916079217
+bodydecision	0.008180159796136066
+bodydefense	0.00688580624229973
+bodydegree	0.006581509737448865
+bodydelete	0.004630795429608203
+bodydelivery	0.0019730933985542265
+bodydepartment	0.0
+bodydepartments	0.005527522813249641
+bodydepository	0.008359434677882582
+bodydescription	0.008255714483175414
+bodydesign	0.012005629274417617
+bodydetails	0.0
+bodydeutsch	0.021113613635023287
+bodydeveloper	0.0
+bodydevelopers	0.0
+bodydevelopment	0.007024662644416257
+bodydevices	0.008407229544804551
+bodydid	0.002790469538016982
+bodydifferent	0.007970895688903079
+bodydigital	0.0
+bodydirect	0.0021284368438773127
+bodydirector	0.0021518520117136397
+bodydirectory	0.0
+bodydiscover	0.005630027922511549
+bodydistribution	0.0
+bodydivision	0.0
+bodydoes	0.01180236455536876
+bodydon	0.0
+bodydownload	0.006089210831509373
+bodydpreview	0.007855047763732581
+bodydr	0.0
+bodydrive	0.0
+bodyearly	0.014541741230024718
+bodyeasily	0.0
+bodyeast	0.0
+bodyeasy	0.007701042196871288
+bodyebooks	0.012127856098507528
+bodyeconomic	0.029381970012507863
+bodyeconomics	0.015186203851374258
+bodyeconomy	0.01381207456310296
+bodyedit	0.0
+bodyedition	0.0030643572020800924
+bodyeditor	0.0020542025059079316
+bodyeditorial	0.0019730933985542265
+bodyeducation	0.006425458556850616
+bodyeducational	0.0
+bodyel	0.0
+bodyeli	0.0
+bodyemail	0.014762734344145101
+bodyembed	0.0
+bodyen	0.004694952918023687
+bodyenable	0.0
+bodyend	0.004432362198106832
+bodyenergy	0.008113215228684023
+bodyengineering	0.008199447676745963
+bodyenglish	0.02833930951092245
+bodyenjoy	0.0047731558817192266
+bodyenter	0.0
+bodyentertainment	0.0
+bodyenvironment	0.0031399312244471123
+bodyerror	0.0
+bodyespa	0.01835621888176675
+bodyestate	0.015369086413725253
+bodyeurope	0.00258385514744075
+bodyeuropean	0.0
+bodyevent	0.004579909513531155
+bodyevents	0.007411992226967312
+bodyeveryday	0.012544473196151928
+bodyexclusive	0.0
+bodyexecutive	0.007831582246950353
+bodyexperience	0.010482562679275165
+bodyexplore	0.0
+bodyexternal	0.0
+bodyfacebook	0.0
+bodyfaculty	0.006145111350116972
+bodyfalse	0.0026884520947795254
+bodyfamily	0.004649526335618326
+bodyfantasy	0.0
+bodyfaq	0.0
+bodyfashion	0.0
+bodyfast	0.0
+bodyfavorite	0.0
+bodyfeatured	0.0035686147401352564
+bodyfeatures	0.0
+bodyfebruary	0.0060132298793657
+bodyfeedback	0.0
+bodyfellow	0.0020542025059079316
+bodyfestival	0.0
+bodyfield	0.006561577223603732
+bodyfilm	0.0
+bodyfilter	0.0030982297227291067
+bodyfinal	0.0
+bodyfinance	0.013827481005003084
+bodyfinancial	0.03437561150602553
+bodyfine	0.0
+bodyfirm	0.005291069678084126
+bodyfocus	0.009590049755712093
+bodyfollow	0.0135959071095203
+bodyfollowed	0.0
+bodyfollowers	0.0
+bodyfollowing	0.014784687594531332
+bodyfood	0.0
+bodyfoods	0.013913748952900318
+bodyforce	0.0
+bodyforeign	0.0
+bodyforgot	0.0
+bodyform	0.0
+bodyformat	0.01010461318711553
+bodyforum	0.0
+bodyforward	0.0
+bodyfoundation	0.0
+bodyfran	0.016281786644620877
+bodyfrance	0.0048506436721192925
+bodyfree	0.0
+bodyfrequently	0.0
+bodyfriend	0.0
+bodyfriends	0.0024818387752947313
+bodyfullname	0.04605831134123273
+bodyfun	0.0
+bodyfund	0.0037647830096522172
+bodyfunds	0.0033639736090289585
+bodyfuture	0.010432551833664871
+bodygallery	0.0019575778710612113
+bodygame	0.010249700026833897
+bodygames	0.0
+bodygarden	0.0020039974469364674
+bodygeneral	0.0
+bodygeorge	0.002210773795146115
+bodygermany	0.0
+bodygetting	0.0
+bodygift	0.0
+bodygirls	0.006752765713813558
+bodygiven	0.003751618663909384
+bodygiving	0.0
+bodyglobal	0.025503897642318862
+bodygoing	0.0020832290850626434
+bodygood	0.006710213901057527
+bodygoodreads	0.02318705407459709
+bodygoogle	0.004758258629316892
+bodygot	0.004416080723739224
+bodygovernment	0.008327684314260453
+bodygraduate	0.0056318410422872
+bodygreat	0.009000430753441258
+bodygroup	0.004354334261292725
+bodygroups	0.0
+bodygrowth	0.003972253384657121
+bodyguide	0.0
+bodyguidelines	0.0
+bodyhaifa	0.010860665742449704
+bodyhappen	0.0
+bodyhappy	0.0
+bodyhard	0.0038029879366360264
+bodyhaving	0.0
+bodyhead	0.004160253349439147
+bodyhealth	0.0
+bodyheart	0.0
+bodyheld	0.0031414514267810167
+bodyhello	0.008132156395842416
+bodyhelp	0.0
+bodyhigh	0.012549524094467857
+bodyhigher	0.0038029879366360264
+bodyhistorical	0.0
+bodyhistory	0.0
+bodyhome	0.0
+bodyhope	0.0
+bodyhour	0.005050297694246586
+bodyhours	0.0
+bodyhouse	0.0
+bodyhrvatski	0.0020831546410812196
+bodyhttp	0.0
+bodyhttps	0.0
+bodyhuman	0.009806298445851125
+bodyid	0.0
+bodyideas	0.0
+bodyii	0.0
+bodyil	0.0018523889908149682
+bodyimage	0.0
+bodyimagealt	0.0
+bodyimagealta	0.0
+bodyimagealtfacebook	0.0
+bodyimagealtlogo	0.0
+bodyimagealtof	0.0
+bodyimagealts	0.0025489496244297527
+bodyimagealtthe	0.0019414611771305657
+bodyimagealtto	0.0
+bodyimagealttwitter	0.0
+bodyimages	0.006012228049448565
+bodyimagesrccontainsonenameorgan	0.009021210166791471
+bodyimdb	0.00780988595224108
+bodyimdbpro	0.004969907335515167
+bodyimpact	0.015921902520223186
+bodyimportant	0.003202473400310657
+bodyimprove	0.0
+bodyimprovement	0.002849401631041304
+bodyina	0.0037014966248324344
+bodyinclude	0.0
+bodyincluding	0.008607343578122206
+bodyindex	0.03128376057164295
+bodyindia	0.0
+bodyindie	0.006651766781566315
+bodyindonesia	0.0
+bodyindustrial	0.0
+bodyindustry	0.006170714919788933
+bodyinfo	0.0
+bodyinformation	0.005995539709082287
+bodyinsight	0.0
+bodyinstagram	0.0
+bodyinstant	0.002483637338013267
+bodyinstitute	0.016525669928535436
+bodyinstruments	0.012152750669362833
+bodyinteresting	0.0
+bodyinternational	0.01919926902382796
+bodyinternet	0.008397415090673155
+bodyintroduction	0.0
+bodyinvestment	0.003953415539024729
+bodyinvestor	0.0
+bodyireland	0.003255245804781426
+bodyisrael	0.0030673212429597196
+bodyisraeli	0.0
+bodyissue	0.0023808383249712683
+bodyissues	0.00887644475135052
+bodyitaliano	0.017706037199335167
+bodyitaly	0.0
+bodyitems	0.0
+bodyjan	0.006140647560517798
+bodyjanuary	0.007253912656721151
+bodyjapan	0.0
+bodyjavascript	0.0
+bodyjerusalem	0.0
+bodyjewish	0.0
+bodyjob	0.005460321586339689
+bodyjobs	0.006648521695950094
+bodyjohn	0.002784066638280458
+bodyjohnson	0.0
+bodyjoin	0.0
+bodyjoined	0.0
+bodyjournal	0.021580284887452672
+bodyjournals	0.0035435565428488802
+bodyjul	0.00423972580600962
+bodyjuly	0.009513941878413257
+bodyjump	0.0
+bodyjun	0.0023266097725184176
+bodyjune	0.009086697428409396
+bodyjust	0.0027023376543483524
+bodykey	0.010101737164584734
+bodykids	0.0
+bodykingdom	0.0
+bodyknow	0.0
+bodyknowledge	0.020861821400998015
+bodyknown	0.015219471622150316
+bodyla	0.0
+bodylanguage	0.004659426025760749
+bodylarge	0.010174409674539975
+bodylater	0.008822008456427222
+bodylatest	0.0
+bodylaw	0.004006169703627216
+bodyleadership	0.00957906909839068
+bodyleading	0.007311304963911747
+bodylearn	0.0
+bodylearning	0.009086697428409396
+bodyleft	0.0
+bodylegal	0.0048897658492347285
+bodylet	0.0
+bodylevel	0.009130646589508795
+bodylibrary	0.0018981841663164856
+bodylife	0.007245424044721505
+bodylike	0.0
+bodyliked	0.0
+bodylikes	0.0
+bodylimited	0.0033479193783911843
+bodyline	0.002892668006082566
+bodylink	0.0
+bodylinkedin	0.007297019492616297
+bodylinks	0.0
+bodylist	0.0023237087895547903
+bodylists	0.0
+bodylite	0.015743617435331703
+bodyliterature	0.0
+bodylittle	0.0
+bodylive	0.0
+bodyll	0.0
+bodyload	0.0
+bodyloading	0.003139339725107715
+bodylocal	0.0
+bodylocation	0.0036558850447344637
+bodylog	0.0
+bodylogin	0.0018490095835165254
+bodylondon	0.005309657823386327
+bodylong	0.007275953891696663
+bodylook	0.006235309042051718
+bodylooking	0.0
+bodylot	0.0
+bodylove	0.0
+bodyma	0.0
+bodymagazine	0.007622396751984395
+bodymagyar	0.0020831546410812196
+bodymail	0.0
+bodymain	0.0022660393152336145
+bodymajor	0.0
+bodymake	0.0
+bodymaking	0.0023808383249712683
+bodyman	0.0036476205136688478
+bodymanage	0.0022757721714929957
+bodymanagement	0.016280250045650924
+bodymanager	0.0
+bodymap	0.0
+bodymar	0.0020066301682232224
+bodymarch	0.0062615160506463985
+bodymark	0.006585434013808289
+bodymarket	0.011997710927076688
+bodymarketplace	0.01105839394429109
+bodymarkets	0.016476391790977152
+bodymaterial	0.002454943666110765
+bodymath	0.0
+bodymathematical	0.0
+bodymathematics	0.0
+bodymatters	0.0
+bodymeans	0.0
+bodymedia	0.007628048736438076
+bodymedical	0.0
+bodymedicine	0.0
+bodymeet	0.0
+bodymember	0.01980365991982158
+bodymembers	0.0
+bodymen	0.0
+bodymenu	0.0
+bodymessage	0.0
+bodymessenger	0.011414803090608383
+bodymethods	0.004162885670429328
+bodymichael	0.0022500200442581164
+bodymiddle	0.0
+bodymilitary	0.0
+bodymillion	0.008486375359229692
+bodymillions	0.0
+bodyminutes	0.0
+bodymiss	0.0
+bodymission	0.0
+bodymobile	0.0025110030134233297
+bodymodel	0.01701172891163205
+bodymojo	0.004475636051051501
+bodymoment	0.0022413822051279286
+bodymoments	0.004478816381848771
+bodymonday	0.0
+bodymoney	0.0
+bodymonth	0.0
+bodymonths	0.0
+bodymovie	0.0
+bodymovies	0.0
+bodymr	0.002967260295624441
+bodymusic	0.004313008784326167
+bodynames	0.0
+bodynational	0.008926335991730538
+bodynature	0.0
+bodynavigation	0.0
+bodynederlands	0.002714387956432085
+bodyneed	0.004487944403092414
+bodynet	0.001876594765119255
+bodynetwork	0.026489565375432456
+bodynew	0.007476166982306243
+bodynews	0.009476054248414134
+bodynewsletter	0.003009238572147077
+bodynewsletters	0.007418525724808944
+bodyng	0.0
+bodynight	0.0
+bodynon	0.009416979446430274
+bodynoofentitynameindoclessthan3	0.0027943820462246194
+bodynoofentitynameindoclessthan5	0.0
+bodynoofwordsgreaterthan500	0.02240705439095403
+bodynoofwordslessthan100	0.012064728230791077
+bodynoofwordslessthan200	0.0035973754090823373
+bodynoofwordslessthan400	0.00221518601426951
+bodynoofwordslessthan50	0.004877170261857744
+bodynorsk	0.0023487173618372825
+bodynorth	0.0
+bodynote	0.0
+bodynotice	0.003049426379771236
+bodynov	0.0024599890629448673
+bodynovember	0.0056685119190951205
+bodynumber	0.0056502288266695455
+bodyoct	0.008980078979099027
+bodyoctober	0.00938420236934423
+bodyoffer	0.0
+bodyoffers	0.0
+bodyoffice	0.0
+bodyofficial	0.0
+bodyol	0.016899164417297885
+bodyold	0.0062615160506463985
+bodyonline	0.002446316742384713
+bodyopen	0.0
+bodyopinion	0.005443854622843913
+bodyoption	0.0
+bodyoptional	0.003648570179054511
+bodyoptions	0.0
+bodyorange	0.0
+bodyorder	0.0
+bodyorders	0.0
+bodyorg	0.0
+bodyoriginal	0.0
+bodyoverview	0.009815981098494353
+bodypage	0.0
+bodypages	0.004167880047566186
+bodypaper	0.004214418888225269
+bodypapers	0.003209209652522249
+bodyparent	0.0
+bodypartner	0.0065134897267106195
+bodypartners	0.004588827345809676
+bodyparts	0.0
+bodyparty	0.0
+bodypassword	0.0
+bodypast	0.00945280720149988
+bodypaul	0.0
+bodypay	0.0
+bodypayment	0.0029731936432386696
+bodypdf	0.0
+bodypending	0.0
+bodypeople	0.0023218047946229614
+bodyperformance	0.014017964771875335
+bodyperson	0.0
+bodypersonal	0.008198384506614143
+bodypeter	0.0
+bodyph	0.002959439624490745
+bodyphilosophy	0.004019037513977808
+bodyphone	0.0053617098173184274
+bodyphoto	0.0
+bodyphotography	0.002034574732717176
+bodyphotos	0.003777612798408825
+bodyphysics	0.0
+bodypic	0.0019364492335530725
+bodyplace	0.0
+bodyplan	0.008655763437676267
+bodyplay	0.0
+bodyplus	0.0
+bodypm	0.0
+bodypoint	0.011049814336380748
+bodypoints	0.0
+bodypolicies	0.0
+bodypolicy	0.0
+bodypolitics	0.009114564154409699
+bodypolski	0.0
+bodypopular	0.0019787550215745187
+bodyportugu	0.017197415812240435
+bodyposition	0.007480008265298932
+bodypossible	0.002175374718809686
+bodypost	0.012460439286824831
+bodyposted	0.0
+bodyposters	0.002148974292327299
+bodyposts	0.0
+bodypower	0.006804151443462247
+bodypowered	0.0
+bodypractice	0.0
+bodypre	0.0
+bodyprecise	0.0
+bodypresent	0.0
+bodypresident	0.0057266840935303875
+bodypress	0.0
+bodypreview	0.00550291659427371
+bodyprevious	0.0
+bodyprice	0.0
+bodyprime	0.0
+bodyprint	0.0
+bodyprivacy	0.0
+bodyprivate	0.003293615780432524
+bodypro	0.0
+bodyproblem	0.0
+bodyproblems	0.007709726224238489
+bodyprocess	0.0032568958001097936
+bodyproduct	0.0
+bodyproducts	0.0
+bodyprofessional	0.010453435099212038
+bodyprofessionals	0.004445201592861658
+bodyprofessor	0.021089139736329532
+bodyprofile	0.015631643383698046
+bodyprogram	0.004227350841007116
+bodyprograms	0.008772253728493329
+bodyproject	0.0
+bodyprojects	0.0
+bodypromote	0.0
+bodyproperty	0.0
+bodyprovide	0.0
+bodyprovided	0.007674636462322915
+bodypublic	0.005691259705089657
+bodypublication	0.006012228049448565
+bodypublications	0.019413588088511013
+bodypublish	0.01023606365547991
+bodypublished	0.0
+bodypublisher	0.0025189747799190254
+bodypublishing	0.018302707276759422
+bodyquality	0.0
+bodyquery	0.0
+bodyquestion	0.0
+bodyquestions	0.0
+bodyquick	0.0
+bodyquotes	0.005167489586553886
+bodyrate	0.002742018995351536
+bodyrated	0.0
+bodyrates	0.0064359759374937875
+bodyrating	0.002059318098523666
+bodyratings	0.0029141389606088808
+bodyread	0.0030114285877090863
+bodyreading	0.0
+bodyready	0.0
+bodyreal	0.014754648540711512
+bodyreally	0.0
+bodyreceive	0.0
+bodyreceived	0.004178101372320331
+bodyreceiving	0.0
+bodyrecent	0.007564312060745704
+bodyrecently	0.0
+bodyrecommendations	0.017357683055438167
+bodyrecommended	0.003323574669001461
+bodyrecord	0.0024879133631066086
+bodyrecords	0.0
+bodyreference	0.0
+bodyrefresh	0.0020718053955444127
+bodyregion	0.0
+bodyregister	0.0
+bodyrelated	0.00840895141214626
+bodyrelations	0.0
+bodyrelease	0.0029528506673620614
+bodyreleases	0.0019396671789341235
+bodyreliance	0.0
+bodyremember	0.0
+bodyremove	0.003605348470383629
+bodyreply	0.0
+bodyreport	0.003408054520360193
+bodyreports	0.0033533793519660016
+bodyrequest	0.0
+bodyrequired	0.0
+bodyresearch	0.03692171124475074
+bodyresearchers	0.003152181934596654
+bodyreserved	0.008656353726178012
+bodyresource	0.0
+bodyresources	0.0
+bodyresponse	0.0018369089261414118
+bodyresults	0.0
+bodyreturn	0.0
+bodyreturns	0.0033245798338044086
+bodyreview	0.0
+bodyreviews	0.012354831284091317
+bodyrichard	0.002947591913126546
+bodyright	0.0
+bodyrights	0.011193732351116648
+bodyrisk	0.017572410167471686
+bodyrk	0.0020039974469364674
+bodyrole	0.011267852556883451
+bodyroom	0.0
+bodyrss	0.004421055033791199
+bodyrun	0.00560086146002714
+bodysaid	0.019416511958958993
+bodysale	0.0
+bodysales	0.003343345375619866
+bodysan	0.0035686147401352564
+bodysarah	0.0
+bodysave	0.0
+bodysaved	0.006962529930496619
+bodysay	0.0
+bodysays	0.005922406453248263
+bodyscholar	0.015057245432327893
+bodyschool	0.015631643383698046
+bodyschools	0.0031194516672473638
+bodyscience	0.018949137386253923
+bodysciences	0.0
+bodyscientific	0.0
+bodyscore	0.0
+bodysearch	0.002125026262299823
+bodysearches	0.0029731936432386696
+bodyseason	0.004663432322949745
+bodysecond	0.0057266840935303875
+bodysections	0.0
+bodysecurity	0.013342367304958969
+bodyseeing	0.0
+bodyseen	0.0020408914087263197
+bodyselect	0.0
+bodyselected	0.0022484081517660792
+bodyself	0.0
+bodysell	0.008406407867043386
+bodysend	0.0
+bodysending	0.0
+bodysenior	0.005700267575739382
+bodysep	0.0
+bodyseptember	0.005009056877038565
+bodyseries	0.01476780487492102
+bodyserved	0.019063595331346606
+bodyserver	0.0
+bodyservice	0.0
+bodyservices	0.0
+bodyset	0.012931208382392256
+bodyshare	0.0035469504575744715
+bodyshared	0.0
+bodysharon	0.009518419504201403
+bodyshipping	0.0066827155467086286
+bodyshop	0.0
+bodyshort	0.012268245047675985
+bodyshowing	0.0
+bodyshows	0.0
+bodysign	0.0
+bodysimon	0.0
+bodysimple	0.0
+bodysingle	0.0
+bodysite	0.0
+bodysites	0.0
+bodyskills	0.0
+bodyskip	0.0
+bodysmall	0.023311269864286888
+bodysms	0.0
+bodysocial	0.0065608853558383196
+bodysociety	0.0
+bodysoftware	0.0
+bodysolutions	0.0033438172645295916
+bodyson	0.0
+bodysoon	0.0
+bodysouth	0.0
+bodyspecial	0.0033422423086001407
+bodyspend	0.0
+bodysports	0.0
+bodyspread	0.0
+bodyst	0.003892606123081177
+bodystaff	0.0
+bodystandard	0.0
+bodystanford	0.011386560362462661
+bodystar	0.0
+bodystars	0.0
+bodystart	0.0022707138727753318
+bodystarted	0.0
+bodystate	0.007431113993538463
+bodystatement	0.0023266097725184176
+bodystates	0.0
+bodystatistics	0.008203835907327095
+bodystatus	0.0
+bodystock	0.008242622452775294
+bodystore	0.0020417750347633268
+bodystories	0.0
+bodystory	0.00592191027000577
+bodystream	0.00798160531228409
+bodystreaming	0.0
+bodystreet	0.007249859773300615
+bodystructure	0.004685354423310861
+bodystudent	0.005885502858524183
+bodystudents	0.0018787863459889254
+bodystudies	0.002309654134338923
+bodystudy	0.005223552775675877
+bodystyle	0.007376738841449737
+bodysubmit	0.005072580332771914
+bodysubscribe	0.0023645430099705766
+bodysubscription	0.0038228670935214204
+bodysubscriptions	0.00646262089793026
+bodysuccess	0.0025491361628844356
+bodysuccessful	0.0
+bodysuggested	0.0
+bodysunday	0.0
+bodysupport	0.0
+bodysure	0.0
+bodysvenska	0.0023487173618372825
+bodyswitch	0.0
+bodysystems	0.023110959415827304
+bodytaking	0.002362231982481644
+bodytalk	0.005309657823386327
+bodytalking	0.0
+bodytap	0.0
+bodytax	0.0
+bodyteam	0.01655069998674452
+bodytech	0.019312709008725393
+bodytechnical	0.0025491361628844356
+bodytechnology	0.018931634330017433
+bodytel	0.002536343189952328
+bodyterm	0.017051301842376576
+bodyterms	0.0032195539224302294
+bodytest	0.0
+bodytexas	0.0
+bodytext	0.002200449430914353
+bodytextbook	0.01383731672505839
+bodyth	0.007172227244980789
+bodythank	0.0
+bodythanks	0.0
+bodytheory	0.0019900760297487663
+bodythings	0.0
+bodythink	0.002149425178910036
+bodythoughts	0.0022981088861598886
+bodyti	0.0029108898317483645
+bodytickets	0.0
+bodytim	0.0
+bodytime	0.015774724681753005
+bodytimeline	0.0024160093762112256
+bodytimes	0.003064995829399453
+bodytina	0.0
+bodytitle	0.0
+bodytitles	0.0
+bodytoday	0.010766539921735707
+bodytoggle	0.0
+bodytom	0.011592015633971609
+bodytools	0.004299643801286002
+bodytopic	0.0
+bodytopics	0.0022693135488263128
+bodytotal	0.0
+bodytrack	0.0
+bodytrade	0.0062283159925503595
+bodytraining	0.003141899421926886
+bodytravel	0.0
+bodytrump	0.010622903766011937
+bodytry	0.0
+bodytune	0.0
+bodyturn	0.0
+bodytv	0.0
+bodytweet	0.0
+bodytweets	0.0
+bodytwitter	0.004076549816565023
+bodytype	0.009299317109358052
+bodyuk	0.0
+bodyunderstand	0.0
+bodyunited	0.0
+bodyuniversity	0.04228311782691152
+bodyunlimited	0.010196535275243557
+bodyupdate	0.0028185278477337317
+bodyupdated	0.0
+bodyupdates	0.0
+bodyurl	0.0
+bodyusa	0.0
+bodyuse	0.0
+bodyused	0.0
+bodyuser	0.0
+bodyusers	0.0
+bodyuses	0.0
+bodyusing	0.0136378802856717
+bodyvalue	0.006842955157997044
+bodyvarious	0.002068335343090255
+bodyve	0.0018947222406006103
+bodyverified	0.0
+bodyversion	0.005663823944028312
+bodyvi	0.002714387956432085
+bodyvideo	0.0
+bodyvideos	0.0
+bodyview	0.005337196856931348
+bodyviewing	0.0
+bodyviews	0.0
+bodyvision	0.0033639736090289585
+bodyvisit	0.0
+bodyvolume	0.00221518601426951
+bodyvs	0.0
+bodywant	0.0
+bodywar	0.0
+bodywashington	0.0032568958001097936
+bodywatch	0.0
+bodyway	0.005277763468488517
+bodyweb	0.0
+bodywebsite	0.0022872462232679247
+bodyweek	0.006183013205977472
+bodywelcome	0.0
+bodywent	0.0025491361628844356
+bodywest	0.0
+bodywhite	0.0037964983159824994
+bodywilliam	0.0033479193783911843
+bodywind	0.0
+bodywithoutabox	0.004969907335515167
+bodywoman	0.0
+bodywomen	0.002790469538016982
+bodywon	0.006836814785033507
+bodyword	0.0
+bodywork	0.0042470926437193635
+bodyworked	0.008259051126801142
+bodyworking	0.004354334261292725
+bodyworks	0.0
+bodyworld	0.012785168502500777
+bodyworldwide	0.0
+bodywriting	0.003986864513280675
+bodywrote	0.0
+bodywww	0.0
+bodyxl	0.0025189747799190254
+bodyyear	0.02502854630467566
+bodyyears	0.028356154902014707
+bodyyes	0.0
+bodyyork	0.006193179544545346
+bodyyoung	0.0
+bodyyoutube	0.0
+co	0.0
+facebook	0.0175133514819219
+html	0.0
+titlecom	0.003394263603140879
+titlecontainsnamecombination	0.045106699878094125
+titlecontainsonenameorgan	0.021053287448578484
+titlefullname	0.04725354599516496
+titlenoofwords_greater	0.0
+titlenoofwordslessthan10	0.0
+titlenoofwordslessthan5	0.0
+titlenoofwordslessthan7	0.0019416102898772714
+urlcom	0.0044074182221555125
+urlcontainsnamecombination	0.002774328957062311
+urlcontainsonenameorgan	0.044020721504275606
+urledu	0.0020408914087263197
+urlfacebook	0.01454372072080945
+urlfacebookpage	0.01454372072080945
+urlhtml	0.0
+urlhttp	0.0
+urlhttps	0.0
+urlil	0.0022474237397224206
+urlnoofpartslessthan10	0.0
+urlnoofpartslessthan5	0.0
+urlnoofpartslessthan7	0.0
+urlorg	0.0
+urlpublic	0.011322744124295014
+urlrank	0.0
+urlrank10	0.0
+urlrank11	0.0034642902158017463
+urlrank12	0.0
+urlrank13	0.00363063641524608
+urlrank14	0.00504406401767421
+urlrank15	0.003295007234589864
+urlrank16	0.0072467367826414275
+urlrank6	0.0
+urlrank7	0.0
+urlrank8	0.0
+urlrank9	0.0
+urlwww	0.0
+//scholar	0.03218662003143835
+ac	0.007545557090840593
+bodyable	0.011825615452489502
+bodyacademy	0.002970485094436204
+bodyacm	0.03268235971769773
+bodyactivity	0.0038697710655870576
+bodyaddition	0.002970485094436204
+bodyadministration	0.006259555553331686
+bodyadvisor	0.005085412721722915
+bodyaffairs	0.0030022193928259666
+bodyalgorithm	0.007049633011043777
+bodyalgorithms	0.009559552593666365
+bodyandrew	0.010806558650742759
+bodyapr	0.006053286071446284
+bodyartificial	0.009690712626534759
+bodyassociate	0.008713798271281936
+bodyaug	0.007629441726197839
+bodyaway	0.01025138410199855
+bodybackground	0.004390338009489625
+bodybanks	0.020298643529245153
+bodybase	0.009580749082388151
+bodybegan	0.004811841642907155
+bodybiggest	0.0063360267195311515
+bodybillion	0.009390959294387269
+bodybio	0.0025549885727079724
+bodyblack	0.0037291909712268145
+bodyboston	0.0
+bodybritish	0.004609241142194298
+bodybuild	0.0064014557350614565
+bodycame	0.0059357750087860595
+bodyceo	0.007929641010489319
+bodychallenge	0.008123818540682337
+bodychanged	0.0044348837081319425
+bodychanges	0.010602563759365191
+bodychief	0.015551188918489167
+bodycitations	0.009568863767397073
+bodyclassification	0.013478287216378448
+bodycohen	0.00618778115359353
+bodycombined	0.02304490877234011
+bodycommon	0.0025617257191483667
+bodycommunications	0.0075254994377802475
+bodycommunities	0.0052763368208949
+bodycomplex	0.008142917361270596
+bodycomputational	0.009950440119574355
+bodyconferences	0.026472999093137717
+bodyconnected	0.008909797012676357
+bodyconsidered	0.004543435030631704
+bodyconstraints	0.021821204770602898
+bodyconsumer	0.002970485094436204
+bodycontacts	0.0
+bodycontributions	0.004390338009489625
+bodycore	0.010915093739465753
+bodycorrect	0.012227407171519045
+bodycouncil	0.012504812443232427
+bodycover	0.002359595480794896
+bodycrisis	0.01681738871554539
+bodycritical	0.005448279843461634
+bodycs	0.014292003872293568
+bodydec	0.0018153559588098833
+bodydefault	0.005954684482040173
+bodydespite	0.0052517442236997836
+bodydeveloped	0.002770115375893889
+bodydidn	0.0036934891921390767
+bodydirectors	0.004772698598729086
+bodydocuments	0.0025549885727079724
+bodydoesn	0.0037706727032905674
+bodydoing	0.013661920240680248
+bodydonald	0.004142619829976435
+bodydynamic	0.008726851669326186
+bodyearlier	0.003935250269614721
+bodyedu	0.015451742149543257
+bodyeffect	0.0064014557350614565
+bodyeffective	0.007929641010489319
+bodyefficient	0.01554456986088426
+bodyefforts	0.007380594988453004
+bodyelectronic	0.009397704984932642
+bodyemployment	0.006723599360448529
+bodyeric	0.004609241142194298
+bodyet	0.0051634583402399015
+bodyexchange	0.008653216603038194
+bodyexpected	0.00921051518596061
+bodyface	0.0058398866283351225
+bodyfact	0.0063360267195311515
+bodyfall	0.009397704984932642
+bodyfar	0.0034091375860134665
+bodyfax	0.007424685894267369
+bodyfeb	0.006331961810918441
+bodyfed	0.015125660535213026
+bodyfederal	0.0272556075690622
+bodyfields	0.004883730606146108
+bodyfixed	0.010589929701073975
+bodyfootball	0.004351310258759122
+bodyfounder	0.009057053448554897
+bodyframework	0.013035679687907531
+bodyfrank	0.009397704984932642
+bodyfunction	0.009099320073117423
+bodyfunctions	0.004965335772925572
+bodygeneration	0.006136225300357068
+bodygolden	0.0
+bodygovernor	0.011797851892450306
+bodygovernors	0.018342910647661914
+bodygreen	0.007949093321677592
+bodyhalf	0.007907511598537864
+bodyharvard	0.0059788095569874855
+bodyheight	0.009487469043404584
+bodyhit	0.008965454242342963
+bodyholds	0.003662877836260847
+bodyhomepage	0.009219047697456073
+bodyidea	0.00921051518596061
+bodyieee	0.026298057775014372
+bodyimagealtc	0.024512251745498426
+bodyimagealtuniversity	0.007717294063403601
+bodyimagealtw	0.023640691950698955
+bodyincludes	0.006678345518178697
+bodyincome	0.010451202036067753
+bodyindependent	0.006678345518178697
+bodyindividual	0.004692480872321769
+bodyindustries	0.007223486985709293
+bodyinfluence	0.011032046941031881
+bodyinfrastructure	0.011825615452489502
+bodyinnovation	0.007832255342050565
+bodyinsights	0.004811841642907155
+bodyinstitutions	0.004077983339513369
+bodyinstructions	0.0064014557350614565
+bodyinsurance	0.007393332495401639
+bodyintelligence	0.014995839038180692
+bodyinterests	0.008726851669326186
+bodyinterview	0.005322019366075792
+bodyinvesting	0.008965454242342963
+bodyinvestors	0.007717294063403601
+bodyinvolved	0.004811841642907155
+bodyjames	0.003821639082730477
+bodyjanet	0.014458447331598845
+bodyjoining	0.01005902594476138
+bodyjoint	0.005771800576720998
+bodyjr	0.004340141728143454
+bodyjustin	0.004609241142194298
+bodykim	0.010806558650742759
+bodylargest	0.008400432311704953
+bodylate	0.0038437711185016488
+bodylead	0.006064770768291483
+bodyleader	0.00495509158845131
+bodyleaders	0.006723599360448529
+bodyleague	0.003975874736213303
+bodyled	0.00558468140520918
+bodyletters	0.010329964330505037
+bodylicense	0.008844207839700191
+bodylinear	0.004340141728143454
+bodyliving	0.007894958645411343
+bodyllc	0.003975874736213303
+bodylost	0.012672400257634608
+bodylow	0.01075998003405565
+bodylower	0.010989098626724814
+bodymachine	0.01199638899354416
+bodymakes	0.008031340624336636
+bodymanaging	0.0059788095569874855
+bodymarketing	0.005430615212567824
+bodymarried	0.010252411869057232
+bodymartin	0.0033759254206948697
+bodymassachusetts	0.0021698715335982666
+bodymean	0.0036934891921390767
+bodymeeting	0.008031340624336636
+bodymethod	0.0033759254206948697
+bodymiller	0.004965335772925572
+bodymitchell	0.012219690896218438
+bodymodeling	0.007393332495401639
+bodymodels	0.01742980819118023
+bodymonetary	0.018376913541637507
+bodyms	0.01467746521127189
+bodymulti	0.010309183360979857
+bodymultiple	0.0030022193928259666
+bodynamed	0.008775648264480518
+bodynation	0.00722273130841844
+bodynatural	0.005851733761381928
+bodynear	0.002355345545106524
+bodynecessary	0.008549249600507847
+bodyneeded	0.004609241142194298
+bodyneeds	0.006629501283895389
+bodynetworks	0.025259372398738877
+bodynfl	0.0032530057006190383
+bodynotes	0.0021698715335982666
+bodynumbers	0.0
+bodyobama	0.007218333274754296
+bodyofficer	0.0031724310257311705
+bodyones	0.007563291845058995
+bodyoperations	0.00968593336238055
+bodyopportunity	0.004811841642907155
+bodyorganization	0.002783674263528324
+bodyorganizations	0.008844207839700191
+bodypath	0.010431004029558544
+bodyphd	0.006678345518178697
+bodyplanning	0.0018153559588098833
+bodyplans	0.006526155794379096
+bodyplayer	0.004351310258759122
+bodypolitical	0.0038437711185016488
+bodyportfolio	0.006228695920830196
+bodypositions	0.006629501283895389
+bodypotential	0.006467935813159187
+bodyprior	0.01819578880021555
+bodyproceedings	0.011113509278219191
+bodyprocessing	0.010602563759365191
+bodyproduction	0.004351310258759122
+bodyprof	0.0019780116641142653
+bodyprogramming	0.0025489496244297527
+bodyradio	0.0031724310257311705
+bodyrandom	0.010069584636337336
+bodyrange	0.002770115375893889
+bodyreasons	0.0034881799080799247
+bodyrecovery	0.007223486985709293
+bodyred	0.0025508218762868573
+bodyregulation	0.011676334308655667
+bodyrelationship	0.0030022193928259666
+bodyreleased	0.012040787575487877
+bodyreported	0.009868053483072736
+bodyrepresentation	0.005911885566339925
+bodyreserve	0.021335957853535148
+bodyrich	0.012274135547531317
+bodyroad	0.009390959294387269
+bodyrobert	0.00618778115359353
+bodyrule	0.008123818540682337
+bodyrules	0.015592587545346537
+bodyrunning	0.008882252976856964
+bodysc	0.005448279843461634
+bodyscale	0.016028487920725087
+bodyschedule	0.006447529694935339
+bodyscientists	0.006263558866665742
+bodysemantic	0.022761199055709058
+bodysettings	0.0029845889061858033
+bodyshares	0.016411440704869662
+bodysimilar	0.005702463098855137
+bodysize	0.004810245475090014
+bodysmith	0.005085412721722915
+bodysource	0.01287383119495722
+bodyspace	0.008952431270895844
+bodystage	0.004810245475090014
+bodystarting	0.007563291845058995
+bodystartups	0.013575347497133294
+bodystats	0.005364011412170577
+bodystay	0.004390338009489625
+bodystep	0.006053286071446284
+bodystephen	0.0036934891921390767
+bodysteve	0.002770115375893889
+bodystocks	0.01599724891063803
+bodystrategy	0.0051634583402399015
+bodystrong	0.007328139413881329
+bodysummer	0.006228695920830196
+bodysymposium	0.010589929701073975
+bodytakes	0.003975874736213303
+bodytalks	0.0023563213245187953
+bodyteaching	0.004527754310645782
+bodyteams	0.00921051518596061
+bodytechnion	0.0051633690202392835
+bodytechnologies	0.004561332666824569
+bodytelevision	0.005566834363319173
+bodythomas	0.005702463098855137
+bodythought	0.0029845889061858033
+bodytold	0.006136225300357068
+bodytook	0.00928974071890265
+bodytoronto	0.003204979001666053
+bodytransactions	0.0199284344577495
+bodytrue	0.0025617257191483667
+bodyunderstanding	0.004182428682693584
+bodyvalues	0.007380594988453004
+bodyvice	0.004772698598729086
+bodywall	0.007636609293498742
+bodywang	0.010640442062608946
+bodyways	0.002770115375893889
+bodywide	0.010544727534693599
+bodywife	0.0051634583402399015
+bodywin	0.0021698715335982666
+bodyworkshop	0.011098930876253577
+google	0.016461599258357218
+titlegoogle	0.016461599258357218
+titlescholar	0.03276867872648903
+urlac	0.007877069289036087
+urlcitations	0.03102437238673217
+urlgoogle	0.016461599258357218
+urlpeople	0.0
+urlrank1	0.021885158529583948
+urlrank2	0.014283343899534562
+urlrank3	0.007256895258021978
+urlrank4	0.005289157541612521
+urlrank5	0.004485642192610162
+urlscholar	0.03218662003143835
+urlscholargooglepage	0.03102437238673217
+urluser	0.0068955117113760345
+
+Classifier description:
+-----------------------
+All the base classifiers: 
+
+
+REPTree
+============
+
+titlefullname < 0.5
+|   bodyfinancial < 0.5
+|   |   urlcontainsonenameorgan < 0.5
+|   |   |   bodyprofessor < 0.5
+|   |   |   |   bodymovies < 0.5
+|   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   urlrank3 < 0.5 : notRelevant (125/1) [64/5]
+|   |   |   |   |   |   urlrank3 >= 0.5
+|   |   |   |   |   |   |   urlil < 0.5 : notRelevant (6/0) [0/0]
+|   |   |   |   |   |   |   urlil >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   urlrank2 >= 0.5
+|   |   |   |   |   |   bodyarticles < 0.5 : relevant (4/0) [3/0]
+|   |   |   |   |   |   bodyarticles >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   bodymovies >= 0.5
+|   |   |   |   |   bodyaugust < 0.5
+|   |   |   |   |   |   bodytime < 0.5
+|   |   |   |   |   |   |   bodydaniel < 0.5 : relevant (5/1) [3/0]
+|   |   |   |   |   |   |   bodydaniel >= 0.5 : notRelevant (3/0) [0/0]
+|   |   |   |   |   |   bodytime >= 0.5 : notRelevant (7/0) [3/0]
+|   |   |   |   |   bodyaugust >= 0.5 : relevant (5/0) [0/0]
+|   |   |   bodyprofessor >= 0.5
+|   |   |   |   bodycontact < 0.5 : relevant (11/0) [8/3]
+|   |   |   |   bodycontact >= 0.5 : notRelevant (12/4) [9/0]
+|   |   urlcontainsonenameorgan >= 0.5
+|   |   |   urlcom < 0.5
+|   |   |   |   bodycom < 0.5
+|   |   |   |   |   bodyfullname < 0.5
+|   |   |   |   |   |   bodyresources < 0.5
+|   |   |   |   |   |   |   bodysocial < 0.5
+|   |   |   |   |   |   |   |   urlnoofpartslessthan10 < 0.5
+|   |   |   |   |   |   |   |   |   bodybusiness < 0.5 : relevant (29/4) [20/0]
+|   |   |   |   |   |   |   |   |   bodybusiness >= 0.5 : notRelevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   urlnoofpartslessthan10 >= 0.5 : notRelevant (8/2) [8/4]
+|   |   |   |   |   |   |   bodysocial >= 0.5 : notRelevant (4/0) [3/0]
+|   |   |   |   |   |   bodyresources >= 0.5 : relevant (13/0) [9/1]
+|   |   |   |   |   bodyfullname >= 0.5 : relevant (18/0) [11/6]
+|   |   |   |   bodycom >= 0.5 : notRelevant (21/4) [12/2]
+|   |   |   urlcom >= 0.5
+|   |   |   |   bodymiss < 0.5
+|   |   |   |   |   titlecontainsonenameorgan < 0.5 : relevant (17/7) [8/0]
+|   |   |   |   |   titlecontainsonenameorgan >= 0.5
+|   |   |   |   |   |   urlrank3 < 0.5
+|   |   |   |   |   |   |   bodypast < 0.5
+|   |   |   |   |   |   |   |   bodydefense < 0.5 : notRelevant (80/2) [43/8]
+|   |   |   |   |   |   |   |   bodydefense >= 0.5
+|   |   |   |   |   |   |   |   |   _than_10 < 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   _than_10 >= 0.5 : notRelevant (2/0) [0/0]
+|   |   |   |   |   |   |   bodypast >= 0.5 : relevant (2/0) [0/0]
+|   |   |   |   |   |   urlrank3 >= 0.5
+|   |   |   |   |   |   |   titlecontainsnamecombination < 0.5 : relevant (6/0) [0/0]
+|   |   |   |   |   |   |   titlecontainsnamecombination >= 0.5 : notRelevant (2/0) [3/1]
+|   |   |   |   bodymiss >= 0.5 : relevant (7/0) [3/0]
+|   bodyfinancial >= 0.5
+|   |   bodyorg < 0.5 : relevant (94/17) [49/5]
+|   |   bodyorg >= 0.5 : notRelevant (11/0) [7/0]
+titlefullname >= 0.5
+|   bodyresearch < 0.5
+|   |   bodysaid < 0.5
+|   |   |   bodyteam < 0.5
+|   |   |   |   bodycontact < 0.5
+|   |   |   |   |   bodymember < 0.5
+|   |   |   |   |   |   bodycame < 0.5
+|   |   |   |   |   |   |   bodyfield < 0.5
+|   |   |   |   |   |   |   |   bodyconnected < 0.5
+|   |   |   |   |   |   |   |   |   bodyprofessor < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyhour < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyconditions < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyorg < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodypost < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycareer < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan < 0.5 : notRelevant (54/1) [25/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjustin < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytalk < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycom < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyapplications < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymain < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyalt < 0.5 : notRelevant (52/2) [20/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyalt >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank6 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www < 0.5 : relevant (4/1) [3/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www >= 0.5 : notRelevant (18/6) [16/6]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 >= 0.5 : notRelevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 >= 0.5 : notRelevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank6 >= 0.5 : notRelevant (6/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymain >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyapplications >= 0.5 : relevant (2/0) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycom >= 0.5 : notRelevant (27/0) [16/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytalk >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjustin >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycareer >= 0.5 : relevant (4/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodypost >= 0.5 : relevant (12/4) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyorg >= 0.5 : relevant (7/1) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyconditions >= 0.5 : relevant (5/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   bodyhour >= 0.5 : notRelevant (31/0) [12/0]
+|   |   |   |   |   |   |   |   |   bodyprofessor >= 0.5 : relevant (8/1) [4/1]
+|   |   |   |   |   |   |   |   bodyconnected >= 0.5 : relevant (9/1) [5/1]
+|   |   |   |   |   |   |   bodyfield >= 0.5
+|   |   |   |   |   |   |   |   bodyadvertise < 0.5 : relevant (11/0) [5/0]
+|   |   |   |   |   |   |   |   bodyadvertise >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   |   bodycame >= 0.5 : relevant (12/0) [5/1]
+|   |   |   |   |   bodymember >= 0.5
+|   |   |   |   |   |   bodyfree < 0.5 : relevant (20/0) [4/0]
+|   |   |   |   |   |   bodyfree >= 0.5 : notRelevant (3/0) [2/0]
+|   |   |   |   bodycontact >= 0.5
+|   |   |   |   |   bodymathematics < 0.5
+|   |   |   |   |   |   bodydid < 0.5
+|   |   |   |   |   |   |   bodyprice < 0.5
+|   |   |   |   |   |   |   |   bodyagreement < 0.5
+|   |   |   |   |   |   |   |   |   bodyreport < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyapplication < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyeast < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodydevelopers < 0.5 : relevant (87/1) [39/8]
+|   |   |   |   |   |   |   |   |   |   |   |   bodydevelopers >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccount < 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccount >= 0.5 : relevant (2/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyeast >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyimagesrccontainsonenameorgan < 0.5 : notRelevant (4/0) [5/2]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyimagesrccontainsonenameorgan >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   bodyapplication >= 0.5 : notRelevant (3/0) [1/1]
+|   |   |   |   |   |   |   |   |   bodyreport >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodybusiness < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyreserve < 0.5 : notRelevant (9/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyreserve >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   bodybusiness >= 0.5 : relevant (8/1) [4/0]
+|   |   |   |   |   |   |   |   bodyagreement >= 0.5 : notRelevant (4/0) [4/1]
+|   |   |   |   |   |   |   bodyprice >= 0.5 : notRelevant (5/0) [5/1]
+|   |   |   |   |   |   bodydid >= 0.5
+|   |   |   |   |   |   |   bodycreated < 0.5 : notRelevant (23/2) [11/7]
+|   |   |   |   |   |   |   bodycreated >= 0.5 : relevant (11/0) [5/0]
+|   |   |   |   |   bodymathematics >= 0.5
+|   |   |   |   |   |   bodygroups < 0.5 : notRelevant (18/0) [12/3]
+|   |   |   |   |   |   bodygroups >= 0.5 : relevant (3/0) [1/0]
+|   |   |   bodyteam >= 0.5
+|   |   |   |   bodyeditor < 0.5
+|   |   |   |   |   bodyjerusalem < 0.5
+|   |   |   |   |   |   bodyreturns < 0.5 : relevant (139/9) [62/9]
+|   |   |   |   |   |   bodyreturns >= 0.5 : notRelevant (20/10) [5/2]
+|   |   |   |   |   bodyjerusalem >= 0.5 : notRelevant (6/0) [3/1]
+|   |   |   |   bodyeditor >= 0.5 : notRelevant (11/1) [3/1]
+|   |   bodysaid >= 0.5
+|   |   |   bodymedia < 0.5
+|   |   |   |   bodysupport < 0.5 : relevant (35/2) [15/0]
+|   |   |   |   bodysupport >= 0.5
+|   |   |   |   |   bodyad < 0.5 : notRelevant (8/0) [9/2]
+|   |   |   |   |   bodyad >= 0.5 : relevant (4/0) [1/0]
+|   |   |   bodymedia >= 0.5 : relevant (87/1) [39/4]
+|   bodyresearch >= 0.5
+|   |   bodyfollowing < 0.5
+|   |   |   bodynetwork < 0.5
+|   |   |   |   bodycomments < 0.5
+|   |   |   |   |   bodyil < 0.5
+|   |   |   |   |   |   bodyaugust < 0.5
+|   |   |   |   |   |   |   bodylimited < 0.5
+|   |   |   |   |   |   |   |   bodyyears < 0.5
+|   |   |   |   |   |   |   |   |   bodymail < 0.5
+|   |   |   |   |   |   |   |   |   |   bodycontributions < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyeli < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodydate < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybeauty < 0.5 : relevant (59/1) [41/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybeauty >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 >= 0.5 : notRelevant (5/1) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodydate >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodycreate < 0.5 : notRelevant (5/0) [8/4]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodycreate >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyeli >= 0.5 : notRelevant (4/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   bodycontributions >= 0.5 : notRelevant (5/0) [1/0]
+|   |   |   |   |   |   |   |   |   bodymail >= 0.5 : notRelevant (8/0) [2/0]
+|   |   |   |   |   |   |   |   bodyyears >= 0.5 : relevant (22/0) [17/1]
+|   |   |   |   |   |   |   bodylimited >= 0.5 : notRelevant (6/0) [0/0]
+|   |   |   |   |   |   bodyaugust >= 0.5 : relevant (24/0) [11/0]
+|   |   |   |   |   bodyil >= 0.5 : relevant (43/0) [16/0]
+|   |   |   |   bodycomments >= 0.5
+|   |   |   |   |   bodyhttp < 0.5 : relevant (3/0) [5/0]
+|   |   |   |   |   bodyhttp >= 0.5 : notRelevant (11/0) [3/0]
+|   |   |   bodynetwork >= 0.5 : relevant (59/1) [25/3]
+|   |   bodyfollowing >= 0.5 : relevant (148/1) [60/2]
+
+Size of the tree : 181
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   bodyconferences < 0.5
+|   |   bodypositions < 0.5
+|   |   |   titlenoofwordslessthan5 < 0.5
+|   |   |   |   bodycs < 0.5
+|   |   |   |   |   urlrank3 < 0.5
+|   |   |   |   |   |   bodyisrael < 0.5
+|   |   |   |   |   |   |   bodyjul < 0.5
+|   |   |   |   |   |   |   |   bodyquestion < 0.5
+|   |   |   |   |   |   |   |   |   bodycontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyadvertise < 0.5
+|   |   |   |   |   |   |   |   |   |   |   titlefullname < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   _than_10 < 0.5 : notRelevant (37/1) [19/3]
+|   |   |   |   |   |   |   |   |   |   |   |   _than_10 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   //www < 0.5 : notRelevant (4/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   //www >= 0.5 : relevant (3/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   titlefullname >= 0.5 : notRelevant (31/10) [7/1]
+|   |   |   |   |   |   |   |   |   |   bodyadvertise >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   bodycontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodyrepresentation < 0.5 : notRelevant (67/0) [35/7]
+|   |   |   |   |   |   |   |   |   |   bodyrepresentation >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyhome < 0.5 : relevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyhome >= 0.5 : notRelevant (5/0) [4/2]
+|   |   |   |   |   |   |   |   bodyquestion >= 0.5
+|   |   |   |   |   |   |   |   |   bodycountry < 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   bodycountry >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   bodyjul >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   bodyisrael >= 0.5 : notRelevant (35/0) [15/2]
+|   |   |   |   |   urlrank3 >= 0.5
+|   |   |   |   |   |   urlil < 0.5 : notRelevant (6/2) [7/3]
+|   |   |   |   |   |   urlil >= 0.5 : relevant (7/0) [1/0]
+|   |   |   |   bodycs >= 0.5 : relevant (7/0) [5/2]
+|   |   |   titlenoofwordslessthan5 >= 0.5
+|   |   |   |   bodynews < 0.5
+|   |   |   |   |   urlnoofpartslessthan7 < 0.5
+|   |   |   |   |   |   bodyproblem < 0.5
+|   |   |   |   |   |   |   urlcontainsnamecombination < 0.5
+|   |   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   |   urlrank11 < 0.5 : notRelevant (23/1) [16/3]
+|   |   |   |   |   |   |   |   |   urlrank11 >= 0.5 : relevant (3/1) [3/1]
+|   |   |   |   |   |   |   |   urlrank2 >= 0.5 : relevant (2/0) [0/0]
+|   |   |   |   |   |   |   urlcontainsnamecombination >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   bodyproblem >= 0.5 : relevant (4/0) [0/0]
+|   |   |   |   |   urlnoofpartslessthan7 >= 0.5 : relevant (23/4) [7/2]
+|   |   |   |   bodynews >= 0.5 : notRelevant (12/0) [3/0]
+|   |   bodypositions >= 0.5 : relevant (13/1) [5/1]
+|   bodyconferences >= 0.5 : relevant (15/0) [6/2]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   //scholar < 0.5
+|   |   |   bodymagazine < 0.5
+|   |   |   |   bodyscientists < 0.5
+|   |   |   |   |   bodysummer < 0.5
+|   |   |   |   |   |   bodyborn < 0.5
+|   |   |   |   |   |   |   bodybank < 0.5
+|   |   |   |   |   |   |   |   bodyareas < 0.5
+|   |   |   |   |   |   |   |   |   bodyinterests < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyrules < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodymark < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyac < 0.5 : notRelevant (123/0) [56/4]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyac >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 < 0.5 : notRelevant (9/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 >= 0.5 : relevant (3/1) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   bodymark >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   urlrank16 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodygoogle < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodywww < 0.5 : relevant (8/3) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodywww >= 0.5 : notRelevant (5/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodygoogle >= 0.5 : notRelevant (15/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   urlrank16 >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   bodyrules >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   bodyinterests >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   bodyareas >= 0.5
+|   |   |   |   |   |   |   |   |   bodyabstract < 0.5 : relevant (6/0) [4/2]
+|   |   |   |   |   |   |   |   |   bodyabstract >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   |   |   bodybank >= 0.5
+|   |   |   |   |   |   |   |   bodyglobal < 0.5 : notRelevant (22/6) [15/2]
+|   |   |   |   |   |   |   |   bodyglobal >= 0.5 : relevant (8/0) [1/0]
+|   |   |   |   |   |   bodyborn >= 0.5
+|   |   |   |   |   |   |   bodydavid < 0.5
+|   |   |   |   |   |   |   |   bodygovernment < 0.5
+|   |   |   |   |   |   |   |   |   bodyst < 0.5
+|   |   |   |   |   |   |   |   |   |   bodypeople < 0.5 : notRelevant (17/0) [8/0]
+|   |   |   |   |   |   |   |   |   |   bodypeople >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodybiography < 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   bodybiography >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodyst >= 0.5 : relevant (7/1) [2/1]
+|   |   |   |   |   |   |   |   bodygovernment >= 0.5 : relevant (6/0) [4/0]
+|   |   |   |   |   |   |   bodydavid >= 0.5 : relevant (7/0) [11/1]
+|   |   |   |   |   bodysummer >= 0.5 : relevant (6/0) [5/0]
+|   |   |   |   bodyscientists >= 0.5 : relevant (11/0) [6/1]
+|   |   |   bodymagazine >= 0.5
+|   |   |   |   bodynation < 0.5 : relevant (50/1) [19/2]
+|   |   |   |   bodynation >= 0.5
+|   |   |   |   |   bodyair < 0.5 : notRelevant (10/0) [5/0]
+|   |   |   |   |   bodyair >= 0.5 : relevant (6/0) [2/0]
+|   |   //scholar >= 0.5 : relevant (62/0) [31/0]
+|   urlcontainsonenameorgan >= 0.5
+|   |   bodyenglish < 0.5
+|   |   |   bodyuniversity < 0.5
+|   |   |   |   bodysaid < 0.5
+|   |   |   |   |   bodystatistics < 0.5
+|   |   |   |   |   |   bodysharon < 0.5
+|   |   |   |   |   |   |   bodyvision < 0.5
+|   |   |   |   |   |   |   |   bodyfield < 0.5
+|   |   |   |   |   |   |   |   |   bodysystems < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyasia < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodymarketing < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyhttps < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodylevel < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyradio < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypages < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreading < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycoming < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyskip < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhealth < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyread < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ac < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreserve < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyst < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfavorite < 0.5 : notRelevant (37/5) [40/13]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfavorite >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyst >= 0.5 : relevant (9/2) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreserve >= 0.5 : relevant (5/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ac >= 0.5 : relevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyread >= 0.5 : notRelevant (13/0) [9/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhealth >= 0.5 : relevant (6/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyskip >= 0.5 : notRelevant (14/0) [7/5]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycoming >= 0.5 : relevant (10/1) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreading >= 0.5 : relevant (11/1) [4/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypages >= 0.5 : notRelevant (11/0) [8/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyradio >= 0.5 : relevant (8/0) [8/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodylevel >= 0.5 : relevant (10/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyhttps >= 0.5 : relevant (12/0) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   bodymarketing >= 0.5 : relevant (14/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   bodyasia >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyman < 0.5 : notRelevant (18/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyman >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodysystems >= 0.5 : relevant (12/0) [10/0]
+|   |   |   |   |   |   |   |   bodyfield >= 0.5
+|   |   |   |   |   |   |   |   |   bodyselect < 0.5 : relevant (23/0) [10/0]
+|   |   |   |   |   |   |   |   |   bodyselect >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodyaccessibility < 0.5 : notRelevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   bodyaccessibility >= 0.5 : relevant (3/0) [6/0]
+|   |   |   |   |   |   |   bodyvision >= 0.5 : relevant (24/0) [6/0]
+|   |   |   |   |   |   bodysharon >= 0.5 : notRelevant (13/0) [0/0]
+|   |   |   |   |   bodystatistics >= 0.5 : relevant (34/0) [12/0]
+|   |   |   |   bodysaid >= 0.5
+|   |   |   |   |   bodypublications < 0.5
+|   |   |   |   |   |   bodysubmit < 0.5 : relevant (84/0) [44/0]
+|   |   |   |   |   |   bodysubmit >= 0.5
+|   |   |   |   |   |   |   bodybased < 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   |   |   bodybased >= 0.5 : relevant (4/0) [7/3]
+|   |   |   |   |   bodypublications >= 0.5
+|   |   |   |   |   |   bodyaccess < 0.5 : notRelevant (2/0) [0/0]
+|   |   |   |   |   |   bodyaccess >= 0.5 : relevant (2/0) [2/0]
+|   |   |   bodyuniversity >= 0.5
+|   |   |   |   bodyregister < 0.5
+|   |   |   |   |   bodyireland < 0.5
+|   |   |   |   |   |   bodytechnology < 0.5
+|   |   |   |   |   |   |   bodyjewish < 0.5
+|   |   |   |   |   |   |   |   bodyfilter < 0.5
+|   |   |   |   |   |   |   |   |   bodynames < 0.5
+|   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodylinks < 0.5 : relevant (149/1) [63/2]
+|   |   |   |   |   |   |   |   |   |   |   bodylinks >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyguide < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodymathematical < 0.5 : relevant (27/0) [16/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodymathematical >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycredit < 0.5 : notRelevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycredit >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyguide >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodypolicy < 0.5 : relevant (5/0) [6/1]
+|   |   |   |   |   |   |   |   |   |   |   bodypolicy >= 0.5 : notRelevant (4/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodynames >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodyactive < 0.5 : notRelevant (4/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   bodyactive >= 0.5 : relevant (5/0) [2/0]
+|   |   |   |   |   |   |   |   bodyfilter >= 0.5 : notRelevant (10/4) [3/1]
+|   |   |   |   |   |   |   bodyjewish >= 0.5 : notRelevant (4/0) [2/0]
+|   |   |   |   |   |   bodytechnology >= 0.5 : relevant (134/1) [59/1]
+|   |   |   |   |   bodyireland >= 0.5 : notRelevant (6/1) [3/0]
+|   |   |   |   bodyregister >= 0.5
+|   |   |   |   |   bodyedu < 0.5
+|   |   |   |   |   |   bodydeal < 0.5
+|   |   |   |   |   |   |   bodyjavascript < 0.5 : relevant (18/0) [12/0]
+|   |   |   |   |   |   |   bodyjavascript >= 0.5
+|   |   |   |   |   |   |   |   bodyaccording < 0.5 : notRelevant (3/0) [5/1]
+|   |   |   |   |   |   |   |   bodyaccording >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   bodydeal >= 0.5 : notRelevant (5/0) [3/0]
+|   |   |   |   |   bodyedu >= 0.5 : notRelevant (9/0) [1/0]
+|   |   bodyenglish >= 0.5
+|   |   |   bodypartners < 0.5
+|   |   |   |   urlhttp < 0.5
+|   |   |   |   |   bodymedia < 0.5
+|   |   |   |   |   |   bodymap < 0.5
+|   |   |   |   |   |   |   bodyprovided < 0.5
+|   |   |   |   |   |   |   |   bodyhome < 0.5
+|   |   |   |   |   |   |   |   |   //www < 0.5 : notRelevant (14/0) [6/1]
+|   |   |   |   |   |   |   |   |   //www >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodyinstitute < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodycontact < 0.5 : notRelevant (22/3) [6/3]
+|   |   |   |   |   |   |   |   |   |   |   bodycontact >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   bodyinstitute >= 0.5 : relevant (3/0) [6/0]
+|   |   |   |   |   |   |   |   bodyhome >= 0.5 : notRelevant (36/0) [31/1]
+|   |   |   |   |   |   |   bodyprovided >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   bodymap >= 0.5 : relevant (8/1) [0/0]
+|   |   |   |   |   bodymedia >= 0.5 : relevant (46/18) [28/10]
+|   |   |   |   urlhttp >= 0.5
+|   |   |   |   |   bodychoose < 0.5 : relevant (42/4) [24/3]
+|   |   |   |   |   bodychoose >= 0.5 : notRelevant (4/0) [3/0]
+|   |   |   bodypartners >= 0.5 : relevant (29/1) [9/0]
+
+Size of the tree : 213
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   bodyacm < 0.5
+|   |   bodylive < 0.5
+|   |   |   bodystyle < 0.5
+|   |   |   |   bodysoftware < 0.5
+|   |   |   |   |   bodyclass < 0.5
+|   |   |   |   |   |   bodyfacebook < 0.5
+|   |   |   |   |   |   |   urlcontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   |   urlrank2 < 0.5 : notRelevant (35/2) [23/2]
+|   |   |   |   |   |   |   |   urlrank2 >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   urlcontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   bodysociety < 0.5
+|   |   |   |   |   |   |   |   |   bodyen < 0.5
+|   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodystate < 0.5 : relevant (24/2) [12/2]
+|   |   |   |   |   |   |   |   |   |   |   bodystate >= 0.5 : notRelevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodycopyright < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan5 < 0.5 : notRelevant (8/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan5 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyid < 0.5 : relevant (4/0) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyid >= 0.5 : notRelevant (5/1) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   bodycopyright >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodyen >= 0.5 : notRelevant (11/1) [1/0]
+|   |   |   |   |   |   |   |   bodysociety >= 0.5 : relevant (10/0) [6/0]
+|   |   |   |   |   |   bodyfacebook >= 0.5
+|   |   |   |   |   |   |   bodydevelopment < 0.5 : notRelevant (96/16) [51/12]
+|   |   |   |   |   |   |   bodydevelopment >= 0.5 : relevant (3/0) [7/3]
+|   |   |   |   |   bodyclass >= 0.5 : relevant (8/0) [1/1]
+|   |   |   |   bodysoftware >= 0.5 : notRelevant (23/0) [13/0]
+|   |   |   bodystyle >= 0.5 : relevant (7/0) [4/1]
+|   |   bodylive >= 0.5 : notRelevant (26/0) [10/0]
+|   bodyacm >= 0.5 : relevant (13/0) [7/0]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   //scholar < 0.5
+|   |   |   bodycompanies < 0.5
+|   |   |   |   bodymake < 0.5
+|   |   |   |   |   bodyinterests < 0.5
+|   |   |   |   |   |   urlrank4 < 0.5
+|   |   |   |   |   |   |   bodypost < 0.5
+|   |   |   |   |   |   |   |   bodyshop < 0.5
+|   |   |   |   |   |   |   |   |   bodycreate < 0.5 : notRelevant (148/3) [69/8]
+|   |   |   |   |   |   |   |   |   bodycreate >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodyaccess < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   bodyaccess >= 0.5 : notRelevant (9/2) [6/3]
+|   |   |   |   |   |   |   |   bodyshop >= 0.5 : relevant (6/2) [2/1]
+|   |   |   |   |   |   |   bodypost >= 0.5
+|   |   |   |   |   |   |   |   bodyspecial < 0.5 : relevant (7/0) [6/2]
+|   |   |   |   |   |   |   |   bodyspecial >= 0.5 : notRelevant (5/0) [2/0]
+|   |   |   |   |   |   urlrank4 >= 0.5 : relevant (5/0) [2/1]
+|   |   |   |   |   bodyinterests >= 0.5 : relevant (7/0) [2/0]
+|   |   |   |   bodymake >= 0.5
+|   |   |   |   |   bodyright < 0.5 : relevant (23/2) [6/0]
+|   |   |   |   |   bodyright >= 0.5 : notRelevant (25/3) [8/0]
+|   |   |   bodycompanies >= 0.5
+|   |   |   |   bodyroad < 0.5
+|   |   |   |   |   bodyshort < 0.5
+|   |   |   |   |   |   bodytalk < 0.5
+|   |   |   |   |   |   |   bodypublications < 0.5
+|   |   |   |   |   |   |   |   bodyprofessional < 0.5 : notRelevant (19/0) [14/0]
+|   |   |   |   |   |   |   |   bodyprofessional >= 0.5
+|   |   |   |   |   |   |   |   |   bodybest < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyfebruary < 0.5 : notRelevant (6/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   bodyfebruary >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodybest >= 0.5 : relevant (3/0) [3/0]
+|   |   |   |   |   |   |   bodypublications >= 0.5 : relevant (7/1) [8/1]
+|   |   |   |   |   |   bodytalk >= 0.5 : relevant (6/0) [1/0]
+|   |   |   |   |   bodyshort >= 0.5
+|   |   |   |   |   |   urlrank6 < 0.5 : relevant (17/0) [13/0]
+|   |   |   |   |   |   urlrank6 >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   bodyroad >= 0.5 : relevant (27/0) [13/0]
+|   |   //scholar >= 0.5 : relevant (70/0) [29/0]
+|   urlcontainsonenameorgan >= 0.5
+|   |   bodyaudible < 0.5
+|   |   |   bodyenglish < 0.5
+|   |   |   |   bodyhigh < 0.5
+|   |   |   |   |   bodyfinancial < 0.5
+|   |   |   |   |   |   bodysystems < 0.5
+|   |   |   |   |   |   |   bodylocation < 0.5
+|   |   |   |   |   |   |   |   urlrank14 < 0.5
+|   |   |   |   |   |   |   |   |   bodyil < 0.5
+|   |   |   |   |   |   |   |   |   |   bodymember < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyfund < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyjan < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyage < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyisrael < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyrights < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysemantic < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycontacts < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlorg < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagealtof < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytheory < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyben < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyassistant < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan100 < 0.5 : notRelevant (48/1) [20/5]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan100 >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyassistant >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyben >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydid < 0.5 : relevant (5/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydid >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytheory >= 0.5 : relevant (4/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagealtof >= 0.5 : relevant (9/1) [5/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlorg >= 0.5 : relevant (6/0) [8/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycontacts >= 0.5 : relevant (8/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysemantic >= 0.5 : relevant (10/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyrights >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyindia < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybrazil < 0.5 : relevant (39/1) [29/5]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybrazil >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyindia >= 0.5 : notRelevant (8/1) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyisrael >= 0.5 : relevant (16/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyage >= 0.5 : relevant (17/0) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyblog < 0.5 : notRelevant (14/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyblog >= 0.5 : relevant (5/2) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyjan >= 0.5 : relevant (29/1) [19/1]
+|   |   |   |   |   |   |   |   |   |   |   bodyfund >= 0.5 : relevant (23/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   bodymember >= 0.5 : relevant (40/1) [22/1]
+|   |   |   |   |   |   |   |   |   bodyil >= 0.5 : relevant (34/0) [16/0]
+|   |   |   |   |   |   |   |   urlrank14 >= 0.5
+|   |   |   |   |   |   |   |   |   bodyreports < 0.5 : notRelevant (16/2) [12/2]
+|   |   |   |   |   |   |   |   |   bodyreports >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   bodylocation >= 0.5
+|   |   |   |   |   |   |   |   bodygood < 0.5
+|   |   |   |   |   |   |   |   |   bodydownload < 0.5 : notRelevant (24/0) [9/1]
+|   |   |   |   |   |   |   |   |   bodydownload >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   bodygood >= 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   bodysystems >= 0.5 : relevant (65/3) [39/4]
+|   |   |   |   |   bodyfinancial >= 0.5
+|   |   |   |   |   |   bodyrelationship < 0.5
+|   |   |   |   |   |   |   bodyreport < 0.5 : relevant (110/0) [50/4]
+|   |   |   |   |   |   |   bodyreport >= 0.5
+|   |   |   |   |   |   |   |   bodyapps < 0.5 : relevant (34/3) [21/2]
+|   |   |   |   |   |   |   |   bodyapps >= 0.5 : notRelevant (4/0) [1/0]
+|   |   |   |   |   |   bodyrelationship >= 0.5
+|   |   |   |   |   |   |   bodyhelp < 0.5 : relevant (2/0) [4/0]
+|   |   |   |   |   |   |   bodyhelp >= 0.5 : notRelevant (7/0) [2/1]
+|   |   |   |   bodyhigh >= 0.5
+|   |   |   |   |   bodybooks < 0.5 : relevant (162/2) [71/6]
+|   |   |   |   |   bodybooks >= 0.5
+|   |   |   |   |   |   html < 0.5
+|   |   |   |   |   |   |   bodytime < 0.5
+|   |   |   |   |   |   |   |   bodyblog < 0.5 : notRelevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   bodyblog >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   bodytime >= 0.5 : relevant (21/0) [8/0]
+|   |   |   |   |   |   html >= 0.5 : notRelevant (4/0) [3/1]
+|   |   |   bodyenglish >= 0.5
+|   |   |   |   bodynetworks < 0.5
+|   |   |   |   |   bodyreleases < 0.5
+|   |   |   |   |   |   bodyimagesrccontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   bodyimagealtc < 0.5
+|   |   |   |   |   |   |   |   bodymarch < 0.5
+|   |   |   |   |   |   |   |   |   bodysource < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyamerican < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyactive < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyinstagram < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodybrowse < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycareer < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysell < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinstitute < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydid < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyel < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjournal < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjuly < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www < 0.5 : notRelevant (24/1) [14/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfrance < 0.5 : relevant (7/2) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfrance >= 0.5 : notRelevant (16/3) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjuly >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjournal >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyel >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydid >= 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinstitute >= 0.5 : relevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysell >= 0.5 : notRelevant (7/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycareer >= 0.5 : notRelevant (10/0) [1/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodybrowse >= 0.5 : notRelevant (12/0) [9/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyinstagram >= 0.5 : relevant (4/0) [5/2]
+|   |   |   |   |   |   |   |   |   |   |   bodyactive >= 0.5 : relevant (4/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   bodyamerican >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyplay < 0.5 : relevant (12/0) [10/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyplay >= 0.5 : notRelevant (3/0) [3/0]
+|   |   |   |   |   |   |   |   |   bodysource >= 0.5 : relevant (7/0) [3/0]
+|   |   |   |   |   |   |   |   bodymarch >= 0.5 : relevant (11/0) [6/0]
+|   |   |   |   |   |   |   bodyimagealtc >= 0.5 : relevant (14/0) [11/2]
+|   |   |   |   |   |   bodyimagesrccontainsonenameorgan >= 0.5 : relevant (21/0) [12/0]
+|   |   |   |   |   bodyreleases >= 0.5 : notRelevant (19/0) [4/0]
+|   |   |   |   bodynetworks >= 0.5 : relevant (22/0) [3/0]
+|   |   bodyaudible >= 0.5 : notRelevant (28/0) [11/1]
+
+Size of the tree : 191
+
+
+REPTree
+============
+
+titlefullname < 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   urlrank2 < 0.5
+|   |   |   bodystudy < 0.5
+|   |   |   |   urlrank3 < 0.5
+|   |   |   |   |   bodystyle < 0.5
+|   |   |   |   |   |   bodyimagealts < 0.5
+|   |   |   |   |   |   |   bodytheory < 0.5 : notRelevant (129/0) [60/2]
+|   |   |   |   |   |   |   bodytheory >= 0.5
+|   |   |   |   |   |   |   |   bodyanalysis < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   bodyanalysis >= 0.5 : notRelevant (8/0) [3/0]
+|   |   |   |   |   |   bodyimagealts >= 0.5 : relevant (2/0) [4/1]
+|   |   |   |   |   bodystyle >= 0.5
+|   |   |   |   |   |   bodyhouse < 0.5 : relevant (7/1) [2/0]
+|   |   |   |   |   |   bodyhouse >= 0.5 : notRelevant (9/1) [3/1]
+|   |   |   |   urlrank3 >= 0.5 : relevant (9/3) [3/1]
+|   |   |   bodystudy >= 0.5
+|   |   |   |   bodyisraeli < 0.5
+|   |   |   |   |   bodyverified < 0.5 : notRelevant (17/0) [17/3]
+|   |   |   |   |   bodyverified >= 0.5 : relevant (5/0) [2/0]
+|   |   |   |   bodyisraeli >= 0.5 : relevant (13/0) [3/0]
+|   |   urlrank2 >= 0.5 : relevant (8/0) [5/1]
+|   urlcontainsonenameorgan >= 0.5
+|   |   bodyfinancial < 0.5
+|   |   |   urlil < 0.5
+|   |   |   |   bodyprior < 0.5
+|   |   |   |   |   bodyhuman < 0.5
+|   |   |   |   |   |   bodytv < 0.5
+|   |   |   |   |   |   |   titlenoofwordslessthan5 < 0.5
+|   |   |   |   |   |   |   |   bodydownload < 0.5
+|   |   |   |   |   |   |   |   |   bodycookies < 0.5
+|   |   |   |   |   |   |   |   |   |   bodynetwork < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodynew < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyheart < 0.5 : notRelevant (55/7) [32/5]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyheart >= 0.5 : relevant (3/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   bodynew >= 0.5 : notRelevant (37/0) [8/0]
+|   |   |   |   |   |   |   |   |   |   bodynetwork >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodycookies >= 0.5 : relevant (4/0) [3/0]
+|   |   |   |   |   |   |   |   bodydownload >= 0.5
+|   |   |   |   |   |   |   |   |   bodyapp < 0.5 : relevant (12/1) [8/0]
+|   |   |   |   |   |   |   |   |   bodyapp >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   titlenoofwordslessthan5 >= 0.5
+|   |   |   |   |   |   |   |   urlnoofpartslessthan7 < 0.5
+|   |   |   |   |   |   |   |   |   bodyimage < 0.5
+|   |   |   |   |   |   |   |   |   |   urlrank11 < 0.5 : notRelevant (16/2) [11/4]
+|   |   |   |   |   |   |   |   |   |   urlrank11 >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   bodyimage >= 0.5 : relevant (4/0) [0/0]
+|   |   |   |   |   |   |   |   urlnoofpartslessthan7 >= 0.5 : relevant (19/2) [11/2]
+|   |   |   |   |   |   bodytv >= 0.5 : notRelevant (24/0) [7/0]
+|   |   |   |   |   bodyhuman >= 0.5 : relevant (11/0) [7/3]
+|   |   |   |   bodyprior >= 0.5 : relevant (15/0) [6/0]
+|   |   |   urlil >= 0.5
+|   |   |   |   bodyalt < 0.5 : relevant (26/0) [12/0]
+|   |   |   |   bodyalt >= 0.5 : notRelevant (2/0) [1/0]
+|   |   bodyfinancial >= 0.5
+|   |   |   bodyorg < 0.5
+|   |   |   |   bodystars < 0.5 : relevant (66/1) [46/1]
+|   |   |   |   bodystars >= 0.5 : notRelevant (2/0) [3/0]
+|   |   |   bodyorg >= 0.5 : notRelevant (4/0) [1/0]
+titlefullname >= 0.5
+|   bodyuniversity < 0.5
+|   |   bodysaid < 0.5
+|   |   |   bodyconferences < 0.5
+|   |   |   |   bodyyears < 0.5
+|   |   |   |   |   urlcontainsnamecombination < 0.5
+|   |   |   |   |   |   bodyvalues < 0.5
+|   |   |   |   |   |   |   bodystream < 0.5
+|   |   |   |   |   |   |   |   bodyschedule < 0.5
+|   |   |   |   |   |   |   |   |   urlcontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyfollow < 0.5 : notRelevant (54/0) [27/2]
+|   |   |   |   |   |   |   |   |   |   |   bodyfollow >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyapp < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycoming < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycoming >= 0.5 : notRelevant (10/1) [9/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser >= 0.5 : relevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyapp >= 0.5 : notRelevant (11/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   urlrank1 >= 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   urlcontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodynewsletter < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyhomepage < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyserved < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyprivacy < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreading < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank9 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyais < 0.5 : notRelevant (41/1) [22/6]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyais >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank8 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank7 < 0.5 : notRelevant (32/2) [16/5]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank7 >= 0.5 : relevant (4/1) [6/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank8 >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank9 >= 0.5 : notRelevant (2/2) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreading >= 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyprivacy >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybased < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyavailable < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymarch < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypeter < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodygetting < 0.5 : notRelevant (34/1) [24/8]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodygetting >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccess < 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccess >= 0.5 : notRelevant (7/1) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypeter >= 0.5 : relevant (2/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymarch >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyavailable >= 0.5 : relevant (3/0) [4/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybased >= 0.5 : relevant (4/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan10 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymusic < 0.5 : relevant (14/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymusic >= 0.5 : notRelevant (6/2) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyserved >= 0.5 : relevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyhomepage >= 0.5 : relevant (7/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   bodynewsletter >= 0.5 : relevant (21/3) [8/0]
+|   |   |   |   |   |   |   |   bodyschedule >= 0.5 : relevant (17/2) [3/1]
+|   |   |   |   |   |   |   bodystream >= 0.5 : notRelevant (24/0) [13/0]
+|   |   |   |   |   |   bodyvalues >= 0.5 : relevant (20/0) [6/0]
+|   |   |   |   |   urlcontainsnamecombination >= 0.5 : relevant (58/13) [19/4]
+|   |   |   |   bodyyears >= 0.5
+|   |   |   |   |   bodyrecommendations < 0.5
+|   |   |   |   |   |   bodywrote < 0.5
+|   |   |   |   |   |   |   bodysouth < 0.5
+|   |   |   |   |   |   |   |   bodyalerts < 0.5
+|   |   |   |   |   |   |   |   |   bodyfaq < 0.5 : relevant (77/0) [36/2]
+|   |   |   |   |   |   |   |   |   bodyfaq >= 0.5 : notRelevant (3/1) [4/1]
+|   |   |   |   |   |   |   |   bodyalerts >= 0.5 : notRelevant (4/0) [3/0]
+|   |   |   |   |   |   |   bodysouth >= 0.5 : notRelevant (11/3) [1/0]
+|   |   |   |   |   |   bodywrote >= 0.5 : notRelevant (5/0) [0/0]
+|   |   |   |   |   bodyrecommendations >= 0.5 : notRelevant (14/2) [8/0]
+|   |   |   bodyconferences >= 0.5 : relevant (46/1) [30/4]
+|   |   bodysaid >= 0.5
+|   |   |   bodymedia < 0.5 : relevant (32/11) [18/2]
+|   |   |   bodymedia >= 0.5
+|   |   |   |   bodysteve < 0.5 : relevant (74/0) [30/2]
+|   |   |   |   bodysteve >= 0.5
+|   |   |   |   |   bodyacademic < 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   bodyacademic >= 0.5 : relevant (2/0) [4/0]
+|   bodyuniversity >= 0.5
+|   |   bodyhaifa < 0.5
+|   |   |   bodyacm < 0.5
+|   |   |   |   bodyliterature < 0.5
+|   |   |   |   |   bodyinvestor < 0.5
+|   |   |   |   |   |   bodyaustralia < 0.5
+|   |   |   |   |   |   |   urlrank16 < 0.5
+|   |   |   |   |   |   |   |   urlrank14 < 0.5
+|   |   |   |   |   |   |   |   |   bodynational < 0.5
+|   |   |   |   |   |   |   |   |   |   bodydonald < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodynatural < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodymember < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyenergy < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycommittee < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyalt < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhigher < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 < 0.5 : relevant (83/0) [40/4]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybook < 0.5 : notRelevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybook >= 0.5 : relevant (3/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhigher >= 0.5 : notRelevant (4/1) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyalt >= 0.5 : notRelevant (9/4) [5/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycommittee >= 0.5 : notRelevant (3/0) [3/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyenergy >= 0.5 : notRelevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodymember >= 0.5 : relevant (43/0) [18/2]
+|   |   |   |   |   |   |   |   |   |   |   bodynatural >= 0.5 : notRelevant (4/0) [6/2]
+|   |   |   |   |   |   |   |   |   |   bodydonald >= 0.5 : notRelevant (7/1) [2/1]
+|   |   |   |   |   |   |   |   |   bodynational >= 0.5 : relevant (73/1) [44/1]
+|   |   |   |   |   |   |   |   urlrank14 >= 0.5
+|   |   |   |   |   |   |   |   |   bodyprograms < 0.5
+|   |   |   |   |   |   |   |   |   |   bodycontact < 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   bodycontact >= 0.5 : relevant (6/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodyprograms >= 0.5 : notRelevant (6/0) [5/2]
+|   |   |   |   |   |   |   urlrank16 >= 0.5
+|   |   |   |   |   |   |   |   bodycareer < 0.5 : notRelevant (7/0) [3/1]
+|   |   |   |   |   |   |   |   bodycareer >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   bodyaustralia >= 0.5
+|   |   |   |   |   |   |   bodyaviv < 0.5 : notRelevant (7/0) [6/0]
+|   |   |   |   |   |   |   bodyaviv >= 0.5 : relevant (3/0) [4/0]
+|   |   |   |   |   bodyinvestor >= 0.5 : relevant (43/0) [22/3]
+|   |   |   |   bodyliterature >= 0.5
+|   |   |   |   |   bodyideas < 0.5 : notRelevant (12/1) [5/0]
+|   |   |   |   |   bodyideas >= 0.5 : relevant (4/0) [4/0]
+|   |   |   bodyacm >= 0.5 : relevant (51/0) [17/0]
+|   |   bodyhaifa >= 0.5
+|   |   |   urlrank14 < 0.5 : relevant (135/1) [52/1]
+|   |   |   urlrank14 >= 0.5 : notRelevant (3/1) [3/0]
+
+Size of the tree : 185
+
+
+REPTree
+============
+
+urlcontainsonenameorgan < 0.5
+|   //scholar < 0.5
+|   |   bodymagazine < 0.5
+|   |   |   urlrank2 < 0.5
+|   |   |   |   bodysummer < 0.5
+|   |   |   |   |   bodyusa < 0.5
+|   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   bodyimagealts < 0.5
+|   |   |   |   |   |   |   |   urlrank3 < 0.5
+|   |   |   |   |   |   |   |   |   titlefullname < 0.5
+|   |   |   |   |   |   |   |   |   |   bodydespite < 0.5 : notRelevant (143/0) [68/1]
+|   |   |   |   |   |   |   |   |   |   bodydespite >= 0.5 : relevant (4/1) [4/1]
+|   |   |   |   |   |   |   |   |   titlefullname >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodyservice < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodycontributions < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodycommercial < 0.5 : notRelevant (89/4) [46/5]
+|   |   |   |   |   |   |   |   |   |   |   |   bodycommercial >= 0.5 : relevant (2/0) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   bodycontributions >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   bodyservice >= 0.5 : notRelevant (39/14) [15/4]
+|   |   |   |   |   |   |   |   urlrank3 >= 0.5 : relevant (8/2) [7/3]
+|   |   |   |   |   |   |   bodyimagealts >= 0.5
+|   |   |   |   |   |   |   |   bodydesign < 0.5 : relevant (6/0) [3/1]
+|   |   |   |   |   |   |   |   bodydesign >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   urlrank1 >= 0.5 : relevant (14/4) [7/0]
+|   |   |   |   |   bodyusa >= 0.5
+|   |   |   |   |   |   bodyterms < 0.5 : relevant (11/0) [7/1]
+|   |   |   |   |   |   bodyterms >= 0.5 : notRelevant (6/0) [2/0]
+|   |   |   |   bodysummer >= 0.5 : relevant (11/1) [8/2]
+|   |   |   urlrank2 >= 0.5 : relevant (15/2) [9/0]
+|   |   bodymagazine >= 0.5
+|   |   |   bodysarah < 0.5
+|   |   |   |   titlefullname < 0.5
+|   |   |   |   |   bodyaugust < 0.5 : notRelevant (4/0) [6/0]
+|   |   |   |   |   bodyaugust >= 0.5 : relevant (5/0) [4/1]
+|   |   |   |   titlefullname >= 0.5 : relevant (38/0) [16/0]
+|   |   |   bodysarah >= 0.5 : notRelevant (6/0) [0/0]
+|   //scholar >= 0.5 : relevant (75/0) [48/0]
+urlcontainsonenameorgan >= 0.5
+|   bodyuniversity < 0.5
+|   |   bodysaid < 0.5
+|   |   |   bodyconferences < 0.5
+|   |   |   |   bodyrecommendations < 0.5
+|   |   |   |   |   bodysystems < 0.5
+|   |   |   |   |   |   bodyfield < 0.5
+|   |   |   |   |   |   |   bodyposition < 0.5
+|   |   |   |   |   |   |   |   bodysale < 0.5
+|   |   |   |   |   |   |   |   |   bodytotal < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyseries < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyrecord < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodytimes < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyboard < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyrunning < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlecom < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycentral < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytoday < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytrade < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreal < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank12 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyevents < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyapril < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyknown < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyworld < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ac < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyen < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   _than_10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlorg < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyload < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank8 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyprofessor < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyais < 0.5 : notRelevant (32/1) [27/6]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyais >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank6 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfullname < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlefullname < 0.5 : notRelevant (14/5) [12/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlefullname >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 < 0.5 : relevant (14/4) [8/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 >= 0.5 : notRelevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfullname >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank7 < 0.5 : notRelevant (11/0) [8/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank7 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www < 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 >= 0.5 : notRelevant (6/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank6 >= 0.5 : notRelevant (8/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   html < 0.5 : notRelevant (2/0) [7/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   html >= 0.5 : relevant (4/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyprofessor >= 0.5 : relevant (2/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank8 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan100 < 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan100 >= 0.5 : notRelevant (6/2) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyload >= 0.5 : relevant (2/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlorg >= 0.5 : relevant (5/1) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   _than_10 >= 0.5 : relevant (15/5) [10/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyen >= 0.5 : notRelevant (7/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ac >= 0.5 : relevant (3/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyworld >= 0.5 : notRelevant (14/0) [7/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyknown >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyapril >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyevents >= 0.5 : relevant (4/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank12 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan10 < 0.5 : relevant (10/0) [9/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan10 >= 0.5 : notRelevant (5/2) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreal >= 0.5 : notRelevant (10/0) [5/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews >= 0.5 : notRelevant (34/3) [11/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytrade >= 0.5 : relevant (9/1) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytoday >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyproject < 0.5 : relevant (19/1) [7/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyproject >= 0.5 : notRelevant (3/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycentral >= 0.5 : relevant (10/0) [4/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlecom >= 0.5 : notRelevant (14/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyrunning >= 0.5 : relevant (7/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyboard >= 0.5 : relevant (10/0) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   bodytimes >= 0.5 : relevant (17/1) [11/1]
+|   |   |   |   |   |   |   |   |   |   |   bodyrecord >= 0.5 : notRelevant (21/0) [11/3]
+|   |   |   |   |   |   |   |   |   |   bodyseries >= 0.5 : relevant (29/5) [15/3]
+|   |   |   |   |   |   |   |   |   bodytotal >= 0.5 : relevant (18/1) [16/1]
+|   |   |   |   |   |   |   |   bodysale >= 0.5
+|   |   |   |   |   |   |   |   |   bodybit < 0.5 : notRelevant (28/0) [10/3]
+|   |   |   |   |   |   |   |   |   bodybit >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   bodyposition >= 0.5 : relevant (18/0) [7/0]
+|   |   |   |   |   |   bodyfield >= 0.5 : relevant (50/6) [13/1]
+|   |   |   |   |   bodysystems >= 0.5 : relevant (34/0) [15/0]
+|   |   |   |   bodyrecommendations >= 0.5
+|   |   |   |   |   bodycontent < 0.5
+|   |   |   |   |   |   bodyair < 0.5
+|   |   |   |   |   |   |   bodycontainsnamecombination < 0.5 : notRelevant (5/0) [1/0]
+|   |   |   |   |   |   |   bodycontainsnamecombination >= 0.5 : relevant (5/0) [4/1]
+|   |   |   |   |   |   bodyair >= 0.5 : notRelevant (7/0) [4/0]
+|   |   |   |   |   bodycontent >= 0.5 : notRelevant (40/0) [12/0]
+|   |   |   bodyconferences >= 0.5 : relevant (52/1) [19/0]
+|   |   bodysaid >= 0.5
+|   |   |   bodypublications < 0.5
+|   |   |   |   bodycontainsnamecombination < 0.5 : notRelevant (3/0) [0/0]
+|   |   |   |   bodycontainsnamecombination >= 0.5
+|   |   |   |   |   bodyhttp < 0.5 : relevant (106/0) [45/1]
+|   |   |   |   |   bodyhttp >= 0.5
+|   |   |   |   |   |   bodyenergy < 0.5 : notRelevant (4/0) [8/1]
+|   |   |   |   |   |   bodyenergy >= 0.5 : relevant (7/0) [2/0]
+|   |   |   bodypublications >= 0.5 : notRelevant (5/1) [1/1]
+|   bodyuniversity >= 0.5
+|   |   bodyaffiliate < 0.5
+|   |   |   bodyil < 0.5
+|   |   |   |   bodyterms < 0.5
+|   |   |   |   |   bodynames < 0.5
+|   |   |   |   |   |   bodyfrance < 0.5
+|   |   |   |   |   |   |   bodyschools < 0.5
+|   |   |   |   |   |   |   |   bodycreative < 0.5
+|   |   |   |   |   |   |   |   |   bodyproject < 0.5
+|   |   |   |   |   |   |   |   |   |   bodydevelopers < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyremember < 0.5 : relevant (135/4) [51/3]
+|   |   |   |   |   |   |   |   |   |   |   bodyremember >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyadd < 0.5 : notRelevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyadd >= 0.5 : relevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   bodydevelopers >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   bodyproject >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodycontent < 0.5 : relevant (10/2) [4/0]
+|   |   |   |   |   |   |   |   |   |   bodycontent >= 0.5 : notRelevant (4/0) [3/1]
+|   |   |   |   |   |   |   |   bodycreative >= 0.5 : notRelevant (4/0) [3/0]
+|   |   |   |   |   |   |   bodyschools >= 0.5
+|   |   |   |   |   |   |   |   bodyrates < 0.5 : notRelevant (6/0) [3/2]
+|   |   |   |   |   |   |   |   bodyrates >= 0.5 : relevant (3/0) [3/0]
+|   |   |   |   |   |   bodyfrance >= 0.5
+|   |   |   |   |   |   |   bodycode < 0.5
+|   |   |   |   |   |   |   |   bodyinstitute < 0.5 : notRelevant (8/2) [7/2]
+|   |   |   |   |   |   |   |   bodyinstitute >= 0.5 : relevant (5/0) [6/0]
+|   |   |   |   |   |   |   bodycode >= 0.5 : notRelevant (7/0) [4/0]
+|   |   |   |   |   bodynames >= 0.5 : notRelevant (7/0) [3/2]
+|   |   |   |   bodyterms >= 0.5 : relevant (183/13) [93/8]
+|   |   |   bodyil >= 0.5 : relevant (81/1) [38/4]
+|   |   bodyaffiliate >= 0.5 : notRelevant (11/1) [3/1]
+
+Size of the tree : 177
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   bodyconferences < 0.5
+|   |   bodyacm < 0.5
+|   |   |   ac < 0.5
+|   |   |   |   bodyopen < 0.5
+|   |   |   |   |   bodyactivities < 0.5
+|   |   |   |   |   |   bodysimon < 0.5
+|   |   |   |   |   |   |   bodydata < 0.5
+|   |   |   |   |   |   |   |   bodysociety < 0.5
+|   |   |   |   |   |   |   |   |   urledu < 0.5
+|   |   |   |   |   |   |   |   |   |   urlrank3 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   _than_10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyworld < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyeurope < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlhttp < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccount < 0.5 : notRelevant (58/12) [37/13]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccount >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 >= 0.5 : relevant (11/3) [6/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlhttp >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsnamecombination < 0.5 : notRelevant (31/1) [12/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsnamecombination >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyeurope >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyworld >= 0.5 : notRelevant (14/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   _than_10 >= 0.5 : notRelevant (36/1) [23/7]
+|   |   |   |   |   |   |   |   |   |   urlrank3 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan7 < 0.5 : notRelevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan7 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   titlecontainsnamecombination < 0.5 : relevant (9/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   titlecontainsnamecombination >= 0.5 : notRelevant (4/1) [2/0]
+|   |   |   |   |   |   |   |   |   urledu >= 0.5 : relevant (5/0) [2/1]
+|   |   |   |   |   |   |   |   bodysociety >= 0.5 : relevant (5/0) [4/0]
+|   |   |   |   |   |   |   bodydata >= 0.5 : notRelevant (27/0) [14/1]
+|   |   |   |   |   |   bodysimon >= 0.5 : relevant (5/0) [3/2]
+|   |   |   |   |   bodyactivities >= 0.5 : relevant (7/0) [3/2]
+|   |   |   |   bodyopen >= 0.5 : notRelevant (39/0) [10/2]
+|   |   |   ac >= 0.5
+|   |   |   |   _than_10 < 0.5 : relevant (8/0) [4/0]
+|   |   |   |   _than_10 >= 0.5
+|   |   |   |   |   bodyactivities < 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   bodyactivities >= 0.5 : relevant (3/0) [0/0]
+|   |   bodyacm >= 0.5 : relevant (8/0) [5/0]
+|   bodyconferences >= 0.5 : relevant (17/1) [5/1]
+bodycontainsnamecombination >= 0.5
+|   bodyuniversity < 0.5
+|   |   bodysaid < 0.5
+|   |   |   urlcontainsonenameorgan < 0.5
+|   |   |   |   bodyannual < 0.5
+|   |   |   |   |   bodyhalf < 0.5
+|   |   |   |   |   |   bodygame < 0.5 : notRelevant (120/9) [56/5]
+|   |   |   |   |   |   bodygame >= 0.5
+|   |   |   |   |   |   |   bodylike < 0.5
+|   |   |   |   |   |   |   |   bodyamerica < 0.5 : notRelevant (9/2) [9/2]
+|   |   |   |   |   |   |   |   bodyamerica >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   bodylike >= 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   bodyhalf >= 0.5 : relevant (6/0) [1/1]
+|   |   |   |   bodyannual >= 0.5 : relevant (15/0) [13/0]
+|   |   |   urlcontainsonenameorgan >= 0.5
+|   |   |   |   bodyconferences < 0.5
+|   |   |   |   |   bodyrecommendations < 0.5
+|   |   |   |   |   |   bodytoday < 0.5
+|   |   |   |   |   |   |   bodynon < 0.5
+|   |   |   |   |   |   |   |   bodymarketing < 0.5
+|   |   |   |   |   |   |   |   |   bodyenergy < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyteam < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyroad < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyteaching < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodywide < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyoctober < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyst < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyrss < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyobama < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinstagram < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydigital < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymarch < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyisrael < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymessenger < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypolicy < 0.5 : notRelevant (25/0) [22/6]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypolicy >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyview < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyview >= 0.5 : notRelevant (11/2) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymessenger >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhttp < 0.5 : notRelevant (7/2) [2/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhttp >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyisrael >= 0.5 : notRelevant (15/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymarch >= 0.5 : relevant (2/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydigital >= 0.5 : relevant (2/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinstagram >= 0.5 : notRelevant (19/0) [8/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyobama >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyrss >= 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews >= 0.5 : notRelevant (30/0) [14/6]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyst >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysign < 0.5 : relevant (7/0) [7/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysign >= 0.5 : notRelevant (5/1) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyoctober >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodythank < 0.5 : relevant (10/0) [6/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodythank >= 0.5 : notRelevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodywide >= 0.5 : relevant (7/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyteaching >= 0.5 : relevant (7/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyroad >= 0.5 : relevant (9/0) [12/0]
+|   |   |   |   |   |   |   |   |   |   bodyteam >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodystars < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyhours < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyjune < 0.5 : relevant (33/0) [28/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyjune >= 0.5 : notRelevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyhours >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccess < 0.5 : notRelevant (6/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccess >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   bodystars >= 0.5 : notRelevant (7/0) [0/0]
+|   |   |   |   |   |   |   |   |   bodyenergy >= 0.5 : relevant (11/0) [6/0]
+|   |   |   |   |   |   |   |   bodymarketing >= 0.5 : relevant (14/0) [8/0]
+|   |   |   |   |   |   |   bodynon >= 0.5 : relevant (15/0) [8/1]
+|   |   |   |   |   |   bodytoday >= 0.5
+|   |   |   |   |   |   |   bodylike < 0.5
+|   |   |   |   |   |   |   |   bodyamerica < 0.5
+|   |   |   |   |   |   |   |   |   //www < 0.5 : notRelevant (6/1) [2/0]
+|   |   |   |   |   |   |   |   |   //www >= 0.5 : relevant (26/2) [5/0]
+|   |   |   |   |   |   |   |   bodyamerica >= 0.5 : notRelevant (7/0) [4/0]
+|   |   |   |   |   |   |   bodylike >= 0.5 : relevant (46/1) [16/4]
+|   |   |   |   |   bodyrecommendations >= 0.5
+|   |   |   |   |   |   bodycontent < 0.5
+|   |   |   |   |   |   |   bodyair < 0.5 : relevant (4/1) [4/1]
+|   |   |   |   |   |   |   bodyair >= 0.5 : notRelevant (5/0) [2/0]
+|   |   |   |   |   |   bodycontent >= 0.5 : notRelevant (26/0) [20/0]
+|   |   |   |   bodyconferences >= 0.5 : relevant (44/1) [21/1]
+|   |   bodysaid >= 0.5
+|   |   |   bodycanada < 0.5
+|   |   |   |   urlrank16 < 0.5
+|   |   |   |   |   bodynavigation < 0.5 : relevant (94/0) [41/1]
+|   |   |   |   |   bodynavigation >= 0.5
+|   |   |   |   |   |   bodyexplore < 0.5 : relevant (16/1) [8/0]
+|   |   |   |   |   |   bodyexplore >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   urlrank16 >= 0.5
+|   |   |   |   |   bodyarchive < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   bodyarchive >= 0.5 : notRelevant (4/0) [4/1]
+|   |   |   bodycanada >= 0.5
+|   |   |   |   bodyprovided < 0.5
+|   |   |   |   |   bodyadvanced < 0.5 : notRelevant (11/0) [2/2]
+|   |   |   |   |   bodyadvanced >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   bodyprovided >= 0.5 : relevant (9/0) [1/0]
+|   bodyuniversity >= 0.5
+|   |   titlecontainsonenameorgan < 0.5
+|   |   |   urlcontainsonenameorgan < 0.5
+|   |   |   |   bodydid < 0.5
+|   |   |   |   |   bodyquality < 0.5 : notRelevant (34/0) [15/0]
+|   |   |   |   |   bodyquality >= 0.5
+|   |   |   |   |   |   bodyanalysis < 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   bodyanalysis >= 0.5 : notRelevant (3/0) [2/0]
+|   |   |   |   bodydid >= 0.5 : relevant (9/0) [3/0]
+|   |   |   urlcontainsonenameorgan >= 0.5 : relevant (23/1) [11/1]
+|   |   titlecontainsonenameorgan >= 0.5
+|   |   |   bodytextbook < 0.5
+|   |   |   |   bodycombined < 0.5
+|   |   |   |   |   bodyrepresentation < 0.5
+|   |   |   |   |   |   urlil < 0.5
+|   |   |   |   |   |   |   bodyliving < 0.5
+|   |   |   |   |   |   |   |   bodysubscriptions < 0.5
+|   |   |   |   |   |   |   |   |   bodyrecord < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyoperations < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodybio < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyunderstand < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodychairman < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycitation < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyedit < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybar < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydate < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypublic < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhistorical < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyitaly < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyeducation < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyprofessor < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyteam < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyscholar < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinternational < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyben < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagealt < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymichael < 0.5 : notRelevant (14/1) [9/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymichael >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagealt >= 0.5 : relevant (8/2) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyben >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinternational >= 0.5 : notRelevant (5/0) [3/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyscholar >= 0.5 : relevant (5/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyteam >= 0.5 : relevant (15/1) [5/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyprofessor >= 0.5 : relevant (14/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser >= 0.5 : notRelevant (6/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyeducation >= 0.5 : relevant (18/0) [9/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyitaly >= 0.5 : notRelevant (6/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhistorical >= 0.5 : notRelevant (7/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypublic >= 0.5 : relevant (16/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydate >= 0.5 : notRelevant (12/0) [8/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybar >= 0.5 : relevant (15/0) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyedit >= 0.5 : relevant (17/0) [9/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycitation >= 0.5 : relevant (19/0) [8/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodychairman >= 0.5 : relevant (24/0) [17/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyunderstand >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyage < 0.5 : notRelevant (9/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyage >= 0.5 : relevant (2/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   urlrank1 >= 0.5 : relevant (27/0) [9/0]
+|   |   |   |   |   |   |   |   |   |   |   bodybio >= 0.5 : relevant (30/0) [15/2]
+|   |   |   |   |   |   |   |   |   |   bodyoperations >= 0.5 : relevant (45/0) [23/0]
+|   |   |   |   |   |   |   |   |   bodyrecord >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodycity < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodycheck < 0.5 : relevant (6/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   bodycheck >= 0.5 : notRelevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   bodycity >= 0.5 : notRelevant (9/0) [7/3]
+|   |   |   |   |   |   |   |   bodysubscriptions >= 0.5 : notRelevant (9/0) [3/1]
+|   |   |   |   |   |   |   bodyliving >= 0.5 : relevant (42/0) [21/0]
+|   |   |   |   |   |   urlil >= 0.5 : relevant (75/2) [32/0]
+|   |   |   |   |   bodyrepresentation >= 0.5 : relevant (50/0) [20/0]
+|   |   |   |   bodycombined >= 0.5 : relevant (76/0) [46/0]
+|   |   |   bodytextbook >= 0.5
+|   |   |   |   bodysign < 0.5
+|   |   |   |   |   bodyaccount < 0.5 : relevant (7/0) [5/0]
+|   |   |   |   |   bodyaccount >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   bodysign >= 0.5 : notRelevant (13/0) [8/0]
+
+Size of the tree : 219
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   bodyacm < 0.5
+|   |   bodybrowser < 0.5
+|   |   |   bodyrecommendations < 0.5
+|   |   |   |   bodyorg < 0.5
+|   |   |   |   |   bodyenergy < 0.5
+|   |   |   |   |   |   bodystate < 0.5
+|   |   |   |   |   |   |   urlcontainsnamecombination < 0.5
+|   |   |   |   |   |   |   |   bodymap < 0.5
+|   |   |   |   |   |   |   |   |   titlenoofwordslessthan5 < 0.5
+|   |   |   |   |   |   |   |   |   |   bodypast < 0.5
+|   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodytechnology < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   urlrank6 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank13 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycapital < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank14 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyenglish < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser < 0.5 : relevant (10/0) [7/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyuser >= 0.5 : notRelevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyenglish >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan < 0.5 : notRelevant (8/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www < 0.5 : relevant (8/2) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   //www >= 0.5 : notRelevant (34/10) [10/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank10 >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank14 >= 0.5 : notRelevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycapital >= 0.5 : notRelevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank13 >= 0.5 : notRelevant (7/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 >= 0.5 : notRelevant (7/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   urlrank6 >= 0.5 : notRelevant (10/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodytechnology >= 0.5 : relevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 >= 0.5 : notRelevant (23/1) [11/2]
+|   |   |   |   |   |   |   |   |   |   bodypast >= 0.5 : relevant (4/0) [4/1]
+|   |   |   |   |   |   |   |   |   titlenoofwordslessthan5 >= 0.5
+|   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   |   |   |   |   urlil < 0.5 : notRelevant (14/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   urlil >= 0.5 : relevant (6/1) [3/1]
+|   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyal < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 < 0.5 : relevant (15/0) [5/1]
+|   |   |   |   |   |   |   |   |   |   |   |   urlnoofpartslessthan10 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   urlrank12 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 < 0.5 : notRelevant (5/1) [5/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank11 >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   urlrank12 >= 0.5 : relevant (5/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyal >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   bodymap >= 0.5 : notRelevant (11/0) [5/1]
+|   |   |   |   |   |   |   urlcontainsnamecombination >= 0.5 : relevant (6/0) [4/2]
+|   |   |   |   |   |   bodystate >= 0.5 : notRelevant (17/0) [11/2]
+|   |   |   |   |   bodyenergy >= 0.5 : relevant (15/2) [1/0]
+|   |   |   |   bodyorg >= 0.5 : notRelevant (17/0) [8/1]
+|   |   |   bodyrecommendations >= 0.5 : notRelevant (21/0) [9/0]
+|   |   bodybrowser >= 0.5 : notRelevant (26/0) [11/2]
+|   bodyacm >= 0.5 : relevant (11/0) [6/0]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   //scholar < 0.5
+|   |   |   bodychairman < 0.5
+|   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   bodysummer < 0.5
+|   |   |   |   |   |   bodysan < 0.5
+|   |   |   |   |   |   |   bodyphone < 0.5
+|   |   |   |   |   |   |   |   bodyshares < 0.5
+|   |   |   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   |   |   bodywide < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodystarting < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   titlefullname < 0.5 : notRelevant (82/0) [36/0]
+|   |   |   |   |   |   |   |   |   |   |   |   titlefullname >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyclassification < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytraining < 0.5 : notRelevant (90/2) [64/9]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytraining >= 0.5 : relevant (5/2) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyclassification >= 0.5 : relevant (3/0) [3/1]
+|   |   |   |   |   |   |   |   |   |   |   bodystarting >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   bodywide >= 0.5 : notRelevant (8/4) [7/1]
+|   |   |   |   |   |   |   |   |   urlrank2 >= 0.5 : relevant (12/5) [2/0]
+|   |   |   |   |   |   |   |   bodyshares >= 0.5
+|   |   |   |   |   |   |   |   |   bodyaccording < 0.5 : relevant (7/0) [2/0]
+|   |   |   |   |   |   |   |   |   bodyaccording >= 0.5 : notRelevant (3/0) [2/0]
+|   |   |   |   |   |   |   bodyphone >= 0.5
+|   |   |   |   |   |   |   |   bodyscience < 0.5
+|   |   |   |   |   |   |   |   |   bodyway < 0.5 : notRelevant (17/1) [12/4]
+|   |   |   |   |   |   |   |   |   bodyway >= 0.5 : relevant (5/1) [1/0]
+|   |   |   |   |   |   |   |   bodyscience >= 0.5 : relevant (10/0) [8/2]
+|   |   |   |   |   |   bodysan >= 0.5 : relevant (11/1) [7/2]
+|   |   |   |   |   bodysummer >= 0.5 : relevant (10/0) [3/0]
+|   |   |   |   urlrank1 >= 0.5 : relevant (16/0) [15/2]
+|   |   |   bodychairman >= 0.5
+|   |   |   |   bodybusiness < 0.5 : notRelevant (3/0) [4/1]
+|   |   |   |   bodybusiness >= 0.5
+|   |   |   |   |   bodyunlimited < 0.5 : relevant (35/1) [18/1]
+|   |   |   |   |   bodyunlimited >= 0.5 : notRelevant (2/0) [3/1]
+|   |   //scholar >= 0.5 : relevant (66/0) [33/0]
+|   urlcontainsonenameorgan >= 0.5
+|   |   bodyenglish < 0.5
+|   |   |   bodyshare < 0.5
+|   |   |   |   bodytechnology < 0.5
+|   |   |   |   |   bodyscientific < 0.5
+|   |   |   |   |   |   bodyben < 0.5
+|   |   |   |   |   |   |   bodyet < 0.5
+|   |   |   |   |   |   |   |   bodylater < 0.5
+|   |   |   |   |   |   |   |   |   bodywest < 0.5
+|   |   |   |   |   |   |   |   |   |   bodybanks < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodychoose < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyyears < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfields < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyprocess < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodylike < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyselect < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydata < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyphd < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyperformance < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydepartments < 0.5 : notRelevant (59/2) [31/12]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydepartments >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyperformance >= 0.5 : relevant (3/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyphd >= 0.5 : relevant (11/3) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydata >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyorder < 0.5 : relevant (13/1) [5/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyorder >= 0.5 : notRelevant (4/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyselect >= 0.5 : relevant (8/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypm < 0.5 : relevant (14/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypm >= 0.5 : notRelevant (2/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodylike >= 0.5 : relevant (18/2) [7/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 >= 0.5 : relevant (10/0) [10/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 >= 0.5 : relevant (10/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyprocess >= 0.5 : notRelevant (9/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfields >= 0.5 : relevant (13/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyyears >= 0.5 : relevant (46/6) [17/0]
+|   |   |   |   |   |   |   |   |   |   |   bodychoose >= 0.5 : notRelevant (9/0) [4/1]
+|   |   |   |   |   |   |   |   |   |   bodybanks >= 0.5 : relevant (18/0) [6/0]
+|   |   |   |   |   |   |   |   |   bodywest >= 0.5 : notRelevant (16/0) [10/3]
+|   |   |   |   |   |   |   |   bodylater >= 0.5 : relevant (16/0) [9/0]
+|   |   |   |   |   |   |   bodyet >= 0.5 : relevant (19/0) [7/0]
+|   |   |   |   |   |   bodyben >= 0.5
+|   |   |   |   |   |   |   bodysubscribe < 0.5 : relevant (48/0) [22/0]
+|   |   |   |   |   |   |   bodysubscribe >= 0.5
+|   |   |   |   |   |   |   |   bodyaddress < 0.5 : notRelevant (5/1) [6/0]
+|   |   |   |   |   |   |   |   bodyaddress >= 0.5 : relevant (6/0) [3/0]
+|   |   |   |   |   bodyscientific >= 0.5 : relevant (35/0) [12/1]
+|   |   |   |   bodytechnology >= 0.5
+|   |   |   |   |   bodytim < 0.5
+|   |   |   |   |   |   bodyii < 0.5
+|   |   |   |   |   |   |   bodystars < 0.5 : relevant (114/0) [54/1]
+|   |   |   |   |   |   |   bodystars >= 0.5 : notRelevant (2/1) [4/0]
+|   |   |   |   |   |   bodyii >= 0.5
+|   |   |   |   |   |   |   bodynational < 0.5 : notRelevant (5/1) [3/0]
+|   |   |   |   |   |   |   bodynational >= 0.5 : relevant (7/0) [5/0]
+|   |   |   |   |   bodytim >= 0.5 : notRelevant (4/1) [2/2]
+|   |   |   bodyshare >= 0.5
+|   |   |   |   bodyhello < 0.5
+|   |   |   |   |   bodytext < 0.5
+|   |   |   |   |   |   bodysvenska < 0.5
+|   |   |   |   |   |   |   bodydaily < 0.5 : relevant (184/1) [88/7]
+|   |   |   |   |   |   |   bodydaily >= 0.5
+|   |   |   |   |   |   |   |   bodylike < 0.5
+|   |   |   |   |   |   |   |   |   bodyhouse < 0.5 : notRelevant (5/1) [5/1]
+|   |   |   |   |   |   |   |   |   bodyhouse >= 0.5 : relevant (7/0) [5/0]
+|   |   |   |   |   |   |   |   bodylike >= 0.5 : relevant (28/0) [16/0]
+|   |   |   |   |   |   bodysvenska >= 0.5 : notRelevant (2/0) [0/0]
+|   |   |   |   |   bodytext >= 0.5
+|   |   |   |   |   |   bodymiddle < 0.5
+|   |   |   |   |   |   |   bodywebsite < 0.5 : relevant (24/1) [16/4]
+|   |   |   |   |   |   |   bodywebsite >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   |   bodymiddle >= 0.5 : notRelevant (5/0) [1/1]
+|   |   |   |   bodyhello >= 0.5 : notRelevant (5/1) [2/2]
+|   |   bodyenglish >= 0.5
+|   |   |   bodycomics < 0.5
+|   |   |   |   bodytraining < 0.5
+|   |   |   |   |   bodysell < 0.5
+|   |   |   |   |   |   bodyinstagram < 0.5
+|   |   |   |   |   |   |   bodyday < 0.5
+|   |   |   |   |   |   |   |   bodyeducation < 0.5
+|   |   |   |   |   |   |   |   |   bodyavailable < 0.5
+|   |   |   |   |   |   |   |   |   |   bodydaily < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyinstitute < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodytom < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfoundation < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaugust < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyguide < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyradio < 0.5 : notRelevant (37/5) [30/11]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyradio >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyguide >= 0.5 : relevant (2/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaugust >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfoundation >= 0.5 : relevant (4/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodytom >= 0.5 : relevant (6/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyinstitute >= 0.5 : relevant (6/0) [6/3]
+|   |   |   |   |   |   |   |   |   |   bodydaily >= 0.5 : relevant (7/0) [6/0]
+|   |   |   |   |   |   |   |   |   bodyavailable >= 0.5 : relevant (15/0) [5/0]
+|   |   |   |   |   |   |   |   bodyeducation >= 0.5 : relevant (18/0) [14/0]
+|   |   |   |   |   |   |   bodyday >= 0.5
+|   |   |   |   |   |   |   |   bodyaccess < 0.5 : notRelevant (22/0) [6/1]
+|   |   |   |   |   |   |   |   bodyaccess >= 0.5
+|   |   |   |   |   |   |   |   |   bodytalk < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyexperience < 0.5 : notRelevant (13/1) [1/0]
+|   |   |   |   |   |   |   |   |   |   bodyexperience >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   bodytalk >= 0.5 : relevant (10/0) [1/0]
+|   |   |   |   |   |   bodyinstagram >= 0.5 : relevant (21/0) [11/0]
+|   |   |   |   |   bodysell >= 0.5 : notRelevant (13/0) [5/1]
+|   |   |   |   bodytraining >= 0.5 : relevant (21/0) [9/2]
+|   |   |   bodycomics >= 0.5 : notRelevant (22/0) [11/0]
+
+Size of the tree : 207
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   ac < 0.5
+|   |   bodyjavascript < 0.5
+|   |   |   bodynetworks < 0.5
+|   |   |   |   bodylive < 0.5
+|   |   |   |   |   bodyposts < 0.5
+|   |   |   |   |   |   bodygreen < 0.5
+|   |   |   |   |   |   |   bodyal < 0.5
+|   |   |   |   |   |   |   |   bodymoney < 0.5
+|   |   |   |   |   |   |   |   |   bodyhuman < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyjust < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodymanagement < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan10 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyaviv < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyphone < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlil < 0.5 : notRelevant (20/1) [8/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlil >= 0.5 : relevant (8/3) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlcontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlecontainsnamecombination < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank7 < 0.5 : relevant (27/6) [16/5]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank7 >= 0.5 : notRelevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlecontainsnamecombination >= 0.5 : notRelevant (37/10) [25/5]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycontainsonenameorgan >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank8 < 0.5 : notRelevant (20/0) [14/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank8 >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyphone >= 0.5 : relevant (4/0) [2/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyaviv >= 0.5 : relevant (4/0) [5/3]
+|   |   |   |   |   |   |   |   |   |   |   |   titlenoofwordslessthan10 >= 0.5 : notRelevant (19/1) [11/0]
+|   |   |   |   |   |   |   |   |   |   |   bodymanagement >= 0.5 : relevant (4/0) [4/1]
+|   |   |   |   |   |   |   |   |   |   bodyjust >= 0.5 : notRelevant (12/0) [6/0]
+|   |   |   |   |   |   |   |   |   bodyhuman >= 0.5 : relevant (6/0) [4/0]
+|   |   |   |   |   |   |   |   bodymoney >= 0.5 : notRelevant (12/0) [3/0]
+|   |   |   |   |   |   |   bodyal >= 0.5 : notRelevant (18/0) [4/0]
+|   |   |   |   |   |   bodygreen >= 0.5 : relevant (8/0) [1/0]
+|   |   |   |   |   bodyposts >= 0.5 : relevant (8/0) [3/1]
+|   |   |   |   bodylive >= 0.5 : notRelevant (17/0) [7/0]
+|   |   |   bodynetworks >= 0.5 : relevant (13/1) [14/1]
+|   |   bodyjavascript >= 0.5 : notRelevant (29/0) [4/1]
+|   ac >= 0.5 : relevant (15/0) [5/2]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   bodyindex < 0.5
+|   |   |   bodymembers < 0.5
+|   |   |   |   bodycustomer < 0.5
+|   |   |   |   |   bodyinterests < 0.5
+|   |   |   |   |   |   bodyserved < 0.5
+|   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   bodyprofile < 0.5 : notRelevant (143/4) [90/11]
+|   |   |   |   |   |   |   |   bodyprofile >= 0.5
+|   |   |   |   |   |   |   |   |   bodycenter < 0.5 : relevant (7/1) [10/3]
+|   |   |   |   |   |   |   |   |   bodycenter >= 0.5 : notRelevant (26/1) [7/1]
+|   |   |   |   |   |   |   urlrank2 >= 0.5 : relevant (9/4) [4/0]
+|   |   |   |   |   |   bodyserved >= 0.5 : relevant (4/0) [5/3]
+|   |   |   |   |   bodyinterests >= 0.5 : relevant (10/2) [1/0]
+|   |   |   |   bodycustomer >= 0.5 : relevant (16/3) [9/6]
+|   |   |   bodymembers >= 0.5
+|   |   |   |   bodyimagealtlogo < 0.5 : relevant (29/0) [14/1]
+|   |   |   |   bodyimagealtlogo >= 0.5 : notRelevant (4/1) [4/1]
+|   |   bodyindex >= 0.5
+|   |   |   bodyhome < 0.5 : relevant (75/0) [40/0]
+|   |   |   bodyhome >= 0.5
+|   |   |   |   bodynew < 0.5
+|   |   |   |   |   bodyway < 0.5
+|   |   |   |   |   |   bodyth < 0.5 : notRelevant (22/3) [10/1]
+|   |   |   |   |   |   bodyth >= 0.5 : relevant (4/0) [4/0]
+|   |   |   |   |   bodyway >= 0.5 : relevant (7/0) [0/0]
+|   |   |   |   bodynew >= 0.5 : relevant (26/0) [12/1]
+|   urlcontainsonenameorgan >= 0.5
+|   |   bodyenglish < 0.5
+|   |   |   urlrank14 < 0.5
+|   |   |   |   bodysmall < 0.5
+|   |   |   |   |   bodylocation < 0.5
+|   |   |   |   |   |   bodyyears < 0.5
+|   |   |   |   |   |   |   bodyil < 0.5
+|   |   |   |   |   |   |   |   bodyimagealtw < 0.5
+|   |   |   |   |   |   |   |   |   bodycapital < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyjournal < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodylike < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodydeal < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfederal < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyst < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydavid < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank3 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyblack < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodystage < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyteaching < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytalk < 0.5 : notRelevant (67/7) [40/12]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytalk >= 0.5 : relevant (4/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyteaching >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyacademic < 0.5 : relevant (8/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyacademic >= 0.5 : notRelevant (5/0) [3/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodystage >= 0.5 : relevant (5/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyblack >= 0.5 : relevant (5/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank3 >= 0.5 : relevant (8/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydavid >= 0.5 : relevant (12/1) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyst >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyac < 0.5 : relevant (19/0) [9/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyac >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfederal >= 0.5 : relevant (14/0) [10/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 >= 0.5 : relevant (15/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 >= 0.5 : relevant (17/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodydeal >= 0.5 : notRelevant (11/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   bodylike >= 0.5 : relevant (43/3) [18/3]
+|   |   |   |   |   |   |   |   |   |   bodyjournal >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodypublication < 0.5 : relevant (43/0) [22/0]
+|   |   |   |   |   |   |   |   |   |   |   bodypublication >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   //www < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   //www >= 0.5 : notRelevant (3/0) [4/0]
+|   |   |   |   |   |   |   |   |   bodycapital >= 0.5 : relevant (36/0) [19/0]
+|   |   |   |   |   |   |   |   bodyimagealtw >= 0.5 : relevant (39/0) [15/0]
+|   |   |   |   |   |   |   bodyil >= 0.5 : relevant (46/0) [24/2]
+|   |   |   |   |   |   bodyyears >= 0.5
+|   |   |   |   |   |   |   bodysaved < 0.5
+|   |   |   |   |   |   |   |   bodychanged < 0.5 : relevant (135/1) [64/4]
+|   |   |   |   |   |   |   |   bodychanged >= 0.5
+|   |   |   |   |   |   |   |   |   bodygiving < 0.5 : relevant (19/1) [1/0]
+|   |   |   |   |   |   |   |   |   bodygiving >= 0.5 : notRelevant (5/1) [3/1]
+|   |   |   |   |   |   |   bodysaved >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   bodylocation >= 0.5
+|   |   |   |   |   |   bodylist < 0.5
+|   |   |   |   |   |   |   bodyfaq < 0.5
+|   |   |   |   |   |   |   |   bodyhigh < 0.5 : notRelevant (15/4) [11/4]
+|   |   |   |   |   |   |   |   bodyhigh >= 0.5 : relevant (8/0) [2/0]
+|   |   |   |   |   |   |   bodyfaq >= 0.5 : notRelevant (18/0) [4/3]
+|   |   |   |   |   |   bodylist >= 0.5 : relevant (8/0) [1/0]
+|   |   |   |   bodysmall >= 0.5 : relevant (151/5) [67/5]
+|   |   |   urlrank14 >= 0.5
+|   |   |   |   bodynews < 0.5
+|   |   |   |   |   bodyil < 0.5 : relevant (24/4) [8/1]
+|   |   |   |   |   bodyil >= 0.5 : notRelevant (5/0) [3/0]
+|   |   |   |   bodynews >= 0.5
+|   |   |   |   |   bodyhelp < 0.5
+|   |   |   |   |   |   bodybrowse < 0.5 : relevant (7/2) [11/0]
+|   |   |   |   |   |   bodybrowse >= 0.5 : notRelevant (3/0) [0/0]
+|   |   |   |   |   bodyhelp >= 0.5 : notRelevant (17/0) [6/2]
+|   |   bodyenglish >= 0.5
+|   |   |   bodycomics < 0.5
+|   |   |   |   bodytraining < 0.5
+|   |   |   |   |   bodylog < 0.5
+|   |   |   |   |   |   bodywatch < 0.5
+|   |   |   |   |   |   |   bodycontact < 0.5
+|   |   |   |   |   |   |   |   bodyresearch < 0.5
+|   |   |   |   |   |   |   |   |   bodyel < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyend < 0.5
+|   |   |   |   |   |   |   |   |   |   |   urlrank7 < 0.5 : notRelevant (32/2) [11/5]
+|   |   |   |   |   |   |   |   |   |   |   urlrank7 >= 0.5 : relevant (2/0) [3/1]
+|   |   |   |   |   |   |   |   |   |   bodyend >= 0.5 : relevant (2/0) [4/0]
+|   |   |   |   |   |   |   |   |   bodyel >= 0.5 : relevant (2/0) [0/0]
+|   |   |   |   |   |   |   |   bodyresearch >= 0.5 : relevant (4/0) [3/0]
+|   |   |   |   |   |   |   bodycontact >= 0.5
+|   |   |   |   |   |   |   |   bodybutton < 0.5 : relevant (36/3) [29/2]
+|   |   |   |   |   |   |   |   bodybutton >= 0.5 : notRelevant (5/0) [1/0]
+|   |   |   |   |   |   bodywatch >= 0.5 : notRelevant (27/1) [11/2]
+|   |   |   |   |   bodylog >= 0.5
+|   |   |   |   |   |   bodyapr < 0.5 : relevant (53/8) [37/10]
+|   |   |   |   |   |   bodyapr >= 0.5 : notRelevant (8/1) [8/3]
+|   |   |   |   bodytraining >= 0.5 : relevant (18/0) [11/3]
+|   |   |   bodycomics >= 0.5 : notRelevant (24/0) [8/0]
+
+Size of the tree : 163
+
+
+REPTree
+============
+
+urlcontainsonenameorgan < 0.5
+|   //scholar < 0.5
+|   |   bodycreate < 0.5
+|   |   |   bodypositions < 0.5
+|   |   |   |   bodyarea < 0.5
+|   |   |   |   |   bodynumbers < 0.5
+|   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   bodyjump < 0.5
+|   |   |   |   |   |   |   |   bodybanks < 0.5
+|   |   |   |   |   |   |   |   |   bodynoofwordslessthan50 < 0.5
+|   |   |   |   |   |   |   |   |   |   titlefullname < 0.5 : notRelevant (116/0) [54/2]
+|   |   |   |   |   |   |   |   |   |   titlefullname >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodycontinue < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodycredit < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyshares < 0.5 : notRelevant (80/0) [40/5]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyshares >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccording < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyaccording >= 0.5 : notRelevant (4/0) [1/1]
+|   |   |   |   |   |   |   |   |   |   |   |   bodycredit >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfebruary < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymichael < 0.5 : notRelevant (17/1) [7/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymichael >= 0.5 : relevant (3/1) [3/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfebruary >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   bodycontinue >= 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   bodynoofwordslessthan50 >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodydownload < 0.5
+|   |   |   |   |   |   |   |   |   |   |   urlil < 0.5 : notRelevant (18/0) [7/0]
+|   |   |   |   |   |   |   |   |   |   |   urlil >= 0.5 : relevant (6/2) [3/1]
+|   |   |   |   |   |   |   |   |   |   bodydownload >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   bodybanks >= 0.5 : relevant (11/5) [6/0]
+|   |   |   |   |   |   |   bodyjump >= 0.5 : notRelevant (18/9) [3/0]
+|   |   |   |   |   |   urlrank1 >= 0.5 : relevant (7/1) [0/0]
+|   |   |   |   |   bodynumbers >= 0.5 : relevant (7/1) [8/4]
+|   |   |   |   bodyarea >= 0.5 : relevant (13/3) [11/4]
+|   |   |   bodypositions >= 0.5
+|   |   |   |   bodycenter < 0.5 : relevant (13/0) [1/0]
+|   |   |   |   bodycenter >= 0.5
+|   |   |   |   |   bodywebsite < 0.5 : notRelevant (6/0) [2/0]
+|   |   |   |   |   bodywebsite >= 0.5 : relevant (2/0) [2/0]
+|   |   bodycreate >= 0.5
+|   |   |   bodypersonal < 0.5
+|   |   |   |   bodyyear < 0.5
+|   |   |   |   |   bodyterms < 0.5
+|   |   |   |   |   |   bodyadditional < 0.5 : relevant (4/0) [2/0]
+|   |   |   |   |   |   bodyadditional >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   bodyterms >= 0.5 : notRelevant (22/0) [14/0]
+|   |   |   |   bodyyear >= 0.5
+|   |   |   |   |   bodyago < 0.5 : relevant (21/0) [8/2]
+|   |   |   |   |   bodyago >= 0.5 : notRelevant (6/2) [5/0]
+|   |   |   bodypersonal >= 0.5 : relevant (40/0) [25/1]
+|   //scholar >= 0.5 : relevant (66/0) [34/0]
+urlcontainsonenameorgan >= 0.5
+|   bodycontainsnamecombination < 0.5
+|   |   bodypublications < 0.5
+|   |   |   bodyfacebook < 0.5
+|   |   |   |   bodycorporate < 0.5
+|   |   |   |   |   bodylive < 0.5
+|   |   |   |   |   |   urlnoofpartslessthan7 < 0.5
+|   |   |   |   |   |   |   bodylocation < 0.5
+|   |   |   |   |   |   |   |   titlenoofwordslessthan10 < 0.5
+|   |   |   |   |   |   |   |   |   bodyimagealt < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyid < 0.5 : relevant (21/6) [4/1]
+|   |   |   |   |   |   |   |   |   |   bodyid >= 0.5 : notRelevant (8/1) [5/1]
+|   |   |   |   |   |   |   |   |   bodyimagealt >= 0.5 : notRelevant (5/0) [4/3]
+|   |   |   |   |   |   |   |   titlenoofwordslessthan10 >= 0.5 : notRelevant (7/0) [7/2]
+|   |   |   |   |   |   |   bodylocation >= 0.5 : relevant (9/0) [1/0]
+|   |   |   |   |   |   urlnoofpartslessthan7 >= 0.5 : relevant (22/2) [11/1]
+|   |   |   |   |   bodylive >= 0.5 : notRelevant (8/0) [2/0]
+|   |   |   |   bodycorporate >= 0.5 : notRelevant (12/0) [5/0]
+|   |   |   bodyfacebook >= 0.5
+|   |   |   |   bodyadditional < 0.5 : notRelevant (81/11) [46/11]
+|   |   |   |   bodyadditional >= 0.5 : relevant (3/0) [1/0]
+|   |   bodypublications >= 0.5 : relevant (18/0) [10/2]
+|   bodycontainsnamecombination >= 0.5
+|   |   bodygoodreads < 0.5
+|   |   |   bodyeconomic < 0.5
+|   |   |   |   bodysystems < 0.5
+|   |   |   |   |   bodystatistics < 0.5
+|   |   |   |   |   |   bodytransactions < 0.5
+|   |   |   |   |   |   |   urluser < 0.5
+|   |   |   |   |   |   |   |   urlrank14 < 0.5
+|   |   |   |   |   |   |   |   |   bodyedition < 0.5
+|   |   |   |   |   |   |   |   |   |   bodymilitary < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyprocess < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodymarketplace < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodylost < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytechnion < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinternet < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyregister < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodystream < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysarah < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymen < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjob < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreally < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyself < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybusiness < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodystaff < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycontacts < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytom < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycapital < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyorg < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytoday < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyemail < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyblog < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydata < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagesrccontainsonenameorgan < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyal < 0.5 : notRelevant (21/6) [21/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyal >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagesrccontainsonenameorgan >= 0.5 : relevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews >= 0.5 : notRelevant (13/1) [6/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodydata >= 0.5 : relevant (5/0) [7/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyblog >= 0.5 : relevant (6/0) [3/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyemail >= 0.5 : notRelevant (12/1) [7/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytoday >= 0.5 : relevant (5/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyorg >= 0.5 : relevant (13/1) [5/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycapital >= 0.5 : relevant (8/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytom >= 0.5 : relevant (16/1) [8/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycontacts >= 0.5 : notRelevant (6/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodystaff >= 0.5 : relevant (10/0) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank2 >= 0.5 : relevant (13/0) [13/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodybusiness >= 0.5 : relevant (22/1) [14/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyself >= 0.5 : notRelevant (6/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyreally >= 0.5 : notRelevant (6/0) [5/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 >= 0.5 : relevant (15/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyjob >= 0.5 : relevant (17/0) [11/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordslessthan200 >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypolicy < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyair < 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyair >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodypolicy >= 0.5 : notRelevant (9/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymen >= 0.5 : relevant (32/0) [10/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodysarah >= 0.5 : notRelevant (9/1) [4/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodystream >= 0.5 : notRelevant (6/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyregister >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodygot < 0.5 : notRelevant (15/0) [15/7]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodygot >= 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyinternet >= 0.5 : relevant (29/1) [15/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank1 >= 0.5 : relevant (23/0) [12/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodytechnion >= 0.5 : relevant (26/0) [15/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodylost >= 0.5 : relevant (28/0) [10/1]
+|   |   |   |   |   |   |   |   |   |   |   |   bodymarketplace >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyinstitute < 0.5 : notRelevant (28/6) [20/4]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyinstitute >= 0.5 : relevant (5/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyprocess >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyearly < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfaculty < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyca < 0.5 : notRelevant (26/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyca >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyadd < 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyadd >= 0.5 : notRelevant (2/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyfaculty >= 0.5 : relevant (5/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyearly >= 0.5 : relevant (6/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   bodymilitary >= 0.5 : notRelevant (15/0) [7/0]
+|   |   |   |   |   |   |   |   |   bodyedition >= 0.5 : relevant (47/2) [33/4]
+|   |   |   |   |   |   |   |   urlrank14 >= 0.5
+|   |   |   |   |   |   |   |   |   bodyhigh < 0.5
+|   |   |   |   |   |   |   |   |   |   bodypublication < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodychoose < 0.5 : notRelevant (24/0) [14/4]
+|   |   |   |   |   |   |   |   |   |   |   bodychoose >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyadd < 0.5 : relevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyadd >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   bodypublication >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   bodyhigh >= 0.5 : relevant (4/0) [2/0]
+|   |   |   |   |   |   |   urluser >= 0.5 : notRelevant (13/0) [3/0]
+|   |   |   |   |   |   bodytransactions >= 0.5 : relevant (35/0) [8/1]
+|   |   |   |   |   bodystatistics >= 0.5
+|   |   |   |   |   |   bodyactivities < 0.5 : relevant (56/0) [24/0]
+|   |   |   |   |   |   bodyactivities >= 0.5 : notRelevant (2/0) [3/0]
+|   |   |   |   bodysystems >= 0.5
+|   |   |   |   |   bodyworks < 0.5 : relevant (121/1) [63/2]
+|   |   |   |   |   bodyworks >= 0.5
+|   |   |   |   |   |   bodyhaifa < 0.5
+|   |   |   |   |   |   |   bodygroup < 0.5 : notRelevant (5/0) [4/0]
+|   |   |   |   |   |   |   bodygroup >= 0.5 : relevant (2/0) [5/0]
+|   |   |   |   |   |   bodyhaifa >= 0.5 : relevant (5/0) [1/0]
+|   |   |   bodyeconomic >= 0.5
+|   |   |   |   bodyamir < 0.5
+|   |   |   |   |   bodyfunction < 0.5 : relevant (172/2) [72/4]
+|   |   |   |   |   bodyfunction >= 0.5
+|   |   |   |   |   |   bodybooks < 0.5 : relevant (8/0) [6/0]
+|   |   |   |   |   |   bodybooks >= 0.5 : notRelevant (6/1) [3/1]
+|   |   |   |   bodyamir >= 0.5 : notRelevant (4/0) [2/1]
+|   |   bodygoodreads >= 0.5 : notRelevant (30/1) [10/1]
+
+Size of the tree : 189
+
+
+REPTree
+============
+
+bodycontainsnamecombination < 0.5
+|   bodynetworks < 0.5
+|   |   urlcontainsonenameorgan < 0.5
+|   |   |   bodyindividual < 0.5
+|   |   |   |   bodynoofwordslessthan50 < 0.5 : notRelevant (73/1) [29/1]
+|   |   |   |   bodynoofwordslessthan50 >= 0.5
+|   |   |   |   |   urlil < 0.5 : notRelevant (5/0) [10/0]
+|   |   |   |   |   urlil >= 0.5 : relevant (7/2) [1/0]
+|   |   |   bodyindividual >= 0.5 : relevant (3/0) [4/2]
+|   |   urlcontainsonenameorgan >= 0.5
+|   |   |   bodyrequest < 0.5
+|   |   |   |   bodybest < 0.5
+|   |   |   |   |   bodyfacebook < 0.5
+|   |   |   |   |   |   urlnoofpartslessthan10 < 0.5
+|   |   |   |   |   |   |   bodycapital < 0.5 : relevant (23/2) [25/7]
+|   |   |   |   |   |   |   bodycapital >= 0.5 : notRelevant (5/0) [5/0]
+|   |   |   |   |   |   urlnoofpartslessthan10 >= 0.5
+|   |   |   |   |   |   |   bodypowered < 0.5
+|   |   |   |   |   |   |   |   bodysupport < 0.5
+|   |   |   |   |   |   |   |   |   titlenoofwordslessthan5 < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyblog < 0.5 : notRelevant (4/0) [3/1]
+|   |   |   |   |   |   |   |   |   |   bodyblog >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   titlenoofwordslessthan5 >= 0.5 : relevant (9/1) [4/2]
+|   |   |   |   |   |   |   |   bodysupport >= 0.5 : notRelevant (10/1) [7/1]
+|   |   |   |   |   |   |   bodypowered >= 0.5 : notRelevant (7/0) [3/0]
+|   |   |   |   |   bodyfacebook >= 0.5
+|   |   |   |   |   |   bodyadditional < 0.5
+|   |   |   |   |   |   |   bodyimagealt < 0.5
+|   |   |   |   |   |   |   |   bodyset < 0.5 : notRelevant (66/14) [26/4]
+|   |   |   |   |   |   |   |   bodyset >= 0.5 : relevant (3/0) [3/0]
+|   |   |   |   |   |   |   bodyimagealt >= 0.5 : notRelevant (14/0) [9/0]
+|   |   |   |   |   |   bodyadditional >= 0.5 : relevant (4/0) [2/0]
+|   |   |   |   bodybest >= 0.5 : notRelevant (22/0) [10/2]
+|   |   |   bodyrequest >= 0.5 : relevant (9/0) [1/0]
+|   bodynetworks >= 0.5 : relevant (22/3) [15/2]
+bodycontainsnamecombination >= 0.5
+|   urlcontainsonenameorgan < 0.5
+|   |   //scholar < 0.5
+|   |   |   bodymagazine < 0.5
+|   |   |   |   bodyage < 0.5
+|   |   |   |   |   bodyterm < 0.5
+|   |   |   |   |   |   urlrank2 < 0.5
+|   |   |   |   |   |   |   bodyshares < 0.5
+|   |   |   |   |   |   |   |   bodylargest < 0.5
+|   |   |   |   |   |   |   |   |   bodyimagealts < 0.5
+|   |   |   |   |   |   |   |   |   |   bodyinterests < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodyjump < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodyprofile < 0.5 : notRelevant (152/3) [73/8]
+|   |   |   |   |   |   |   |   |   |   |   |   bodyprofile >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   _than_10 < 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   _than_10 >= 0.5 : notRelevant (12/0) [6/0]
+|   |   |   |   |   |   |   |   |   |   |   bodyjump >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodydec < 0.5 : notRelevant (12/1) [14/8]
+|   |   |   |   |   |   |   |   |   |   |   |   bodydec >= 0.5 : relevant (3/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   bodyinterests >= 0.5 : relevant (4/1) [2/0]
+|   |   |   |   |   |   |   |   |   bodyimagealts >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodybrowse < 0.5 : relevant (4/0) [3/0]
+|   |   |   |   |   |   |   |   |   |   bodybrowse >= 0.5 : notRelevant (2/0) [1/0]
+|   |   |   |   |   |   |   |   bodylargest >= 0.5 : relevant (6/1) [2/1]
+|   |   |   |   |   |   |   bodyshares >= 0.5
+|   |   |   |   |   |   |   |   bodybit < 0.5 : relevant (6/0) [4/0]
+|   |   |   |   |   |   |   |   bodybit >= 0.5 : notRelevant (3/0) [2/0]
+|   |   |   |   |   |   urlrank2 >= 0.5 : relevant (7/1) [11/5]
+|   |   |   |   |   bodyterm >= 0.5
+|   |   |   |   |   |   bodyrate < 0.5 : relevant (12/1) [12/4]
+|   |   |   |   |   |   bodyrate >= 0.5 : notRelevant (3/0) [2/0]
+|   |   |   |   bodyage >= 0.5 : relevant (22/6) [7/1]
+|   |   |   bodymagazine >= 0.5
+|   |   |   |   bodynation < 0.5 : relevant (35/0) [29/6]
+|   |   |   |   bodynation >= 0.5
+|   |   |   |   |   bodyair < 0.5 : notRelevant (5/0) [5/0]
+|   |   |   |   |   bodyair >= 0.5 : relevant (6/0) [2/0]
+|   |   //scholar >= 0.5 : relevant (83/0) [33/0]
+|   urlcontainsonenameorgan >= 0.5
+|   |   bodyaudible < 0.5
+|   |   |   bodyimagealtc < 0.5
+|   |   |   |   bodyfinancial < 0.5
+|   |   |   |   |   bodysmall < 0.5
+|   |   |   |   |   |   bodysharon < 0.5
+|   |   |   |   |   |   |   bodyben < 0.5
+|   |   |   |   |   |   |   |   bodyteams < 0.5
+|   |   |   |   |   |   |   |   |   bodysign < 0.5
+|   |   |   |   |   |   |   |   |   |   bodybest < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodycontrol < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodymr < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodylarge < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhaifa < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyquestion < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyroad < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhomepage < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhard < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyday < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyconnected < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagealta < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyshop < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyresources < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlefullname < 0.5 : notRelevant (16/2) [10/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   titlefullname >= 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordsgreaterthan500 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyweb < 0.5 : relevant (46/20) [33/11]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyweb >= 0.5 : notRelevant (8/0) [6/2]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynoofwordsgreaterthan500 >= 0.5 : relevant (11/0) [11/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyresources >= 0.5 : relevant (7/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyshop >= 0.5 : notRelevant (8/0) [6/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyimagealta >= 0.5 : notRelevant (8/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyconnected >= 0.5 : notRelevant (9/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyday >= 0.5 : notRelevant (19/1) [6/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhard >= 0.5 : relevant (6/0) [5/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhomepage >= 0.5 : relevant (7/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyroad >= 0.5 : relevant (12/1) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyquestion >= 0.5 : relevant (8/0) [1/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyhaifa >= 0.5 : relevant (17/1) [10/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodylarge >= 0.5 : relevant (13/0) [7/1]
+|   |   |   |   |   |   |   |   |   |   |   |   bodymr >= 0.5 : relevant (19/0) [12/0]
+|   |   |   |   |   |   |   |   |   |   |   bodycontrol >= 0.5 : relevant (26/0) [13/0]
+|   |   |   |   |   |   |   |   |   |   bodybest >= 0.5 : relevant (60/5) [23/1]
+|   |   |   |   |   |   |   |   |   bodysign >= 0.5
+|   |   |   |   |   |   |   |   |   |   bodyjames < 0.5
+|   |   |   |   |   |   |   |   |   |   |   bodymagazine < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   bodybit < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyneed < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyoctober < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycomplete < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfunds < 0.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymichael < 0.5 : notRelevant (55/4) [14/3]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodymichael >= 0.5 : relevant (2/0) [3/1]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyfunds >= 0.5 : relevant (2/0) [2/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   urlrank5 >= 0.5 : relevant (6/2) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodycomplete >= 0.5 : relevant (3/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   bodyoctober >= 0.5 : relevant (4/0) [0/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   bodynews >= 0.5 : notRelevant (27/0) [16/0]
+|   |   |   |   |   |   |   |   |   |   |   |   |   bodyneed >= 0.5 : relevant (18/6) [11/3]
+|   |   |   |   |   |   |   |   |   |   |   |   bodybit >= 0.5 : relevant (10/0) [4/0]
+|   |   |   |   |   |   |   |   |   |   |   bodymagazine >= 0.5 : relevant (14/1) [14/3]
+|   |   |   |   |   |   |   |   |   |   bodyjames >= 0.5 : relevant (11/0) [4/0]
+|   |   |   |   |   |   |   |   bodyteams >= 0.5 : relevant (34/1) [17/0]
+|   |   |   |   |   |   |   bodyben >= 0.5
+|   |   |   |   |   |   |   |   bodywar < 0.5
+|   |   |   |   |   |   |   |   |   bodyposted < 0.5
+|   |   |   |   |   |   |   |   |   |   urlrank8 < 0.5 : relevant (87/0) [28/2]
+|   |   |   |   |   |   |   |   |   |   urlrank8 >= 0.5 : notRelevant (4/2) [1/0]
+|   |   |   |   |   |   |   |   |   bodyposted >= 0.5 : notRelevant (2/0) [0/0]
+|   |   |   |   |   |   |   |   bodywar >= 0.5 : notRelevant (6/0) [8/3]
+|   |   |   |   |   |   bodysharon >= 0.5 : notRelevant (21/2) [9/0]
+|   |   |   |   |   bodysmall >= 0.5
+|   |   |   |   |   |   bodyalt < 0.5
+|   |   |   |   |   |   |   bodysites < 0.5 : relevant (75/0) [36/2]
+|   |   |   |   |   |   |   bodysites >= 0.5
+|   |   |   |   |   |   |   |   bodyadditional < 0.5 : relevant (3/0) [1/0]
+|   |   |   |   |   |   |   |   bodyadditional >= 0.5 : notRelevant (2/0) [3/0]
+|   |   |   |   |   |   bodyalt >= 0.5 : notRelevant (2/0) [2/0]
+|   |   |   |   bodyfinancial >= 0.5
+|   |   |   |   |   bodyorg < 0.5
+|   |   |   |   |   |   bodydeal < 0.5 : relevant (186/6) [78/1]
+|   |   |   |   |   |   bodydeal >= 0.5
+|   |   |   |   |   |   |   bodyafrica < 0.5
+|   |   |   |   |   |   |   |   bodyimagealt < 0.5 : relevant (18/0) [8/2]
+|   |   |   |   |   |   |   |   bodyimagealt >= 0.5 : notRelevant (3/1) [3/1]
+|   |   |   |   |   |   |   bodyafrica >= 0.5 : notRelevant (6/0) [2/1]
+|   |   |   |   |   bodyorg >= 0.5
+|   |   |   |   |   |   bodyoffer < 0.5 : relevant (14/2) [11/1]
+|   |   |   |   |   |   bodyoffer >= 0.5 : notRelevant (8/0) [1/0]
+|   |   |   bodyimagealtc >= 0.5 : relevant (88/1) [36/1]
+|   |   bodyaudible >= 0.5 : notRelevant (23/0) [10/2]
+
+Size of the tree : 167
+
+Out of bag error: 0.1053
+
+

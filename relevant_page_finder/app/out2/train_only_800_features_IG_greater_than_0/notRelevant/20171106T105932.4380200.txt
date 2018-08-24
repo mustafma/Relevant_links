@@ -1,0 +1,11 @@
+bodycontainsnamecombination
+bodymaterial
+bodyadv
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfullname
+bodyconference
+urlrank
+urlil
+bodynoofwordsgreaterthan500
+urlrank13

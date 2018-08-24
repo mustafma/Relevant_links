@@ -1,0 +1,16 @@
+bodycookies
+urlhttp
+urlsimon
+urlfacebook
+titlesimon
+urlcontainsonenameorgan
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+titleadler
+bodyfacebook
+titlecontainsonenameorgan
+titlenoofwordslessthan7
+urlcom
+urlwww
+bodynoofentitynameindoclessthan3
+urladler

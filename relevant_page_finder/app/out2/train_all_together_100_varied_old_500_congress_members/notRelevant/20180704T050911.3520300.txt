@@ -1,0 +1,22 @@
+titlenoofwords_greater _than_10
+titlepinterest
+titleval
+titlekilmer
+titleluke
+urlpin
+urlwww
+titlecontainsonenameorgan
+urlhttps://www.pinterest.com/pin/467037423834031908/
+urlcom
+titlecollection
+urlnoofpartslessthan7
+urlrank
+titlederek
+urlhttps
+titlemovie
+urlrank41
+bodynoofwordslessthan50
+titlespartan
+titleinvestigations
+bodynoofentitynameindoclessthan3
+urlpinterest

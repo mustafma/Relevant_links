@@ -1,0 +1,17 @@
+titlealon
+titlesigal
+bodycookies
+urlhttp
+urlfacebook
+urlcontainsonenameorgan
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+urlalon
+bodyfacebook
+urlsigal
+titlecontainsnamecombination
+titlecontainsonenameorgan
+urlcom
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3

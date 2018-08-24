@@ -1,0 +1,11 @@
+bodyalt
+bodyespa
+titlenoofwordslessthan7
+urlfacebook
+urlcom
+urlrank
+urlfacebookpage
+bodycookie
+bodyenglish
+bodyol
+bodynoofentitynameindoclessthan3

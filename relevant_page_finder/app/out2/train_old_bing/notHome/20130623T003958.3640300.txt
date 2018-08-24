@@ -1,0 +1,17 @@
+bodycookies
+urlisaac
+urlhttp
+urlfacebook
+urlcontainsonenameorgan
+bodynoofwordslessthan50
+titleisaac
+urlnoofpartslessthan5
+bodyfacebook
+titlecontainsnamecombination
+titlecontainsonenameorgan
+titlehillel
+urlcom
+urlwww
+urlhillel
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3

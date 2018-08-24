@@ -1,0 +1,17 @@
+bodycontainsnamecombination
+titlefullname
+titlecontainsonenameorgan
+bodyworld
+urlcom
+bodyinfo
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfullname
+bodymedia
+bodyclass
+urlrank
+urlcontainsonenameorgan
+urlcontainsnamecombination
+bodynoofwordslessthan50
+bodyopera

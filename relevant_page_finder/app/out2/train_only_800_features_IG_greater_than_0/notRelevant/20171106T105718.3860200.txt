@@ -1,0 +1,16 @@
+bodymartin
+bodycontainsnamecombination
+urledu
+titlefullname
+titlecontainsonenameorgan
+urluser
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfullname
+urlrank
+urlcontainsonenameorgan
+bodynew
+bodynoofwordslessthan50
+urlrank11
+bodywebsite

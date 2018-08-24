@@ -1,0 +1,14 @@
+urlmiketyson
+urlhttp
+titlemike
+titleofficial
+urlcontainsonenameorgan
+urlfullname
+urlnoofpartslessthan5
+titlecontainsnamecombination
+titlecontainsonenameorgan
+titlesite
+titlenoofwordslessthan7
+urlcom
+titletyson
+urlcontainsnamecombination

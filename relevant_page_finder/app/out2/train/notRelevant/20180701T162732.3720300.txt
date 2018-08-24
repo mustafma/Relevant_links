@@ -1,0 +1,12 @@
+urlrank38
+urlnoofpartslessthan7
+urlrank
+urlhttps://uconntact.uconn.edu/event/328653
+urlhttps
+urledu
+urluconn
+bodynoofwordslessthan50
+urlevent
+urluconntact
+bodynoofentitynameindoclessthan3
+titlenoofwordslessthan5

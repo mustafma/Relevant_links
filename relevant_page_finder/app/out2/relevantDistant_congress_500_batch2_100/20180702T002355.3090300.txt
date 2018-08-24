@@ -1,0 +1,17 @@
+titlewebsite
+urlhttp://kellison.ngpvanhost.com/
+urlkellison
+titlenoofwordslessthan5
+urlcom
+urlhttp
+urlrank
+bodylater
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlcontainsnamecombination
+urlrank43
+bodynoofwordslessthan50
+urlngpvanhost
+bodynoofentitynameindoclessthan3
+bodywebsite
+bodytry

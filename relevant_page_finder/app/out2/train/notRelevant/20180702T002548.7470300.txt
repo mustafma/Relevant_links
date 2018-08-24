@@ -1,0 +1,22 @@
+titlecaricatures
+titlenoofwords_greater _than_10
+urlpin
+urlwww
+titlecontainsonenameorgan
+titlecaricature
+urlhttps://www.pinterest.com/pin/460704236873802632/
+titlesenators
+urlcom
+titleburr
+urlnoofpartslessthan7
+urlrank
+titlepublic
+titledomain
+urlhttps
+bodynoofwordslessthan50
+titlecontainsnamecombination
+urlrank35
+bodynoofentitynameindoclessthan3
+urlpinterest
+titlerichard
+titlerepublican

@@ -1,0 +1,16 @@
+urlrank27
+titlecom
+urlartist
+urlrobin
+titlenoofwordslessthan5
+urlcom
+urlnoofpartslessthan7
+urlrank
+urleavibe
+titleeavibe
+urlcontainsonenameorgan
+urlhttps://eavibe.com/artist/1433131/robin%20kelly
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlkelly

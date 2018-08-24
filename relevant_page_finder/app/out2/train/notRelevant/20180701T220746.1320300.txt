@@ -1,0 +1,24 @@
+bodysend
+titlenoofwords_greater _than_10
+titleduffy
+urlexplore
+titlebest
+titlegif
+urlhttps://giphy.com/explore/patrick-duffy
+urlgiphy
+titlecontainsonenameorgan
+urlduffy
+titlepatrick
+urlcom
+urlpatrick
+urlnoofpartslessthan7
+urlrank
+urlcontainsonenameorgan
+bodyimagealtquantcast
+urlhttps
+bodynoofwordslessthan50
+urlrank34
+titlecontainsnamecombination
+titlegifs
+bodynoofentitynameindoclessthan3
+titlegiphy

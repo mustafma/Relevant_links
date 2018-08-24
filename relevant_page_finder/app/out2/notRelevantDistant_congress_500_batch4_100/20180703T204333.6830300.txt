@@ -1,0 +1,25 @@
+urlexplore
+titlebest
+titlefullname
+urlgiphy
+titlecontainsonenameorgan
+urlhttps://giphy.com/explore/carolyn-maloney
+urlcom
+urlnoofpartslessthan7
+titlecontainsnamecombination
+urlrank46
+bodynoofentitynameindoclessthan3
+urlmaloney
+bodysend
+titlenoofwords_greater _than_10
+urlcarolyn
+titlegif
+titlemaloney
+urlrank
+urlcontainsonenameorgan
+bodyimagealtquantcast
+urlhttps
+bodynoofwordslessthan50
+titlecarolyn
+titlegifs
+titlegiphy

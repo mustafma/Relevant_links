@@ -1,0 +1,15 @@
+urlwww
+urlmk
+urlid
+titlenoofwordslessthan5
+urleng
+urlasp
+urlnoofpartslessthan7
+urlil
+urlhttps
+bodynoofwordslessthan50
+urlknesset
+bodynoofentitynameindoclessthan3
+urlindividual
+urlhttps://www.knesset.gov.il/mk/eng/mk_eng.asp?mk_individual_id_t=780
+urlgov

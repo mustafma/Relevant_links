@@ -1,0 +1,17 @@
+bodycookies
+urlhttp
+urlnaim
+urlfacebook
+urlcontainsonenameorgan
+titlenaim
+bodynoofwordslessthan50
+urlshehadeh
+urlnoofpartslessthan5
+bodyfacebook
+titlecontainsnamecombination
+titlecontainsonenameorgan
+titleshehadeh
+urlcom
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3

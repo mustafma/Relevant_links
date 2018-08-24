@@ -1,0 +1,15 @@
+urladvantagecap
+titlecapital
+urlteam
+urlwww
+titleadvantage
+titlenoofwordslessthan5
+urlpeople
+urlcom
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlhttp://www.advantagecap.com/our-people/the-team/
+urlrank31
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

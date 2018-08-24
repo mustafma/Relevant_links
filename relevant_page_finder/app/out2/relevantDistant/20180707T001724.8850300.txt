@@ -1,0 +1,17 @@
+urltortags
+urlwww
+urlhttps://www.apfa.org/component/tortags/tag/albio_sires
+urlalbio
+urltag
+titlenoofwordslessthan5
+urlnoofpartslessthan10
+urlrank
+urlcontainsonenameorgan
+urlorg
+urlhttps
+urlapfa
+bodynoofwordslessthan50
+urlsires
+urlrank46
+bodynoofentitynameindoclessthan3
+urlcomponent

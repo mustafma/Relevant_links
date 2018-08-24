@@ -1,0 +1,12 @@
+urlrank16
+bodycontainsnamecombination
+titlefullname
+titlecontainsonenameorgan
+bodyworld
+titlecontainsnamecombination
+bodycontainsonenameorgan
+bodyimagealt
+bodyfullname
+urlrank
+bodynoofwordslessthan100
+bodymusic

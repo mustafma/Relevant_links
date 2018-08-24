@@ -1,0 +1,14 @@
+urllukemesser
+urlwww
+urlhttps://www.lukemesser.com/
+titlenoofwordslessthan5
+urlcom
+urlfullname
+urlrank
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlcontainsnamecombination
+urlhttps
+urlrank2
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

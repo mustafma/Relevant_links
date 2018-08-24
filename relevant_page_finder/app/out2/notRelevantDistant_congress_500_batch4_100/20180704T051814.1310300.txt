@@ -1,0 +1,24 @@
+urlstory
+titlenoofwords_greater _than_10
+titlenew
+titleharassment
+titlehampshire
+titlewamu
+titlesexual
+urlwamu
+urlrep
+titlerep
+urlhttps://wamu.org/story/17/11/21/new-hampshire-rep-on-me-too-bill-addressing-sexual-harassment/
+urlnoofpartslessthan10
+urlnew
+urlharassment
+urlhampshire
+urlrank
+urlorg
+urladdressing
+urlhttps
+titleaddressing
+bodynoofwordslessthan50
+urlsexual
+bodynoofentitynameindoclessthan3
+urlrank48

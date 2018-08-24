@@ -1,0 +1,26 @@
+titlekay
+titlefullname
+titlecontainsonenameorgan
+titleernst
+titlepolitician
+titlesenator
+urlcom
+urlnoofpartslessthan7
+urlrank40
+titlecontainsnamecombination
+titlejunior
+bodynoofentitynameindoclessthan3
+titlenoofwords_greater _than_10
+titleelection
+titlepinteres
+titlejoni
+urlpin
+urlwww
+urlhttps://www.pinterest.com/pin/130111876718105693/
+titleelected
+urlrank
+titleiowa
+urlhttps
+bodynoofwordslessthan50
+titleamerican
+urlpinterest

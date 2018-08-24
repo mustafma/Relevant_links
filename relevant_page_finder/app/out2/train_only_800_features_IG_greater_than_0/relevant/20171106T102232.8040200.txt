@@ -1,0 +1,16 @@
+bodycontainsnamecombination
+bodygovernors
+urledu
+titlefullname
+titlecontainsonenameorgan
+bodyboard
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfederal
+bodyreserve
+bodyfullname
+urlrank
+urlcontainsonenameorgan
+bodynoofwordslessthan50
+urlrank11

@@ -1,0 +1,15 @@
+bodycontainsnamecombination
+titlefullname
+titlecontainsonenameorgan
+bodyacademy
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodytime
+bodyfullname
+urlrank
+urlil
+urlcontainsonenameorgan
+bodynoofwordslessthan400
+bodymi
+bodyfollow

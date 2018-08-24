@@ -1,0 +1,17 @@
+urlmako
+urlwrkid
+urltype
+urlartist
+urlprfid
+titlenoofwordslessthan5
+urlrank
+urlshironet
+urlil
+urllyrics
+urlnoofpartslessthan5
+urlhttps
+urlrank41
+bodynoofwordslessthan50
+urllang
+urlhttps://shironet.mako.co.il/artist?type=lyrics&lang=2&prfid=19773&wrkid=87739
+bodynoofentitynameindoclessthan3

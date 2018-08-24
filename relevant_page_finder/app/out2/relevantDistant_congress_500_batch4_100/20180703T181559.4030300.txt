@@ -1,0 +1,16 @@
+urlteam
+urlwww
+urlphp
+urlhttps://www.thejoyceagency.com/index.php/meet-the-team
+titlenoofwordslessthan5
+urlmeet
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlcontainsonenameorgan
+urlindex
+urlrank50
+urlhttps
+bodynoofwordslessthan50
+urlthejoyceagency
+bodynoofentitynameindoclessthan3

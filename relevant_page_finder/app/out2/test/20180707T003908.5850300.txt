@@ -1,0 +1,25 @@
+titlechris
+titlevan
+titlefullname
+titlecontainsonenameorgan
+titlesenator
+urlcom
+urlnoofpartslessthan7
+titlehollen
+titlevideos
+urlrank22
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlinstagram
+titlechrisvanhollen
+titlenoofwords_greater _than_10
+urlwww
+urlchrisvanhollen
+titleinstagram
+urlhttps://www.instagram.com/chrisvanhollen/
+urlfullname
+urlrank
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+titlephotos

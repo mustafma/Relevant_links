@@ -1,0 +1,17 @@
+bodycookies
+urlfacebook
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+titlegarbutt
+urlnoofpartslessthan5
+bodyfacebook
+urlphilip
+urlgarbutt
+titlecontainsnamecombination
+titlecontainsonenameorgan
+titlephilip
+urlcom
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3

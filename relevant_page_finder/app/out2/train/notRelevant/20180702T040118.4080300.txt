@@ -1,0 +1,24 @@
+urlrank49
+titlenoofwords_greater _than_10
+urlmike
+titlefullname
+urlwww
+titlecontainsonenameorgan
+titleifbb
+urljohnson
+titlemike
+titleinstagram
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlcontainsonenameorgan
+urlhttps
+titlevideos
+bodynoofwordslessthan50
+titlephotos
+titlejohnson
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlhttps://www.instagram.com/mike_johnson81/
+urlinstagram
+titlepro

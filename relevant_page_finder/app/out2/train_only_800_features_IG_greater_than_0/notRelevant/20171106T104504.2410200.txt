@@ -1,0 +1,16 @@
+bodysearch
+bodycontainsnamecombination
+bodynumber
+titlefullname
+titlecontainsonenameorgan
+bodyphoto
+titlecontainsnamecombination
+bodymain
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfullname
+bodyinformation
+urlrank
+bodynoofwordslessthan50
+urlrank11
+bodyphotos

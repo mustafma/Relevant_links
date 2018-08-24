@@ -1,0 +1,17 @@
+titlenoofwords_greater _than_10
+bodyil
+bodyeasy
+bodysql
+bodyclose
+urlnoofpartslessthan7
+urleasy
+urlil
+bodynoofwordslessthan300
+bodyinserting
+bodyiframe
+urlhttps
+urlpage
+urlhttps://easy.co.il/page/8824878
+bodydynamically
+bodynoofentitynameindoclessthan3
+bodyjobs

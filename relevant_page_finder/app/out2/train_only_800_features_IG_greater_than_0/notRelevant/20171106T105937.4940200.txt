@@ -1,0 +1,3 @@
+urlrank
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

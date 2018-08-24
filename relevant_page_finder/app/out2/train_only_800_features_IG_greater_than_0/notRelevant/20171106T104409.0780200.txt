@@ -1,0 +1,8 @@
+titlecontainsonenameorgan
+urlcom
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titlecom
+urlrank
+urlcontainsonenameorgan
+bodynoofwordslessthan50

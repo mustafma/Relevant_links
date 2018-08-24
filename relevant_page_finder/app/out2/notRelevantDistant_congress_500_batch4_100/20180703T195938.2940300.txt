@@ -1,0 +1,23 @@
+titlenoofwords_greater _than_10
+titledonald
+titlefullname
+urlwww
+titlecontainsonenameorgan
+titlecongressman
+titleinstagram
+urlcom
+urlnoofpartslessthan7
+urlrank
+titlemceachin
+urlcontainsonenameorgan
+urlhttps
+titlevideos
+bodynoofwordslessthan50
+titlephotos
+urlrepmceachin
+urlhttps://www.instagram.com/repmceachin/
+titlecontainsnamecombination
+titlerepmceachin
+bodynoofentitynameindoclessthan3
+urlrank26
+urlinstagram

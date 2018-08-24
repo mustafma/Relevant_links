@@ -1,0 +1,25 @@
+titlebackground
+titleprofile
+titlecontainsonenameorgan
+urlkrishnamoorthi
+urlcom
+urlnoofpartslessthan7
+titlesubramanian
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlmylife
+urlhttps://www.mylife.com/subramanian-krishnamoorthi/e457205122056
+titlenoofwords_greater _than_10
+titlecom
+urlwww
+urlsubramanian
+titlekrishnamoorthi
+titleschaumburg
+titleil
+urlrank
+titlemylife
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+urlrank36
+titleraja

@@ -1,0 +1,14 @@
+urlrank27
+urlkaynecapital
+urlmccarthy
+titlenoofwordslessthan5
+urlpeople
+urlcom
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlcontainsonenameorgan
+urlhttp://kaynecapital.com/people/kevin-mccarthy/
+bodynoofwordslessthan50
+urlkevin
+bodynoofentitynameindoclessthan3

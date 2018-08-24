@@ -1,0 +1,26 @@
+titlecontainsonenameorgan
+titlecongressional
+titlepolitician
+urlnoofpartslessthan7
+titledavid
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titlecicilline
+titlenoofwords_greater _than_10
+urluk
+titlepinteres
+urlpin
+titleisland
+urlwww
+titlerepresentative
+titlest
+titlerhode
+urlrank
+titlenicola
+urlhttps
+urlhttps://www.pinterest.co.uk/pin/130111876718615415/
+titleillinois
+urlrank10
+bodynoofwordslessthan50
+titleamerican
+urlpinterest

@@ -1,0 +1,13 @@
+urlthune
+urlwww
+urlsenate
+titlenoofwordslessthan5
+urlhttps://www.thune.senate.gov/
+urlrank
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlhttps
+urlrank2
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlgov

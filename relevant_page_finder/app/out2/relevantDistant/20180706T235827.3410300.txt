@@ -1,0 +1,12 @@
+urlrank7
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlthompson
+urlcontainsonenameorgan
+urlorg
+urlhttp://freedom50.org/thompson/
+bodynoofwordslessthan50
+urlfreedom
+bodynoofentitynameindoclessthan3
+titlenoofwordslessthan5

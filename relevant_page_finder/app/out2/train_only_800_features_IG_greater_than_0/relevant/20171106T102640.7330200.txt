@@ -1,0 +1,12 @@
+bodynoofentitynameindoclessthan3
+bodyhelp
+bodyproblem
+bodyinform
+urlrank
+urlil
+urlcontainsonenameorgan
+urlac
+bodypage
+bodynoofwordslessthan50
+bodyid
+urlrank13

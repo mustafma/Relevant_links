@@ -1,0 +1,26 @@
+urlhttps://www.instagram.com/repfilemonvela/
+titlefullname
+titletx
+titlecontainsonenameorgan
+titlerep
+urlcom
+urlnoofpartslessthan7
+titlevideos
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlinstagram
+titlenoofwords_greater _than_10
+urlrepfilemonvela
+urlwww
+titlefilemon
+titleinstagram
+urlfullname
+urlrank
+urlcontainsonenameorgan
+urlcontainsnamecombination
+urlhttps
+bodynoofwordslessthan50
+titlerepfilemonvela
+titlephotos
+urlrank33
+titlevela

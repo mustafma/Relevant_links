@@ -1,0 +1,26 @@
+titlesays
+titlealabama
+urlhttps://www.pinterest.com/pin/2251868543526573/
+titlecongress
+titlefullname
+titlecontainsonenameorgan
+titlecongressional
+urlcom
+urlnoofpartslessthan7
+titleth
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titleaderholt
+titlenoofwords_greater _than_10
+titlepinterest
+urlpin
+urlwww
+titlebrown
+titlerepresentative
+urlrank
+titlerobert
+urlhttps
+titledistrict
+bodynoofwordslessthan50
+urlrank11
+urlpinterest

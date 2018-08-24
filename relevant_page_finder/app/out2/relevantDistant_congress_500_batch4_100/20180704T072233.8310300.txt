@@ -1,0 +1,13 @@
+urlklobuchar
+urlwww
+urlsenate
+urlhttps://www.klobuchar.senate.gov/
+titlenoofwordslessthan5
+urlrank
+urlrank5
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlgov

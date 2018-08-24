@@ -1,0 +1,13 @@
+bodycontainsnamecombination
+titlefullname
+titlecontainsonenameorgan
+bodyfounder
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfullname
+bodyfamily
+urlrank
+urlil
+bodyweb
+urlcontainsonenameorgan

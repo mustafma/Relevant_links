@@ -1,0 +1,17 @@
+bodycookies
+titlestephen
+urlfacebook
+urlcontainsonenameorgan
+titlepeter
+urlhttps
+bodynoofwordslessthan50
+urlboyd
+titleboyd
+urlnoofpartslessthan5
+bodyfacebook
+titlecontainsonenameorgan
+titlenoofwordslessthan7
+urlcom
+urlwww
+urlstephen
+bodynoofentitynameindoclessthan3

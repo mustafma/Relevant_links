@@ -1,0 +1,16 @@
+bodycookies
+urlyael
+urlhttp
+urlfacebook
+urlcontainsonenameorgan
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+urlamir
+bodyfacebook
+titleamir
+titlecontainsonenameorgan
+urlcom
+titleyael
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3

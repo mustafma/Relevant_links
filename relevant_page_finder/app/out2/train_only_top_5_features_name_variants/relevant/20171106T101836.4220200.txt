@@ -1,0 +1,3 @@
+titlefullname
+urlcontainsonenameorgan
+urlcontainsnamecombination

@@ -1,0 +1,14 @@
+urlrank38
+urlhttps://www.athlinks.com/event/107452/results/event/371849/course/549898/results
+urlwww
+urlathlinks
+urlevent
+titlenoofwordslessthan5
+urlcom
+urlresults
+urlrank
+urlnoofpartsgreaterthan10
+urlhttps
+bodynoofwordslessthan50
+urlcourse
+bodynoofentitynameindoclessthan3

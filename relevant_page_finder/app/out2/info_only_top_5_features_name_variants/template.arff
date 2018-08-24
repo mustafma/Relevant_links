@@ -1,0 +1,10 @@
+@relation 'C__Users_fzt921_Documents_NetBeansProjects_relevant_page_finder_google_app_.._app_out2_train-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute @@class@@ {notRelevant,relevant}
+@attribute bodycontainsnamecombination numeric
+@attribute bodyfullname numeric
+@attribute titlefullname numeric
+@attribute urlcontainsnamecombination numeric
+@attribute urlcontainsonenameorgan numeric
+
+@data

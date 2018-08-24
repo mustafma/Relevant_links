@@ -1,0 +1,16 @@
+urlrank19
+urldavidmckinley
+urlwww
+titlenoofwordslessthan5
+urlhttp://www.kw.com/kw/agent/davidmckinley
+urlcom
+urlfullname
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlagent
+urlcontainsonenameorgan
+urlcontainsnamecombination
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlkw

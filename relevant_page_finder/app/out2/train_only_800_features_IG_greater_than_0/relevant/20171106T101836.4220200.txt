@@ -1,0 +1,12 @@
+titlefullname
+titlecontainsonenameorgan
+urlcom
+bodyphone
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlrank
+urlcontainsonenameorgan
+urlcontainsnamecombination
+bodynoofwordslessthan50
+bodyemail
+bodycontact

@@ -1,0 +1,6 @@
+urlcom
+urlrank
+urlcontainsonenameorgan
+urlcontainsnamecombination
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

@@ -1,0 +1,12 @@
+urlcom
+urlrank
+urlrank5
+urlcontainsonenameorgan
+urlnoofpartslessthan5
+urlhttps
+urlwww
+urlvotedoggett
+bodynoofwordslessthan50
+urlhttps://www.votedoggett.com/
+bodynoofentitynameindoclessthan3
+titlenoofwordslessthan5

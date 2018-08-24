@@ -1,0 +1,17 @@
+urliel
+urlpdf
+titletext
+urlhttp://ieeexplore.ieee.org/iel5/5531969/5532524/05532540.pdf
+titleieee
+titlenoofwordslessthan5
+urlieee
+titlepdf
+urlnoofpartslessthan10
+urlhttp
+urlrank
+urlorg
+bodynoofwordslessthan50
+urlrank12
+bodynoofentitynameindoclessthan3
+urlieeexplore
+titlexplore

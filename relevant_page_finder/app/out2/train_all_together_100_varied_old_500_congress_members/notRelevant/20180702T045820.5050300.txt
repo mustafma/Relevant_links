@@ -1,0 +1,25 @@
+titlenew
+titlecontainsonenameorgan
+titlefrelinghuysen
+titlecongressional
+titleservin
+urlcom
+urlnoofpartslessthan7
+titleth
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titlenoofwords_greater _than_10
+titlepinterest
+titleprocter
+urlpin
+urlhttps://www.pinterest.com/pin/130111876718173299/
+urlwww
+titlerepresentative
+urlrank
+titlejersey
+urlhttps
+titledistrict
+titlerodney
+urlrank32
+bodynoofwordslessthan50
+urlpinterest

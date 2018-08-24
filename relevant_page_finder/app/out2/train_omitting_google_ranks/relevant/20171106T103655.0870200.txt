@@ -1,0 +1,13 @@
+urlwww
+urlhg
+urlhttps://www.hg.org/lawyer/dor-heskia/55839
+titlenoofwordslessthan5
+urlnoofpartslessthan7
+urllawyer
+urlcontainsonenameorgan
+urlorg
+urlheskia
+urlhttps
+urldor
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

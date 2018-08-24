@@ -1,0 +1,2668 @@
+
+Confusion matrix:
+-----------------------
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 0 0 | a = notRelevant
+ 0 0 | b = relevant
+
+WEKA Attribute IG Stats:
+
+//www	0.0
+_than_10	0.0
+bodyabstract	0.0
+bodyac	0.019463455085737214
+bodyacademic	0.007418525724808833
+bodyaccess	0.0
+bodyaccessibility	0.0
+bodyaccording	0.0037647830096535495
+bodyaccount	0.0
+bodyaccounts	0.0
+bodyaction	0.013338582410392208
+bodyactive	0.007480008265297933
+bodyactivities	0.0
+bodyad	0.0
+bodyadd	0.0
+bodyadded	0.0
+bodyadditional	0.0
+bodyaddress	0.004025093134036872
+bodyads	0.005586656833059922
+bodyadvanced	0.0
+bodyadvertise	0.0
+bodyadvertising	0.01308693153459961
+bodyadvice	0.0
+bodyaffiliate	0.009813857336344545
+bodyaffiliates	0.006878864960342956
+bodyafrica	0.0
+bodyage	0.005015585940231104
+bodyago	0.0
+bodyagreeing	0.0
+bodyagreement	0.0
+bodyair	0.0
+bodyais	0.01854707781300413
+bodyal	0.0
+bodyalerts	0.0
+bodyalt	0.013857145184612452
+bodyamazon	0.0
+bodyamerica	0.0
+bodyamerican	0.016933525536427796
+bodyamir	0.0
+bodyanalysis	0.009428683114057979
+bodyannual	0.01596735695543694
+bodyapp	0.004145031333309235
+bodyapplication	0.009590049755714425
+bodyapplications	0.004532944614145107
+bodyapplied	0.0
+bodyapproach	0.009534347069571347
+bodyapps	0.0
+bodyapril	0.007758925963984309
+bodyarchive	0.0
+bodyarea	0.005017467345671989
+bodyareas	0.005167489586551888
+bodyart	0.0
+bodyarticle	0.015465087492843144
+bodyarticles	0.004510195644120696
+bodyarts	0.0
+bodyasia	0.0
+bodyask	0.006495702724849783
+bodyasked	0.0
+bodyassistant	0.0
+bodyassociation	0.004589791487151218
+bodyaudible	0.011031880001887262
+bodyaudio	0.0
+bodyaugust	0.0
+bodyaustralia	0.0
+bodyauthor	0.0
+bodyauthors	0.0
+bodyavailable	0.003912632544552874
+bodyaviv	0.0
+bodyaward	0.0037514053030112127
+bodyawards	0.0
+bodyaxis	0.0
+bodybaby	0.008446379583548325
+bodybad	0.0
+bodybank	0.016129395473361896
+bodybanking	0.011059266945521506
+bodybar	0.0
+bodybased	0.011377999592059096
+bodybeauty	0.006651766781566315
+bodybelieve	0.0
+bodyben	0.016952838275910098
+bodybest	0.0
+bodybetter	0.0
+bodybig	0.017507512408592052
+bodybiography	0.0
+bodybit	0.0
+bodyblock	0.0
+bodyblocked	0.0
+bodyblog	0.0
+bodyboard	0.017965694148622702
+bodybook	0.0
+bodybooks	0.0
+bodyborn	0.006112546324491541
+bodybox	0.0
+bodybrands	0.007547645399888392
+bodybrasil	0.01267944520378883
+bodybrazil	0.0
+bodybrowse	0.0
+bodybrowser	0.0
+bodybuilding	0.0
+bodybusiness	0.008040032669422104
+bodybutton	0.0
+bodybuy	0.0
+bodyca	0.0
+bodycalendar	0.0
+bodycalifornia	0.007924683444618275
+bodycalled	0.0059224064532484855
+bodycanada	0.0
+bodycancel	0.0
+bodycapacity	0.0
+bodycapital	0.009038782157507863
+bodycard	0.005785129281684509
+bodycards	0.00798160531228409
+bodycare	0.0
+bodycareer	0.015030284228984114
+bodycareers	0.004109359832394244
+bodycase	0.008397415090673155
+bodycatch	0.0
+bodycelebrities	0.0
+bodycelebrity	0.0
+bodycell	0.0
+bodycenter	0.007108797775705944
+bodycentral	0.0
+bodychair	0.004952881596503533
+bodychairman	0.016645943593972312
+bodychange	0.0
+bodychapter	0.0
+bodycharacters	0.0
+bodycharts	0.0
+bodycheck	0.0
+bodychildren	0.0
+bodychina	0.0
+bodychoice	0.0
+bodychoices	0.0
+bodychoose	0.0
+bodycitation	0.0
+bodycity	0.0
+bodyclass	0.008099804744092998
+bodyclear	0.0
+bodyclick	0.0
+bodyclose	0.0
+bodycloud	0.0
+bodyclub	0.0
+bodycode	0.0
+bodycodes	0.0
+bodycollege	0.004709393518644078
+bodycom	0.0
+bodycome	0.0
+bodycomics	0.015145409787764463
+bodycoming	0.0
+bodycomment	0.0
+bodycomments	0.0
+bodycommercial	0.0
+bodycommittee	0.004159576703655521
+bodycommunity	0.004025093134036872
+bodycompanies	0.007061115758162817
+bodycompany	0.013909085163383739
+bodycomplete	0.0
+bodycomputers	0.0
+bodycomputing	0.0
+bodyconditions	0.0
+bodyconference	0.01587383174333612
+bodyconfirmation	0.0
+bodyconnect	0.0
+bodycontact	0.011928633811429612
+bodycontainsnamecombination	0.049827507658263825
+bodycontainsonenameorgan	0.017694484473149252
+bodycontent	0.0
+bodycontinue	0.0
+bodycontribute	0.0
+bodycontributor	0.0
+bodycontrol	0.00863993722648615
+bodyconversation	0.0
+bodyconversations	0.0
+bodycookie	0.011303518574810045
+bodycookies	0.014354135338121687
+bodycopy	0.0
+bodycopyright	0.0
+bodycorporate	0.0
+bodycountries	0.0
+bodycountry	0.0
+bodycourse	0.0
+bodycourses	0.0
+bodycreate	0.0
+bodycreated	0.004952881596503533
+bodycreative	0.0
+bodycredit	0.0
+bodycredits	0.0
+bodyculture	0.0
+bodycurrency	0.006663243040955447
+bodycurrent	0.0
+bodycurrently	0.0
+bodycustomer	0.0
+bodycustomers	0.0
+bodydaily	0.0
+bodydan	0.0
+bodydaniel	0.0
+bodydansk	0.0
+bodydata	0.007540740414777813
+bodydatabase	0.0
+bodydate	0.0
+bodydavid	0.009521145094633754
+bodyday	0.0
+bodydays	0.0
+bodydeal	0.0
+bodydeals	0.0
+bodydecember	0.0
+bodydecision	0.008180159796136177
+bodydefense	0.00688580624230084
+bodydegree	0.006581509737447866
+bodydelete	0.004630795429606094
+bodydelivery	0.0
+bodydepartment	0.0
+bodydepartments	0.005527522813249641
+bodydepository	0.008359434677879363
+bodydescription	0.008255714483175303
+bodydesign	0.012005629274417728
+bodydetails	0.0
+bodydeutsch	0.021113613635022177
+bodydeveloper	0.0
+bodydevelopers	0.0
+bodydevelopment	0.007024662644417257
+bodydevices	0.008407229544802441
+bodydid	0.0
+bodydifferent	0.00797089568890097
+bodydigital	0.0
+bodydirect	0.0
+bodydirector	0.0
+bodydirectory	0.0
+bodydiscover	0.005630027922511549
+bodydistribution	0.0
+bodydivision	0.0
+bodydoes	0.01180236455536876
+bodydon	0.0
+bodydownload	0.006089210831508485
+bodydpreview	0.00785504776373469
+bodydr	0.0
+bodydrive	0.0
+bodyearly	0.01454174123002483
+bodyeasily	0.0
+bodyeast	0.0
+bodyeasy	0.0077010421968722875
+bodyebooks	0.012127856098509526
+bodyeconomic	0.029381970012507863
+bodyeconomics	0.015186203851374369
+bodyeconomy	0.01381207456310507
+bodyedit	0.0
+bodyedition	0.0
+bodyeditor	0.0
+bodyeditorial	0.0
+bodyeducation	0.006425458556849617
+bodyeducational	0.0
+bodyel	0.0
+bodyeli	0.0
+bodyemail	0.014762734344144102
+bodyembed	0.0
+bodyen	0.004694952918024686
+bodyenable	0.0
+bodyend	0.0044323621981058325
+bodyenergy	0.008113215228684023
+bodyengineering	0.008199447676745963
+bodyenglish	0.02833930951092334
+bodyenjoy	0.0047731558817192266
+bodyenter	0.0
+bodyentertainment	0.0
+bodyenvironment	0.0
+bodyerror	0.0
+bodyespa	0.01835621888176675
+bodyestate	0.015369086413727251
+bodyeurope	0.0
+bodyeuropean	0.0
+bodyevent	0.004579909513530045
+bodyevents	0.007411992226967312
+bodyeveryday	0.012544473196152928
+bodyexclusive	0.0
+bodyexecutive	0.007831582246952462
+bodyexperience	0.010482562679275276
+bodyexplore	0.0
+bodyexternal	0.0
+bodyfacebook	0.0
+bodyfaculty	0.0061451113501150845
+bodyfalse	0.0
+bodyfamily	0.004649526335619214
+bodyfantasy	0.0
+bodyfaq	0.0
+bodyfashion	0.0
+bodyfast	0.0
+bodyfavorite	0.0
+bodyfeatured	0.0035686147401352564
+bodyfeatures	0.0
+bodyfebruary	0.006013229879364701
+bodyfeedback	0.0
+bodyfellow	0.0
+bodyfestival	0.0
+bodyfield	0.006561577223603843
+bodyfilm	0.0
+bodyfilter	0.0
+bodyfinal	0.0
+bodyfinance	0.013827481005002973
+bodyfinancial	0.03437561150602675
+bodyfine	0.0
+bodyfirm	0.005291069678086346
+bodyfocus	0.009590049755714425
+bodyfollow	0.013595907109520855
+bodyfollowed	0.0
+bodyfollowers	0.0
+bodyfollowing	0.014784687594532553
+bodyfood	0.0
+bodyfoods	0.013913748952901317
+bodyforce	0.0
+bodyforeign	0.0
+bodyforgot	0.0
+bodyform	0.0
+bodyformat	0.010104613187116529
+bodyforum	0.0
+bodyforward	0.0
+bodyfoundation	0.0
+bodyfran	0.016281786644620766
+bodyfrance	0.004850643672121291
+bodyfree	0.0
+bodyfrequently	0.0
+bodyfriend	0.0
+bodyfriends	0.0
+bodyfullname	0.04605831134123273
+bodyfun	0.0
+bodyfund	0.0037647830096535495
+bodyfunds	0.0
+bodyfuture	0.010432551833664871
+bodygallery	0.0
+bodygame	0.010249700026836228
+bodygames	0.0
+bodygarden	0.0
+bodygeneral	0.0
+bodygeorge	0.0
+bodygermany	0.0
+bodygetting	0.0
+bodygift	0.0
+bodygirls	0.006752765713815667
+bodygiven	0.0037516186639104943
+bodygiving	0.0
+bodyglobal	0.025503897642320084
+bodygoing	0.0
+bodygood	0.006710213901057527
+bodygoodreads	0.02318705407459498
+bodygoogle	0.0047582586293167806
+bodygot	0.004416080723739224
+bodygovernment	0.008327684314259454
+bodygraduate	0.005631841042285091
+bodygreat	0.009000430753440258
+bodygroup	0.004354334261292725
+bodygroups	0.0
+bodygrowth	0.003972253384658897
+bodyguide	0.0
+bodyguidelines	0.0
+bodyhaifa	0.010860665742450704
+bodyhappen	0.0
+bodyhappy	0.0
+bodyhard	0.0038029879366371366
+bodyhaving	0.0
+bodyhead	0.004160253349440146
+bodyhealth	0.0
+bodyheart	0.0
+bodyheld	0.0
+bodyhello	0.008132156395842416
+bodyhelp	0.0
+bodyhigh	0.012549524094467968
+bodyhigher	0.0038029879366371366
+bodyhistorical	0.0
+bodyhistory	0.0
+bodyhome	0.0
+bodyhope	0.0
+bodyhour	0.005050297694247585
+bodyhours	0.0
+bodyhouse	0.0
+bodyhrvatski	0.0
+bodyhttp	0.0
+bodyhttps	0.0
+bodyhuman	0.009806298445847017
+bodyid	0.0
+bodyideas	0.0
+bodyii	0.0
+bodyil	0.0
+bodyimage	0.0
+bodyimagealt	0.0
+bodyimagealta	0.0
+bodyimagealtfacebook	0.0
+bodyimagealtlogo	0.0
+bodyimagealtof	0.0
+bodyimagealts	0.0
+bodyimagealtthe	0.0
+bodyimagealtto	0.0
+bodyimagealttwitter	0.0
+bodyimages	0.006012228049450563
+bodyimagesrccontainsonenameorgan	0.009021210166791471
+bodyimdb	0.007809885952243079
+bodyimdbpro	0.004969907335515389
+bodyimpact	0.015921902520224185
+bodyimportant	0.0
+bodyimprove	0.0
+bodyimprovement	0.0
+bodyina	0.0
+bodyinclude	0.0
+bodyincluding	0.008607343578121984
+bodyindex	0.03128376057164295
+bodyindia	0.0
+bodyindie	0.006651766781566315
+bodyindonesia	0.0
+bodyindustrial	0.0
+bodyindustry	0.006170714919788933
+bodyinfo	0.0
+bodyinformation	0.005995539709083841
+bodyinsight	0.0
+bodyinstagram	0.0
+bodyinstant	0.0
+bodyinstitute	0.016525669928535436
+bodyinstruments	0.012152750669363943
+bodyinteresting	0.0
+bodyinternational	0.019199269023828736
+bodyinternet	0.008397415090673155
+bodyintroduction	0.0
+bodyinvestment	0.00395341553902373
+bodyinvestor	0.0
+bodyireland	0.0
+bodyisrael	0.0
+bodyisraeli	0.0
+bodyissue	0.0
+bodyissues	0.00887644475135052
+bodyitaliano	0.01770603719933639
+bodyitaly	0.0
+bodyitems	0.0
+bodyjan	0.006140647560518686
+bodyjanuary	0.007253912656720152
+bodyjapan	0.0
+bodyjavascript	0.0
+bodyjerusalem	0.0
+bodyjewish	0.0
+bodyjob	0.005460321586339467
+bodyjobs	0.006648521695949983
+bodyjohn	0.0
+bodyjohnson	0.0
+bodyjoin	0.0
+bodyjoined	0.0
+bodyjournal	0.021580284887451895
+bodyjournals	0.0035435565428488802
+bodyjul	0.004239725806008621
+bodyjuly	0.009513941878413368
+bodyjump	0.0
+bodyjun	0.0
+bodyjune	0.009086697428410506
+bodyjust	0.0
+bodykey	0.010101737164584623
+bodykids	0.0
+bodykingdom	0.0
+bodyknow	0.0
+bodyknowledge	0.020861821400998015
+bodyknown	0.015219471622150094
+bodyla	0.0
+bodylanguage	0.004659426025760971
+bodylarge	0.010174409674541085
+bodylater	0.008822008456426222
+bodylatest	0.0
+bodylaw	0.004006169703628437
+bodyleadership	0.009579069098391568
+bodyleading	0.0073113049639107475
+bodylearn	0.0
+bodylearning	0.009086697428410506
+bodyleft	0.0
+bodylegal	0.004889765849233729
+bodylet	0.0
+bodylevel	0.009130646589509572
+bodylibrary	0.0
+bodylife	0.0072454240447213936
+bodylike	0.0
+bodyliked	0.0
+bodylikes	0.0
+bodylimited	0.0
+bodyline	0.0
+bodylink	0.0
+bodylinkedin	0.007297019492616297
+bodylinks	0.0
+bodylist	0.0
+bodylists	0.0
+bodylite	0.015743617435331703
+bodyliterature	0.0
+bodylittle	0.0
+bodylive	0.0
+bodyll	0.0
+bodyload	0.0
+bodyloading	0.0
+bodylocal	0.0
+bodylocation	0.0
+bodylog	0.0
+bodylogin	0.0
+bodylondon	0.005309657823386327
+bodylong	0.007275953891696885
+bodylook	0.006235309042051718
+bodylooking	0.0
+bodylot	0.0
+bodylove	0.0
+bodyma	0.0
+bodymagazine	0.007622396751984506
+bodymagyar	0.0
+bodymail	0.0
+bodymain	0.0
+bodymajor	0.0
+bodymake	0.0
+bodymaking	0.0
+bodyman	0.0036476205136688478
+bodymanage	0.0
+bodymanagement	0.016280250045648925
+bodymanager	0.0
+bodymap	0.0
+bodymar	0.0
+bodymarch	0.006261516050645399
+bodymark	0.00658543401380729
+bodymarket	0.011997710927076688
+bodymarketplace	0.011058393944292089
+bodymarkets	0.016476391790977152
+bodymaterial	0.0
+bodymath	0.0
+bodymathematical	0.0
+bodymathematics	0.0
+bodymatters	0.0
+bodymeans	0.0
+bodymedia	0.0076280487364378535
+bodymedical	0.0
+bodymedicine	0.0
+bodymeet	0.0
+bodymember	0.01980365991982147
+bodymembers	0.0
+bodymen	0.0
+bodymenu	0.0
+bodymessage	0.0
+bodymessenger	0.011414803090608494
+bodymethods	0.004162885670428218
+bodymichael	0.0
+bodymiddle	0.0
+bodymilitary	0.0
+bodymillion	0.008486375359230691
+bodymillions	0.0
+bodyminutes	0.0
+bodymiss	0.0
+bodymission	0.0
+bodymobile	0.0
+bodymodel	0.017011728911630053
+bodymojo	0.004475636051051501
+bodymoment	0.0
+bodymoments	0.004478816381848771
+bodymonday	0.0
+bodymoney	0.0
+bodymonth	0.0
+bodymonths	0.0
+bodymovie	0.0
+bodymovies	0.0
+bodymr	0.0
+bodymusic	0.004313008784328276
+bodynames	0.0
+bodynational	0.008926335991731538
+bodynature	0.0
+bodynavigation	0.0
+bodynederlands	0.0
+bodyneed	0.004487944403092303
+bodynet	0.0
+bodynetwork	0.026489565375431567
+bodynew	0.007476166982306687
+bodynews	0.009476054248415688
+bodynewsletter	0.0
+bodynewsletters	0.007418525724808833
+bodyng	0.0
+bodynight	0.0
+bodynon	0.009416979446431273
+bodynoofentitynameindoclessthan3	0.0
+bodynoofentitynameindoclessthan5	0.0
+bodynoofwordsgreaterthan500	0.02240705439095514
+bodynoofwordslessthan100	0.012064728230789856
+bodynoofwordslessthan200	0.0
+bodynoofwordslessthan400	0.0
+bodynoofwordslessthan50	0.0048771702618557455
+bodynorsk	0.0
+bodynorth	0.0
+bodynote	0.0
+bodynotice	0.0
+bodynov	0.0
+bodynovember	0.005668511919096009
+bodynumber	0.0056502288266695455
+bodyoct	0.008980078979098916
+bodyoctober	0.00938420236934534
+bodyoffer	0.0
+bodyoffers	0.0
+bodyoffice	0.0
+bodyofficial	0.0
+bodyol	0.016899164417296997
+bodyold	0.006261516050645399
+bodyonline	0.0
+bodyopen	0.0
+bodyopinion	0.005443854622843025
+bodyoption	0.0
+bodyoptional	0.0
+bodyoptions	0.0
+bodyorange	0.0
+bodyorder	0.0
+bodyorders	0.0
+bodyorg	0.0
+bodyoriginal	0.0
+bodyoverview	0.009815981098494242
+bodypage	0.0
+bodypages	0.004167880047566186
+bodypaper	0.004214418888225158
+bodypapers	0.0
+bodyparent	0.0
+bodypartner	0.0065134897267103975
+bodypartners	0.004588827345810564
+bodyparts	0.0
+bodyparty	0.0
+bodypassword	0.0
+bodypast	0.00945280720149888
+bodypaul	0.0
+bodypay	0.0
+bodypayment	0.0
+bodypdf	0.0
+bodypending	0.0
+bodypeople	0.0
+bodyperformance	0.014017964771873226
+bodyperson	0.0
+bodypersonal	0.008198384506614365
+bodypeter	0.0
+bodyph	0.0
+bodyphilosophy	0.0040190375139759205
+bodyphone	0.005361709817320648
+bodyphoto	0.0
+bodyphotography	0.0
+bodyphotos	0.0037776127984087138
+bodyphysics	0.0
+bodypic	0.0
+bodyplace	0.0
+bodyplan	0.008655763437678154
+bodyplay	0.0
+bodyplus	0.0
+bodypm	0.0
+bodypoint	0.011049814336378527
+bodypoints	0.0
+bodypolicies	0.0
+bodypolicy	0.0
+bodypolitics	0.00911456415440881
+bodypolski	0.0
+bodypopular	0.0
+bodyportugu	0.017197415812241545
+bodyposition	0.007480008265297933
+bodypossible	0.0
+bodypost	0.012460439286826053
+bodyposted	0.0
+bodyposters	0.0
+bodyposts	0.0
+bodypower	0.006804151443461248
+bodypowered	0.0
+bodypractice	0.0
+bodypre	0.0
+bodyprecise	0.0
+bodypresent	0.0
+bodypresident	0.005726684093529499
+bodypress	0.0
+bodypreview	0.005502916594273821
+bodyprevious	0.0
+bodyprice	0.0
+bodyprime	0.0
+bodyprint	0.0
+bodyprivacy	0.0
+bodyprivate	0.0
+bodypro	0.0
+bodyproblem	0.0
+bodyproblems	0.007709726224239488
+bodyprocess	0.0
+bodyproduct	0.0
+bodyproducts	0.0
+bodyprofessional	0.010453435099211816
+bodyprofessionals	0.004445201592861658
+bodyprofessor	0.02108913973632942
+bodyprofile	0.015631643383696714
+bodyprogram	0.004227350841007116
+bodyprograms	0.00877225372849344
+bodyproject	0.0
+bodyprojects	0.0
+bodypromote	0.0
+bodyproperty	0.0
+bodyprovide	0.0
+bodyprovided	0.007674636462321915
+bodypublic	0.005691259705088436
+bodypublication	0.006012228049450563
+bodypublications	0.019413588088511013
+bodypublish	0.01023606365548102
+bodypublished	0.0
+bodypublisher	0.0
+bodypublishing	0.018302707276761532
+bodyquality	0.0
+bodyquery	0.0
+bodyquestion	0.0
+bodyquestions	0.0
+bodyquick	0.0
+bodyquotes	0.005167489586551888
+bodyrate	0.0
+bodyrated	0.0
+bodyrates	0.0064359759374938985
+bodyrating	0.0
+bodyratings	0.0
+bodyread	0.0
+bodyreading	0.0
+bodyready	0.0
+bodyreal	0.0147546485407124
+bodyreally	0.0
+bodyreceive	0.0
+bodyreceived	0.004178101372321441
+bodyreceiving	0.0
+bodyrecent	0.007564312060745704
+bodyrecently	0.0
+bodyrecommendations	0.017357683055440165
+bodyrecommended	0.0
+bodyrecord	0.0
+bodyrecords	0.0
+bodyreference	0.0
+bodyrefresh	0.0
+bodyregion	0.0
+bodyregister	0.0
+bodyrelated	0.008408951412148258
+bodyrelations	0.0
+bodyrelease	0.0
+bodyreleases	0.0
+bodyreliance	0.0
+bodyremember	0.0
+bodyremove	0.0
+bodyreply	0.0
+bodyreport	0.0
+bodyreports	0.0
+bodyrequest	0.0
+bodyrequired	0.0
+bodyresearch	0.03692171124475074
+bodyresearchers	0.0
+bodyreserved	0.008656353726177346
+bodyresource	0.0
+bodyresources	0.0
+bodyresponse	0.0
+bodyresults	0.0
+bodyreturn	0.0
+bodyreturns	0.0
+bodyreview	0.0
+bodyreviews	0.012354831284092316
+bodyrichard	0.0
+bodyright	0.0
+bodyrights	0.011193732351116648
+bodyrisk	0.017572410167471686
+bodyrk	0.0
+bodyrole	0.01126785255688334
+bodyroom	0.0
+bodyrss	0.00442105503379242
+bodyrun	0.00560086146002714
+bodysaid	0.019416511958960214
+bodysale	0.0
+bodysales	0.0
+bodysan	0.0035686147401352564
+bodysarah	0.0
+bodysave	0.0
+bodysaved	0.006962529930496619
+bodysay	0.0
+bodysays	0.0059224064532484855
+bodyscholar	0.015057245432327893
+bodyschool	0.015631643383696714
+bodyschools	0.0
+bodyscience	0.0189491373862537
+bodysciences	0.0
+bodyscientific	0.0
+bodyscore	0.0
+bodysearch	0.0
+bodysearches	0.0
+bodyseason	0.004663432322949634
+bodysecond	0.005726684093529499
+bodysections	0.0
+bodysecurity	0.013342367304959857
+bodyseeing	0.0
+bodyseen	0.0
+bodyselect	0.0
+bodyselected	0.0
+bodyself	0.0
+bodysell	0.008406407867045607
+bodysend	0.0
+bodysending	0.0
+bodysenior	0.005700267575741602
+bodysep	0.0
+bodyseptember	0.005009056877036455
+bodyseries	0.014767804874922241
+bodyserved	0.019063595331346606
+bodyserver	0.0
+bodyservice	0.0
+bodyservices	0.0
+bodyset	0.012931208382392145
+bodyshare	0.0
+bodyshared	0.0
+bodysharon	0.009518419504201292
+bodyshipping	0.0066827155467086286
+bodyshop	0.0
+bodyshort	0.012268245047675985
+bodyshowing	0.0
+bodyshows	0.0
+bodysign	0.0
+bodysimon	0.0
+bodysimple	0.0
+bodysingle	0.0
+bodysite	0.0
+bodysites	0.0
+bodyskills	0.0
+bodyskip	0.0
+bodysmall	0.023311269864287776
+bodysms	0.0
+bodysocial	0.0065608853558383196
+bodysociety	0.0
+bodysoftware	0.0
+bodysolutions	0.0
+bodyson	0.0
+bodysoon	0.0
+bodysouth	0.0
+bodyspecial	0.0
+bodyspend	0.0
+bodysports	0.0
+bodyspread	0.0
+bodyst	0.003892606123080178
+bodystaff	0.0
+bodystandard	0.0
+bodystanford	0.011386560362462661
+bodystar	0.0
+bodystars	0.0
+bodystart	0.0
+bodystarted	0.0
+bodystate	0.0074311139935361314
+bodystatement	0.0
+bodystates	0.0
+bodystatistics	0.008203835907327872
+bodystatus	0.0
+bodystock	0.008242622452775294
+bodystore	0.0
+bodystories	0.0
+bodystory	0.005921910270006547
+bodystream	0.00798160531228409
+bodystreaming	0.0
+bodystreet	0.007249859773300393
+bodystructure	0.004685354423313082
+bodystudent	0.005885502858523073
+bodystudents	0.0
+bodystudies	0.0
+bodystudy	0.005223552775677098
+bodystyle	0.007376738841448627
+bodysubmit	0.005072580332774024
+bodysubscribe	0.0
+bodysubscription	0.003822867093520199
+bodysubscriptions	0.00646262089793026
+bodysuccess	0.0
+bodysuccessful	0.0
+bodysuggested	0.0
+bodysunday	0.0
+bodysupport	0.0
+bodysure	0.0
+bodysvenska	0.0
+bodyswitch	0.0
+bodysystems	0.023110959415826526
+bodytaking	0.0
+bodytalk	0.005309657823386327
+bodytalking	0.0
+bodytap	0.0
+bodytax	0.0
+bodyteam	0.01655069998674341
+bodytech	0.01931270900872628
+bodytechnical	0.0
+bodytechnology	0.01893163433001721
+bodytel	0.0
+bodyterm	0.017051301842375577
+bodyterms	0.0
+bodytest	0.0
+bodytexas	0.0
+bodytext	0.0
+bodytextbook	0.01383731672505617
+bodyth	0.0071722272449809
+bodythank	0.0
+bodythanks	0.0
+bodytheory	0.0
+bodythings	0.0
+bodythink	0.0
+bodythoughts	0.0
+bodyti	0.0
+bodytickets	0.0
+bodytim	0.0
+bodytime	0.01577472468175145
+bodytimeline	0.0
+bodytimes	0.0
+bodytina	0.0
+bodytitle	0.0
+bodytitles	0.0
+bodytoday	0.010766539921734375
+bodytoggle	0.0
+bodytom	0.01159201563397061
+bodytools	0.004299643801286002
+bodytopic	0.0
+bodytopics	0.0
+bodytotal	0.0
+bodytrack	0.0
+bodytrade	0.0062283159925503595
+bodytraining	0.0
+bodytravel	0.0
+bodytrump	0.010622903766014047
+bodytry	0.0
+bodytune	0.0
+bodyturn	0.0
+bodytv	0.0
+bodytweet	0.0
+bodytweets	0.0
+bodytwitter	0.004076549816565245
+bodytype	0.009299317109358052
+bodyuk	0.0
+bodyunderstand	0.0
+bodyunited	0.0
+bodyuniversity	0.04228311782691152
+bodyunlimited	0.010196535275241225
+bodyupdate	0.0
+bodyupdated	0.0
+bodyupdates	0.0
+bodyurl	0.0
+bodyusa	0.0
+bodyuse	0.0
+bodyused	0.0
+bodyuser	0.0
+bodyusers	0.0
+bodyuses	0.0
+bodyusing	0.0136378802856707
+bodyvalue	0.006842955157998265
+bodyvarious	0.0
+bodyve	0.0
+bodyverified	0.0
+bodyversion	0.0056638239440295335
+bodyvi	0.0
+bodyvideo	0.0
+bodyvideos	0.0
+bodyview	0.0053371968569303485
+bodyviewing	0.0
+bodyviews	0.0
+bodyvision	0.0
+bodyvisit	0.0
+bodyvolume	0.0
+bodyvs	0.0
+bodywant	0.0
+bodywar	0.0
+bodywashington	0.0
+bodywatch	0.0
+bodyway	0.005277763468488517
+bodyweb	0.0
+bodywebsite	0.0
+bodyweek	0.0061830132059784715
+bodywelcome	0.0
+bodywent	0.0
+bodywest	0.0
+bodywhite	0.0037964983159826104
+bodywilliam	0.0
+bodywind	0.0
+bodywithoutabox	0.004969907335515389
+bodywoman	0.0
+bodywomen	0.0
+bodywon	0.006836814785034506
+bodyword	0.0
+bodywork	0.0042470926437193635
+bodyworked	0.008259051126799921
+bodyworking	0.004354334261292725
+bodyworks	0.0
+bodyworld	0.012785168502499777
+bodyworldwide	0.0
+bodywriting	0.003986864513282784
+bodywrote	0.0
+bodywww	0.0
+bodyxl	0.0
+bodyyear	0.025028546304674104
+bodyyears	0.028356154902014485
+bodyyes	0.0
+bodyyork	0.006193179544544458
+bodyyoung	0.0
+bodyyoutube	0.0
+co	0.0
+facebook	0.017513351481924233
+html	0.0
+titlecom	0.0
+titlecontainsnamecombination	0.045106699878094125
+titlecontainsonenameorgan	0.021053287448578484
+titlefullname	0.04725354599516396
+titlenoofwords_greater	0.0
+titlenoofwordslessthan10	0.0
+titlenoofwordslessthan5	0.0
+titlenoofwordslessthan7	0.0
+urlcom	0.004407418222154513
+urlcontainsnamecombination	0.0
+urlcontainsonenameorgan	0.044020721504275606
+urledu	0.0
+urlfacebook	0.014543720720811448
+urlfacebookpage	0.014543720720811448
+urlhtml	0.0
+urlhttp	0.0
+urlhttps	0.0
+urlil	0.0
+urlnoofpartslessthan10	0.0
+urlnoofpartslessthan5	0.0
+urlnoofpartslessthan7	0.0
+urlorg	0.0
+urlpublic	0.011322744124294792
+urlrank	0.0
+urlrank10	0.0
+urlrank11	0.0
+urlrank12	0.0
+urlrank13	0.0
+urlrank14	0.005044064017676098
+urlrank15	0.0
+urlrank16	0.0072467367826413165
+urlrank6	0.0
+urlrank7	0.0
+urlrank8	0.0
+urlrank9	0.0
+urlwww	0.0
+//scholar	0.03218662003143835
+ac	0.0075455570908415925
+bodyable	0.011825615452489502
+bodyacademy	0.0
+bodyacm	0.03268235971769573
+bodyactivity	0.0038697710655870576
+bodyaddition	0.0
+bodyadministration	0.006259555553333795
+bodyadvisor	0.005085412721723914
+bodyaffairs	0.0
+bodyalgorithm	0.007049633011045886
+bodyalgorithms	0.009559552593664256
+bodyandrew	0.010806558650742759
+bodyapr	0.006053286071447173
+bodyartificial	0.009690712626534759
+bodyassociate	0.008713798271283935
+bodyaug	0.007629441726197617
+bodyaway	0.010251384102000327
+bodybackground	0.004390338009489625
+bodybanks	0.020298643529245153
+bodybase	0.00958074908239015
+bodybegan	0.004811841642909265
+bodybiggest	0.00633602671953204
+bodybillion	0.009390959294388268
+bodybio	0.0
+bodyblack	0.0037291909712269256
+bodyboston	0.0
+bodybritish	0.0046092411421964075
+bodybuild	0.0064014557350614565
+bodycame	0.0059357750087860595
+bodyceo	0.007929641010489208
+bodychallenge	0.008123818540682337
+bodychanged	0.004434883708130832
+bodychanges	0.010602563759367079
+bodychief	0.015551188918489167
+bodycitations	0.009568863767395075
+bodyclassification	0.013478287216376339
+bodycohen	0.0061877811535954175
+bodycombined	0.023044908772338002
+bodycommon	0.0
+bodycommunications	0.0075254994377801365
+bodycommunities	0.005276336820894789
+bodycomplex	0.008142917361270596
+bodycomputational	0.009950440119575354
+bodyconferences	0.026472999093136607
+bodyconnected	0.008909797012674137
+bodyconsidered	0.004543435030633813
+bodyconstraints	0.021821204770604008
+bodyconsumer	0.0
+bodycontacts	0.0
+bodycontributions	0.004390338009489625
+bodycore	0.010915093739465753
+bodycorrect	0.012227407171516935
+bodycouncil	0.012504812443233537
+bodycover	0.0
+bodycrisis	0.01681738871554528
+bodycritical	0.005448279843461634
+bodycs	0.014292003872293568
+bodydec	0.0
+bodydefault	0.005954684482042283
+bodydespite	0.005251744223698562
+bodydeveloped	0.0
+bodydidn	0.003693489192140076
+bodydirectors	0.004772698598725977
+bodydocuments	0.0
+bodydoesn	0.0037706727032915666
+bodydoing	0.013661920240682468
+bodydonald	0.004142619829976324
+bodydynamic	0.008726851669328184
+bodyearlier	0.003935250269616719
+bodyedu	0.015451742149544256
+bodyeffect	0.0064014557350614565
+bodyeffective	0.007929641010489208
+bodyefficient	0.015544569860884039
+bodyefforts	0.007380594988453004
+bodyelectronic	0.009397704984932753
+bodyemployment	0.006723599360448529
+bodyeric	0.0046092411421964075
+bodyet	0.0051634583402399015
+bodyexchange	0.008653216603038083
+bodyexpected	0.00921051518596061
+bodyface	0.005839886628335456
+bodyfact	0.00633602671953204
+bodyfall	0.009397704984932753
+bodyfar	0.0
+bodyfax	0.007424685894264149
+bodyfeb	0.006331961810916442
+bodyfed	0.015125660535214913
+bodyfederal	0.02725560756906109
+bodyfields	0.004883730606143999
+bodyfixed	0.010589929701074863
+bodyfootball	0.004351310258761121
+bodyfounder	0.009057053448557895
+bodyframework	0.013035679687905422
+bodyfrank	0.009397704984932753
+bodyfunction	0.009099320073117312
+bodyfunctions	0.004965335772926682
+bodygeneration	0.006136225300357068
+bodygolden	0.0
+bodygovernor	0.011797851892450306
+bodygovernors	0.018342910647663913
+bodygreen	0.00794909332167748
+bodyhalf	0.007907511598535644
+bodyharvard	0.005978809556988485
+bodyheight	0.009487469043405583
+bodyhit	0.008965454242343851
+bodyholds	0.0036628778362587378
+bodyhomepage	0.009219047697458183
+bodyidea	0.00921051518596061
+bodyieee	0.02629805777501326
+bodyimagealtc	0.024512251745498648
+bodyimagealtuniversity	0.007717294063405711
+bodyimagealtw	0.023640691950698955
+bodyincludes	0.006678345518178697
+bodyincome	0.010451202036070084
+bodyindependent	0.006678345518178697
+bodyindividual	0.0046924808723227684
+bodyindustries	0.007223486985708294
+bodyinfluence	0.01103204694103288
+bodyinfrastructure	0.011825615452489502
+bodyinnovation	0.007832255342048233
+bodyinsights	0.004811841642909265
+bodyinstitutions	0.0040779833395153675
+bodyinstructions	0.0064014557350614565
+bodyinsurance	0.00739333249540175
+bodyintelligence	0.014995839038182579
+bodyinterests	0.008726851669328184
+bodyinterview	0.005322019366075792
+bodyinvesting	0.008965454242343851
+bodyinvestors	0.007717294063405711
+bodyinvolved	0.004811841642909265
+bodyjames	0.003821639082731254
+bodyjanet	0.014458447331600954
+bodyjoining	0.01005902594476138
+bodyjoint	0.005771800576721997
+bodyjr	0.004340141728143343
+bodyjustin	0.0046092411421964075
+bodykim	0.010806558650742759
+bodylargest	0.008400432311705064
+bodylate	0.0038437711185016488
+bodylead	0.006064770768290373
+bodyleader	0.0049550915884521984
+bodyleaders	0.006723599360448529
+bodyleague	0.003975874736213192
+bodyled	0.0055846814052080695
+bodyletters	0.010329964330502817
+bodylicense	0.00884420783969786
+bodylinear	0.004340141728143343
+bodyliving	0.007894958645411343
+bodyllc	0.003975874736213192
+bodylost	0.012672400257634497
+bodylow	0.01075998003405565
+bodylower	0.010989098626724814
+bodymachine	0.011996388993542051
+bodymakes	0.008031340624336636
+bodymanaging	0.005978809556988485
+bodymarketing	0.005430615212567824
+bodymarried	0.010252411869057232
+bodymartin	0.0
+bodymassachusetts	0.0
+bodymean	0.003693489192140076
+bodymeeting	0.008031340624336636
+bodymethod	0.0
+bodymiller	0.004965335772926682
+bodymitchell	0.012219690896216329
+bodymodeling	0.00739333249540175
+bodymodels	0.01742980819118012
+bodymonetary	0.01837691354163762
+bodyms	0.01467746521126978
+bodymulti	0.010309183360980856
+bodymultiple	0.0
+bodynamed	0.008775648264481517
+bodynation	0.007222731308419328
+bodynatural	0.005851733761383038
+bodynear	0.0
+bodynecessary	0.008549249600507847
+bodyneeded	0.0046092411421964075
+bodyneeds	0.006629501283897388
+bodynetworks	0.025259372398736768
+bodynfl	0.0
+bodynotes	0.0
+bodynumbers	0.0
+bodyobama	0.007218333274754296
+bodyofficer	0.0
+bodyones	0.0075632918450576625
+bodyoperations	0.00968593336238166
+bodyopportunity	0.004811841642909265
+bodyorganization	0.0
+bodyorganizations	0.00884420783969786
+bodypath	0.010431004029558433
+bodyphd	0.006678345518178697
+bodyplanning	0.0
+bodyplans	0.006526155794379096
+bodyplayer	0.004351310258761121
+bodypolitical	0.0038437711185016488
+bodyportfolio	0.006228695920828198
+bodypositions	0.006629501283897388
+bodypotential	0.006467935813156966
+bodyprior	0.01819578880021655
+bodyproceedings	0.011113509278219191
+bodyprocessing	0.010602563759367079
+bodyproduction	0.004351310258761121
+bodyprof	0.0
+bodyprogramming	0.0
+bodyradio	0.0
+bodyrandom	0.010069584636337447
+bodyrange	0.0
+bodyreasons	0.0034881799080799247
+bodyrecovery	0.007223486985708294
+bodyred	0.0
+bodyregulation	0.011676334308655667
+bodyrelationship	0.0
+bodyreleased	0.012040787575485878
+bodyreported	0.009868053483072736
+bodyrepresentation	0.005911885566337816
+bodyreserve	0.021335957853534038
+bodyrich	0.012274135547531317
+bodyroad	0.009390959294388268
+bodyrobert	0.0061877811535954175
+bodyrule	0.008123818540682337
+bodyrules	0.015592587545346315
+bodyrunning	0.008882252976856964
+bodysc	0.005448279843461634
+bodyscale	0.016028487920725087
+bodyschedule	0.006447529694936338
+bodyscientists	0.006263558866664742
+bodysemantic	0.022761199055710946
+bodysettings	0.0
+bodyshares	0.01641144070487066
+bodysimilar	0.005702463098857136
+bodysize	0.0048102454750890145
+bodysmith	0.005085412721723914
+bodysource	0.012873831194959329
+bodyspace	0.008952431270895622
+bodystage	0.0048102454750890145
+bodystarting	0.0075632918450576625
+bodystartups	0.013575347497131185
+bodystats	0.005364011412170577
+bodystay	0.004390338009489625
+bodystep	0.006053286071447173
+bodystephen	0.003693489192140076
+bodysteve	0.0
+bodystocks	0.01599724891064014
+bodystrategy	0.0051634583402399015
+bodystrong	0.007328139413881329
+bodysummer	0.006228695920828198
+bodysymposium	0.010589929701074863
+bodytakes	0.003975874736213192
+bodytalks	0.0
+bodyteaching	0.004527754310646781
+bodyteams	0.00921051518596061
+bodytechnion	0.005163369020241282
+bodytechnologies	0.0045613326668265675
+bodytelevision	0.005566834363319062
+bodythomas	0.005702463098857136
+bodythought	0.0
+bodytold	0.006136225300357068
+bodytook	0.00928974071890154
+bodytoronto	0.0
+bodytransactions	0.0199284344577495
+bodytrue	0.0
+bodyunderstanding	0.004182428682692474
+bodyvalues	0.007380594988453004
+bodyvice	0.004772698598725977
+bodywall	0.007636609293500962
+bodywang	0.010640442062609057
+bodyways	0.0
+bodywide	0.010544727534693599
+bodywife	0.0051634583402399015
+bodywin	0.0
+bodyworkshop	0.011098930876253466
+google	0.016461599258357218
+titlegoogle	0.016461599258357218
+titlescholar	0.03276867872648692
+urlac	0.007877069289034866
+urlcitations	0.03102437238673017
+urlgoogle	0.016461599258357218
+urlpeople	0.0
+urlrank1	0.021885158529583615
+urlrank2	0.014283343899534562
+urlrank3	0.00725689525801998
+urlrank4	0.005289157541610523
+urlrank5	0.004485642192610162
+urlscholar	0.03218662003143835
+urlscholargooglepage	0.03102437238673017
+urluser	0.006895511711375146
+
+Classifier description:
+-----------------------
+Norm-Based Hyperparameter Selection: 9.217131352908968
+
+Regression Coefficients
+=========================
+
+(intercept) : -0.1519553863237867
+//www : 0.05995464788332503
+_than_10 : -0.03399893866619043
+bodyabstract : -1.045427809976686
+bodyac : 0.18031495723747498
+bodyacademic : 0.14882114659989834
+bodyaccess : -0.15406549187247004
+bodyaccessibility : -0.30252739593335604
+bodyaccording : -0.4684708022606082
+bodyaccount : -0.10507682606095599
+bodyaccounts : -0.7191959162996416
+bodyaction : 0.4160334729612211
+bodyactive : 0.22192561070963454
+bodyactivities : -0.8465707571712507
+bodyad : 0.25866250426741166
+bodyadd : -0.30457250294549154
+bodyadded : 0.07779922423116123
+bodyadditional : 0.3420320029225327
+bodyaddress : 0.06711128156492331
+bodyads : -0.141021530857229
+bodyadvanced : -0.04048089503677031
+bodyadvertise : 0.0872148902052565
+bodyadvertising : 1.164510632665024
+bodyadvice : -0.15360373311597786
+bodyaffiliate : -0.2345306058172844
+bodyaffiliates : -0.6674197297022517
+bodyafrica : 0.23717471766679782
+bodyage : 0.24814952209012875
+bodyago : -1.267687295542804
+bodyagreeing : 0.2908946010481926
+bodyagreement : -0.3358037155761655
+bodyair : 0.11059297070037698
+bodyais : -0.6315716824371758
+bodyal : -0.5903266249353196
+bodyalerts : 0.5013065758966976
+bodyalt : -0.5496252157925865
+bodyamazon : -0.23328207682729651
+bodyamerica : 0.8012826432702761
+bodyamerican : 1.1326064235301796
+bodyamir : -1.2141155195691529
+bodyanalysis : 0.03831170470952374
+bodyannual : 0.5223250211270167
+bodyapp : -0.0672544530414429
+bodyapplication : 0.6524383548805925
+bodyapplications : 0.3744202382839194
+bodyapplied : 0.12834634211556273
+bodyapproach : 0.2629304099125607
+bodyapps : -0.21148016754512186
+bodyapril : 0.8316802873336245
+bodyarchive : 0.28536045604146054
+bodyarea : 0.2838639163061299
+bodyareas : 0.536532659412857
+bodyart : 0.23694148563017572
+bodyarticle : 0.6489118255142086
+bodyarticles : -0.5286909297919201
+bodyarts : -0.31468913185085723
+bodyasia : -0.9748684366256795
+bodyask : 0.17420757212016236
+bodyasked : -1.0087906153259885
+bodyassistant : 0.14478538244879502
+bodyassociation : 0.11161733079299865
+bodyaudible : 0.2595025630498916
+bodyaudio : 0.5347759545656159
+bodyaugust : -0.1559047111502783
+bodyaustralia : 0.15454196441405776
+bodyauthor : -0.39265695014349766
+bodyauthors : -0.40767567778265956
+bodyavailable : -0.08563966343405535
+bodyaviv : 0.7461149396220746
+bodyaward : 0.07217331742623609
+bodyawards : 0.1725999788170085
+bodyaxis : 0.23325489450814446
+bodybaby : -0.768315251728689
+bodybad : 0.06776987780244767
+bodybank : 0.5067266505364303
+bodybanking : -0.07115381578549593
+bodybar : -0.2681421630239369
+bodybased : 0.24087424544309388
+bodybeauty : -0.33475419065628526
+bodybelieve : -0.37245828543833986
+bodyben : 0.40539147428557715
+bodybest : 0.26015770831545093
+bodybetter : -0.8253135343177885
+bodybig : 0.7622434037152612
+bodybiography : 0.2592423803917766
+bodybit : -0.03808917726706838
+bodyblock : 0.23180015828301262
+bodyblocked : 0.3197749878746768
+bodyblog : -0.08788510018208888
+bodyboard : 0.3756441720514084
+bodybook : 0.07526417455416136
+bodybooks : -0.6300868582978357
+bodyborn : 0.23200965811106772
+bodybox : -0.37674437476662365
+bodybrands : -0.09066463515418333
+bodybrasil : -0.04896483536776144
+bodybrazil : -0.11678383831737402
+bodybrowse : -0.5894983334264385
+bodybrowser : -1.1174994915727643
+bodybuilding : -0.6917601575075165
+bodybusiness : 0.29471503158370044
+bodybutton : -0.6006512462996466
+bodybuy : -0.1803471649065782
+bodyca : 0.3240491826330629
+bodycalendar : 0.04533084959060302
+bodycalifornia : 0.35430160734741883
+bodycalled : -0.2865879687865665
+bodycanada : 0.24205120734369184
+bodycancel : 0.2990739290610683
+bodycapacity : -0.21606566670522467
+bodycapital : -0.03094952489749891
+bodycard : -0.9539147690270803
+bodycards : -0.33561395651974096
+bodycare : 0.5338065691708535
+bodycareer : 0.12352302476269034
+bodycareers : 0.21530559709153227
+bodycase : 0.11987903165835065
+bodycatch : -0.09034920898369363
+bodycelebrities : -0.2725685054080271
+bodycelebrity : -0.2127207879364283
+bodycell : 0.016315055361623174
+bodycenter : -0.08788281186222438
+bodycentral : -0.3081452205909624
+bodychair : -0.7918288626015543
+bodychairman : -0.11546105708956234
+bodychange : -0.20845108096380702
+bodychapter : -0.9415194776300216
+bodycharacters : 0.1331601426796178
+bodycharts : 0.3393778501147657
+bodycheck : 0.05316518669361642
+bodychildren : -0.41061501978823695
+bodychina : -0.17662925372704805
+bodychoice : -0.23093608190977755
+bodychoices : -0.07395840197338194
+bodychoose : 0.1336493237077673
+bodycitation : -0.1629754743093997
+bodycity : -0.6706195943246499
+bodyclass : 0.1823073709331344
+bodyclear : 0.30535484972548715
+bodyclick : 0.02291443687618284
+bodyclose : -0.03869424305277348
+bodycloud : -0.40439692163314833
+bodyclub : -0.7306428467466679
+bodycode : 0.659142730485174
+bodycodes : 0.2049789183302082
+bodycollege : -0.7698222751896225
+bodycom : -0.08370800266999086
+bodycome : 0.7160227019185814
+bodycomics : -0.5134579054958993
+bodycoming : 0.979948751650924
+bodycomment : -0.15648449171129555
+bodycomments : 0.32197557865125703
+bodycommercial : 0.7175148788967192
+bodycommittee : -0.4197414791733045
+bodycommunity : 0.12232974877571128
+bodycompanies : -0.4538263333374644
+bodycompany : 0.43955193483088006
+bodycomplete : -0.1573654636695423
+bodycomputers : -0.2966616813552137
+bodycomputing : 0.4166370153763115
+bodyconditions : -0.17097196972273157
+bodyconference : -0.5396345127942683
+bodyconfirmation : 0.10959532635126619
+bodyconnect : 0.5041001797370527
+bodycontact : 0.14843839507121107
+bodycontainsnamecombination : -0.14632969403851626
+bodycontainsonenameorgan : -0.2506871234484318
+bodycontent : -0.1571771837384163
+bodycontinue : 0.39376606867367486
+bodycontribute : -0.29919166100049416
+bodycontributor : -0.6388872743371199
+bodycontrol : 1.4579945217156385
+bodyconversation : -0.10688751408698341
+bodyconversations : 0.16125346018424075
+bodycookie : 0.013062321534787247
+bodycookies : -0.3547967314696358
+bodycopy : -0.0958772558045856
+bodycopyright : -0.08771445430588633
+bodycorporate : 0.26637126631876007
+bodycountries : -0.06512945735833339
+bodycountry : 0.3010104140270688
+bodycourse : -0.2211134939680332
+bodycourses : -0.37787821664374077
+bodycreate : 0.3719916956935017
+bodycreated : 0.03751876946622293
+bodycreative : -0.17036720972791713
+bodycredit : 1.3252933523877712
+bodycredits : -0.2715082673443881
+bodyculture : 0.4942526836050119
+bodycurrency : -0.5526360553912284
+bodycurrent : -0.48130809007032505
+bodycurrently : -0.06012454851215658
+bodycustomer : 0.9330786255063238
+bodycustomers : -0.289642416509978
+bodydaily : 0.13254986660020485
+bodydan : 0.3148023885975612
+bodydaniel : -0.7742321042930942
+bodydansk : 0.4415396012357016
+bodydata : 0.20095172537355033
+bodydatabase : 0.025337172585563006
+bodydate : -0.7072862285820093
+bodydavid : -0.10759488141755016
+bodyday : -0.25964731030998645
+bodydays : -0.3080382992908845
+bodydeal : -1.0388755843606643
+bodydeals : 0.6245905760528608
+bodydecember : 0.32910334635008903
+bodydecision : 0.5266185742286664
+bodydefense : -0.001977887078034493
+bodydegree : -0.3145320448476334
+bodydelete : -0.5382073920844412
+bodydelivery : -0.6284976322903899
+bodydepartment : 0.09320660993481801
+bodydepartments : 0.134649925838596
+bodydepository : -0.1560777559237049
+bodydescription : -0.9508288968040585
+bodydesign : 0.3607632436241796
+bodydetails : -0.32219765865425787
+bodydeutsch : 0.37352266216957797
+bodydeveloper : 0.5605083543080596
+bodydevelopers : 0.40742103372308497
+bodydevelopment : 0.5481630857312819
+bodydevices : -0.530573335823084
+bodydid : 0.5117524028636892
+bodydifferent : -0.37256390749581686
+bodydigital : 0.3717648488023641
+bodydirect : 0.5307259921565246
+bodydirector : -0.5144082296169384
+bodydirectory : -0.19244098274363197
+bodydiscover : -0.18542875425131108
+bodydistribution : -0.22126018789463608
+bodydivision : -1.8031859527579255
+bodydoes : 0.18274212989406988
+bodydon : 0.5080450347302983
+bodydownload : -0.19936748000000368
+bodydpreview : -0.14965094220022043
+bodydr : -0.23485508508459407
+bodydrive : -0.6278603200803887
+bodyearly : 0.35187986064927207
+bodyeasily : -0.6071803616697421
+bodyeast : -0.10253358302614077
+bodyeasy : -1.5004631173552188
+bodyebooks : -0.7549057136404459
+bodyeconomic : 1.086738978618128
+bodyeconomics : 0.1186532641418388
+bodyeconomy : 0.02616982782021213
+bodyedit : 0.6849595462072088
+bodyedition : 0.8195555179937615
+bodyeditor : 0.45997370464948334
+bodyeditorial : -1.2996683038518015
+bodyeducation : 0.2423763866329924
+bodyeducational : 0.4682323490039073
+bodyel : 0.42303995533522054
+bodyeli : -1.292750507831385
+bodyemail : 0.6386728818443792
+bodyembed : 0.5897540931308038
+bodyen : -0.7480271304055416
+bodyenable : 0.4245393191205658
+bodyend : 0.041046891558111205
+bodyenergy : 0.04358519976353712
+bodyengineering : 0.30151624136451693
+bodyenglish : -0.38067866308339515
+bodyenjoy : -0.21973733079171753
+bodyenter : -0.046748917757543126
+bodyentertainment : -1.0200513327363898
+bodyenvironment : -0.9876463778730626
+bodyerror : 0.7475269678031127
+bodyespa : -0.043705215506576245
+bodyestate : 0.3638225580212197
+bodyeurope : 0.9746554671543382
+bodyeuropean : -0.5899958497938559
+bodyevent : -0.24438188601051145
+bodyevents : 0.3789899433869563
+bodyeveryday : -0.21642542788767452
+bodyexclusive : 0.6448326892787593
+bodyexecutive : -0.5316470653765473
+bodyexperience : 0.48758061277428877
+bodyexplore : -0.23009583288296104
+bodyexternal : -0.43933626466531706
+bodyfacebook : -0.17618942014426503
+bodyfaculty : -0.04274158531647339
+bodyfalse : -0.13800179242697358
+bodyfamily : 0.4481930091936721
+bodyfantasy : 0.48188046768960424
+bodyfaq : -0.4963413669614359
+bodyfashion : 0.06326764250012623
+bodyfast : -0.22492115435552057
+bodyfavorite : 0.08310433760625723
+bodyfeatured : 0.06937616518160833
+bodyfeatures : -0.5015658939881797
+bodyfebruary : -0.4723480239627237
+bodyfeedback : -1.26664264881284
+bodyfellow : -0.03617454146888072
+bodyfestival : 0.4185804420381849
+bodyfield : 0.34101789728992
+bodyfilm : 0.37710531010214515
+bodyfilter : -1.5837702482399065
+bodyfinal : 0.45636661562517755
+bodyfinance : 0.03754805002091002
+bodyfinancial : 0.9338489910810982
+bodyfine : -0.7302277241309685
+bodyfirm : 0.4892297162739723
+bodyfocus : -0.06940731772850153
+bodyfollow : 0.28403735403621455
+bodyfollowed : 0.018850913695965366
+bodyfollowers : 0.5536336815029383
+bodyfollowing : 0.38402092253169057
+bodyfood : -0.4720676723003458
+bodyfoods : -0.40114509656134
+bodyforce : -0.7072519826969927
+bodyforeign : -0.22234253360060618
+bodyforgot : -0.4079048710039742
+bodyform : 0.14904503432184912
+bodyformat : -1.1414456212210744
+bodyforum : -0.4633902641324458
+bodyforward : -0.40312824783906537
+bodyfoundation : -0.3876281486604197
+bodyfran : 0.004162456188512591
+bodyfrance : -0.023465371027353493
+bodyfree : 0.4409686635986583
+bodyfrequently : 0.6165092399919045
+bodyfriend : 0.08750085399850036
+bodyfriends : -0.4049124930649645
+bodyfullname : -0.01727607752435239
+bodyfun : 0.08301698302363314
+bodyfund : 0.5685388433316416
+bodyfunds : -0.22223356952283138
+bodyfuture : 0.11682285735607742
+bodygallery : 0.238926316108191
+bodygame : -0.018438879946545896
+bodygames : 0.49363320114214726
+bodygarden : 1.0352205376870107
+bodygeneral : -0.5352733426225159
+bodygeorge : -0.4946148744386961
+bodygermany : -0.8567838316346832
+bodygetting : 0.5832782198077118
+bodygift : -0.43787578231931973
+bodygirls : -0.5186711711771665
+bodygiven : 0.12643138716847527
+bodygiving : -0.3560425563788885
+bodyglobal : 0.4051808929564754
+bodygoing : -0.6609740366586694
+bodygood : 0.3781648257371933
+bodygoodreads : 0.06347126421884375
+bodygoogle : -0.1342967436647054
+bodygot : 0.05077170301253657
+bodygovernment : 0.1954219099376677
+bodygraduate : 0.07952981427799305
+bodygreat : 0.201470375575697
+bodygroup : -0.6690373267249813
+bodygroups : 0.39935342817309916
+bodygrowth : -0.87465862604347
+bodyguide : -0.3013287241314235
+bodyguidelines : 0.5897832058617423
+bodyhaifa : 0.635039597944349
+bodyhappen : 0.2542071046747568
+bodyhappy : -0.7558982881739482
+bodyhard : 0.3136254381764045
+bodyhaving : -0.4680318087440161
+bodyhead : 0.2701753595251164
+bodyhealth : 0.41119754390662233
+bodyheart : 0.14783385447059078
+bodyheld : -0.26855793952308676
+bodyhello : 0.8871758344495915
+bodyhelp : -0.4313127784218817
+bodyhigh : 0.22798512582500274
+bodyhigher : -0.10142274770601864
+bodyhistorical : -0.7327784427756594
+bodyhistory : 0.10883718282236632
+bodyhome : 0.05131815984626441
+bodyhope : -1.0384810608085362
+bodyhour : -0.3385891877784396
+bodyhours : -0.1700241917094707
+bodyhouse : -0.30208788518218394
+bodyhrvatski : -0.3814031435757261
+bodyhttp : -0.1604428551261084
+bodyhttps : 0.1720610958830917
+bodyhuman : 0.7206097073741254
+bodyid : 0.0079474074469959
+bodyideas : -0.8808111165285912
+bodyii : -0.40523011682524995
+bodyil : 0.18550769406708384
+bodyimage : -0.2135562884228772
+bodyimagealt : -0.05869758465563423
+bodyimagealta : -0.8449632478525434
+bodyimagealtfacebook : 0.7680466387746265
+bodyimagealtlogo : -0.6029445539977888
+bodyimagealtof : 0.2790691110312521
+bodyimagealts : 0.3432045144262104
+bodyimagealtthe : 0.07120458642510524
+bodyimagealtto : 0.16408584590779735
+bodyimagealttwitter : -0.44154499316793766
+bodyimages : 0.4735437194466837
+bodyimagesrccontainsonenameorgan : 0.5267044811247371
+bodyimdb : -0.12999741015037922
+bodyimdbpro : 0.7203656906896904
+bodyimpact : 0.9241310657639894
+bodyimportant : 0.47321337939961206
+bodyimprove : -0.22294366870151974
+bodyimprovement : 0.18659804616065176
+bodyina : -0.4263084935178687
+bodyinclude : 0.020022010459811276
+bodyincluding : -0.16475071852262277
+bodyindex : 0.7920216888741584
+bodyindia : -0.08106433623579701
+bodyindie : -0.3486881929677247
+bodyindonesia : 0.14013573459838574
+bodyindustrial : -0.2648991497331645
+bodyindustry : -0.14821538850866128
+bodyinfo : 0.0692686443112341
+bodyinformation : -0.15846227693997872
+bodyinsight : -0.2168273053891041
+bodyinstagram : 0.18366192854316543
+bodyinstant : 0.37541943250044185
+bodyinstitute : 0.7241705280559451
+bodyinstruments : 0.503727669891075
+bodyinteresting : -0.15110045297492705
+bodyinternational : -0.08437444717327744
+bodyinternet : -0.01046711212855244
+bodyintroduction : -0.457021747931297
+bodyinvestment : -1.0872792615198827
+bodyinvestor : -0.1986156931270863
+bodyireland : -0.320156239309477
+bodyisrael : -0.2926031129338735
+bodyisraeli : -0.6219022111769004
+bodyissue : 0.43953248514569304
+bodyissues : 0.2107262828185993
+bodyitaliano : 0.13725475633400827
+bodyitaly : 0.27050917003886044
+bodyitems : 0.40676615832138696
+bodyjan : 1.3963681779573676
+bodyjanuary : 0.49596277935073685
+bodyjapan : -0.42419801323907835
+bodyjavascript : -0.8503494635257747
+bodyjerusalem : -0.30381211053979956
+bodyjewish : 0.16841607698583846
+bodyjob : 0.09389677824175632
+bodyjobs : 0.15061008845507076
+bodyjohn : 0.1857384941077474
+bodyjohnson : -0.025945293952849398
+bodyjoin : -0.38229806765172286
+bodyjoined : 0.3689707601938115
+bodyjournal : 0.4941130490434616
+bodyjournals : 0.28042951262205695
+bodyjul : -0.09072578729469191
+bodyjuly : -0.09802320701738942
+bodyjump : 0.08173600674805487
+bodyjun : -0.8153795939079185
+bodyjune : 0.01871500673137237
+bodyjust : -0.09374746648232112
+bodykey : -0.21803717166345368
+bodykids : 1.1345271024523154
+bodykingdom : 0.23752573008771716
+bodyknow : -0.3346985913983069
+bodyknowledge : 0.6490371588480415
+bodyknown : 1.1522978679787272
+bodyla : 0.40003555797622
+bodylanguage : -0.30766859165864235
+bodylarge : 0.6347638023277729
+bodylater : 0.4116528367130203
+bodylatest : -0.47579742775170175
+bodylaw : -0.07924397349266615
+bodyleadership : 0.20537719235031404
+bodyleading : 0.042025511438952085
+bodylearn : 0.34101146411083333
+bodylearning : 0.008291073419825044
+bodyleft : -0.23268635888113096
+bodylegal : -0.38801087161835646
+bodylet : -0.07096527969514532
+bodylevel : 0.14810953416809197
+bodylibrary : -0.48716478687148373
+bodylife : 0.5531759995846681
+bodylike : 0.16763294837807757
+bodyliked : 0.3950533843377336
+bodylikes : 0.02530071603734361
+bodylimited : -0.3311443466380424
+bodyline : 0.2729331893008361
+bodylink : -0.6007787064922673
+bodylinkedin : -0.21329136880596145
+bodylinks : -0.4241571143858607
+bodylist : 0.16230353962268412
+bodylists : 0.3964688302892507
+bodylite : 0.025596521859263078
+bodyliterature : -0.5679287297513408
+bodylittle : -0.09753630293084711
+bodylive : -0.44286119250345896
+bodyll : 0.3519056917643574
+bodyload : -0.2412083801172345
+bodyloading : -0.19769549270967515
+bodylocal : -0.3281723258576053
+bodylocation : -0.16153025674897226
+bodylog : 0.3287015086455779
+bodylogin : -0.02616331682691733
+bodylondon : 0.057186815092737285
+bodylong : -0.36538068872992235
+bodylook : -0.20972925807459342
+bodylooking : 0.09600013808959734
+bodylot : 0.5704179145167184
+bodylove : -0.40069775492358545
+bodyma : -0.49509157381811597
+bodymagazine : 0.7937340751931334
+bodymagyar : -0.3505228369357624
+bodymail : -0.22028920555887346
+bodymain : -0.058922171840756286
+bodymajor : 0.2147729035515927
+bodymake : -0.17325833660725126
+bodymaking : -0.8034786083824195
+bodyman : 0.5137918849840392
+bodymanage : -0.9050635540472377
+bodymanagement : 0.27420117607990596
+bodymanager : -1.1042320940984593
+bodymap : 0.3705876059866221
+bodymar : 0.5414962035828271
+bodymarch : 0.2088090500010032
+bodymark : 0.22822397119790763
+bodymarket : -0.15847861962745324
+bodymarketplace : -0.007038417125544699
+bodymarkets : -0.5218307265435242
+bodymaterial : -0.47657845266405596
+bodymath : 1.1352367212676373
+bodymathematical : -0.0935517149303486
+bodymathematics : 0.2678665011900626
+bodymatters : 0.18171762079734713
+bodymeans : -0.31791035420485037
+bodymedia : 0.15771306343353916
+bodymedical : -0.01624385785252397
+bodymedicine : 0.4082383966606357
+bodymeet : 0.2860107754102687
+bodymember : 0.782939992617793
+bodymembers : 0.18843383664103597
+bodymen : -0.10533835126113576
+bodymenu : -0.12034545910137684
+bodymessage : -0.3892297538266835
+bodymessenger : 0.2588932741093562
+bodymethods : 0.7198964980176665
+bodymichael : -0.38043581314537267
+bodymiddle : -0.010714196808709373
+bodymilitary : -0.615562619126496
+bodymillion : 0.014992021249543859
+bodymillions : -0.6114582072879533
+bodyminutes : -0.5582390207044021
+bodymiss : 0.3066783348764611
+bodymission : -0.404149800459112
+bodymobile : -0.0804541789670844
+bodymodel : -0.3459945696739649
+bodymojo : 0.2870018813025205
+bodymoment : -0.4831095886492988
+bodymoments : -0.24092839612525258
+bodymonday : -0.21895084558146588
+bodymoney : -0.5877462999813909
+bodymonth : -0.27328523534928056
+bodymonths : -1.0805849476790013
+bodymovie : -0.4160902449390943
+bodymovies : 0.09855969453225473
+bodymr : 0.5488161401114986
+bodymusic : -0.6791227664936408
+bodynames : 0.35294689630697884
+bodynational : 0.48882502520711574
+bodynature : -0.16595792701616763
+bodynavigation : 0.9106228063484987
+bodynederlands : 0.16119904244138264
+bodyneed : 0.6454696662969424
+bodynet : -0.6900795468210902
+bodynetwork : 0.6705404152873122
+bodynew : 0.14013857608653468
+bodynews : -0.5364743262028719
+bodynewsletter : 1.0828880905350466
+bodynewsletters : 0.6578692642228425
+bodyng : -0.14063870160120137
+bodynight : -0.6308474062466097
+bodynon : 0.3530148548608075
+bodynoofentitynameindoclessthan3 : -0.21640924968979694
+bodynoofentitynameindoclessthan5 : -0.3134218875899381
+bodynoofwordsgreaterthan500 : 0.07485423578098947
+bodynoofwordslessthan100 : -0.09047289615500233
+bodynoofwordslessthan200 : -0.12065844529666843
+bodynoofwordslessthan400 : -0.8510091881996036
+bodynoofwordslessthan50 : 0.09602976480682825
+bodynorsk : 0.30701032736700545
+bodynorth : -0.32044732914546736
+bodynote : 0.6132201387777716
+bodynotice : -0.2501000728163285
+bodynov : 0.23531565738423488
+bodynovember : -0.09432346574998354
+bodynumber : 0.31203811577110335
+bodyoct : 0.7711856682302697
+bodyoctober : 0.40714069652614193
+bodyoffer : 0.021701681615930637
+bodyoffers : -0.46005622533215174
+bodyoffice : -0.19659286788838817
+bodyofficial : 0.05057874256041481
+bodyol : -0.0082757194122729
+bodyold : 0.2202221587741179
+bodyonline : 0.033703360096423336
+bodyopen : 0.201577107910487
+bodyopinion : 0.3129619891976511
+bodyoption : -0.3400851928461121
+bodyoptional : -0.2244002632967042
+bodyoptions : 0.13117134380321877
+bodyorange : 0.09772338133845716
+bodyorder : -0.21026023441135844
+bodyorders : -0.26774621026052337
+bodyorg : -0.25696867871925316
+bodyoriginal : 0.4147376130217705
+bodyoverview : 0.2258466359220773
+bodypage : 0.25254916933789484
+bodypages : -0.9428286792255701
+bodypaper : -0.5255078335432206
+bodypapers : -0.09315198957462245
+bodyparent : 0.11850872669105081
+bodypartner : -0.34194306988907075
+bodypartners : 0.8100163552446993
+bodyparts : -0.6578525656617309
+bodyparty : 0.06132498754431352
+bodypassword : -0.08299829822036156
+bodypast : 0.19229724284526098
+bodypaul : -0.8392245172117072
+bodypay : -0.09471605991343925
+bodypayment : 0.1396876505514516
+bodypdf : 0.46520757090134895
+bodypending : -0.135451969373886
+bodypeople : 0.2448067003489775
+bodyperformance : 0.7437225453643749
+bodyperson : -0.7979881260663695
+bodypersonal : 0.40754606865466
+bodypeter : -0.2251495139780787
+bodyph : -0.7838339397025865
+bodyphilosophy : 0.196917565126254
+bodyphone : 0.3757890548497152
+bodyphoto : 0.12194066094611086
+bodyphotography : 0.06210217995463376
+bodyphotos : -0.720772404775524
+bodyphysics : -1.3826962530107
+bodypic : 0.0692760047499591
+bodyplace : -0.09538956097303161
+bodyplan : 0.5401145982440307
+bodyplay : 0.2640099716068541
+bodyplus : 0.5784035796941628
+bodypm : -0.7760973464811153
+bodypoint : 0.8773325094655003
+bodypoints : -0.4985595767843751
+bodypolicies : -0.33456570314967576
+bodypolicy : -0.12703205132804452
+bodypolitics : 0.13900490455561987
+bodypolski : 0.4672419599191243
+bodypopular : 0.276300953060231
+bodyportugu : 0.13506490087236644
+bodyposition : 0.05135178247692968
+bodypossible : 0.3052870081494715
+bodypost : 0.8237523276634282
+bodyposted : -0.6289549151072058
+bodyposters : -0.6111333063860505
+bodyposts : -0.7526155020256634
+bodypower : 0.029098813200589206
+bodypowered : -0.576313932699113
+bodypractice : -0.7385221982508254
+bodypre : -0.45388672253407836
+bodyprecise : 0.021703869999058947
+bodypresent : -0.1955430924135084
+bodypresident : -0.788807400650118
+bodypress : -0.1855700996179285
+bodypreview : -0.26487432663159427
+bodyprevious : 0.3897798329805671
+bodyprice : 0.06087969850724811
+bodyprime : 0.7802214836691068
+bodyprint : 0.6497080872671472
+bodyprivacy : 0.5184057394152092
+bodyprivate : 0.4901765816303671
+bodypro : -0.04848219182092437
+bodyproblem : 0.1561218600193756
+bodyproblems : -0.2022747868349098
+bodyprocess : -0.41518451130198963
+bodyproduct : -0.1012333437206307
+bodyproducts : -0.6232278906202615
+bodyprofessional : -0.20727147565294401
+bodyprofessionals : 0.7371141171694761
+bodyprofessor : -0.09212812199713462
+bodyprofile : 0.14522821401052363
+bodyprogram : 0.29644157164856044
+bodyprograms : -0.29495016629905535
+bodyproject : -0.2976167227497439
+bodyprojects : 0.45796599442000735
+bodypromote : -0.24958186756279319
+bodyproperty : -0.5739269063736967
+bodyprovide : -0.672963639183045
+bodyprovided : 0.5383438654665714
+bodypublic : 0.38521225983175655
+bodypublication : 0.9517023235367938
+bodypublications : -0.34922168974987766
+bodypublish : -0.6068490249921902
+bodypublished : -0.03611165861134252
+bodypublisher : -0.23122496074539683
+bodypublishing : -0.6733498669574234
+bodyquality : -0.08726402469723721
+bodyquery : -0.6851961331859039
+bodyquestion : 0.3163859676073711
+bodyquestions : 0.26705282457658364
+bodyquick : -0.4345760921360782
+bodyquotes : -0.15947659055713342
+bodyrate : -0.13394445094244883
+bodyrated : 0.11010097635476626
+bodyrates : 0.4131060906847933
+bodyrating : -0.8463392144955733
+bodyratings : 0.5448010771491
+bodyread : -0.09461224606631323
+bodyreading : 0.6407902212345584
+bodyready : -0.7546244430295797
+bodyreal : 0.07640634462695112
+bodyreally : 0.15261817383460663
+bodyreceive : -0.6518606596505363
+bodyreceived : 0.10725516642827908
+bodyreceiving : 0.21209046171287016
+bodyrecent : -0.19174761557132652
+bodyrecently : 0.0457697228982739
+bodyrecommendations : -1.132939831959629
+bodyrecommended : -0.7580419241016385
+bodyrecord : -0.0701499582653699
+bodyrecords : -1.045762443245125
+bodyreference : -0.5315978838787859
+bodyrefresh : 0.2756868778222036
+bodyregion : -0.431831704504753
+bodyregister : -0.10496977236659723
+bodyrelated : -0.07433651059696535
+bodyrelations : 0.5284407337402734
+bodyrelease : 0.3152323969404876
+bodyreleases : 0.46013895880302197
+bodyreliance : -0.5826016642695793
+bodyremember : -0.31777937085942487
+bodyremove : -0.18204072915198632
+bodyreply : 0.009853323744245798
+bodyreport : -0.5730112613688257
+bodyreports : 0.7306583093408608
+bodyrequest : -0.044717055955990244
+bodyrequired : 0.012998159718871973
+bodyresearch : 0.33266979736830554
+bodyresearchers : 0.38024371186526046
+bodyreserved : 0.060599570152627354
+bodyresource : 0.2402501339119369
+bodyresources : 0.3190816989004518
+bodyresponse : -0.40449562744189793
+bodyresults : -0.06563814668558603
+bodyreturn : -0.018761784436810255
+bodyreturns : -0.6485880463858904
+bodyreview : -0.3855163477248793
+bodyreviews : -0.2085858995590285
+bodyrichard : 1.0324779256952281
+bodyright : 0.30828997357040483
+bodyrights : 0.4032129047766464
+bodyrisk : -0.37974036243296727
+bodyrk : -0.09482833725829504
+bodyrole : 0.005542749481395569
+bodyroom : -0.2377384466860325
+bodyrss : 0.40932547148632376
+bodyrun : -0.05321793775181681
+bodysaid : 1.1821180503540956
+bodysale : -1.224169093101296
+bodysales : 0.45775129632917766
+bodysan : -0.07523316686161295
+bodysarah : -1.5126984349960242
+bodysave : 0.0418446279848534
+bodysaved : -0.3250462260323215
+bodysay : -0.1557170608782579
+bodysays : -0.889260537020779
+bodyscholar : -0.26143685265881494
+bodyschool : 0.12992444857485846
+bodyschools : -0.8470887158380002
+bodyscience : -0.04195430807611857
+bodysciences : 0.12547915542209756
+bodyscientific : -0.6684800502194285
+bodyscore : 0.987994998033346
+bodysearch : -0.19144447785751512
+bodysearches : 0.3450131809809766
+bodyseason : 0.3517791964887537
+bodysecond : -0.09489128052437588
+bodysections : -0.6557539147606877
+bodysecurity : 0.4417145921480686
+bodyseeing : 0.7600700437749143
+bodyseen : 0.28650397413304607
+bodyselect : -0.20723723999678348
+bodyselected : 0.5500973560367172
+bodyself : -0.4003132937752071
+bodysell : -0.5951862269666688
+bodysend : -0.5853061503707078
+bodysending : 0.4670624014730585
+bodysenior : 0.11945654741476158
+bodysep : -0.73061820263941
+bodyseptember : -0.48875330502417896
+bodyseries : 0.5419508482488364
+bodyserved : 0.8449573573328183
+bodyserver : -0.1574228405258267
+bodyservice : -0.2104792088082463
+bodyservices : -0.3417934939335321
+bodyset : 0.20759119040671123
+bodyshare : 0.3716814297622647
+bodyshared : -0.050180018590206085
+bodysharon : -2.0641304804020253
+bodyshipping : -0.4622037902638242
+bodyshop : 0.4835342020387409
+bodyshort : 0.7462070070356392
+bodyshowing : 0.7431040833568396
+bodyshows : -0.4475700597719394
+bodysign : -0.33352747819545236
+bodysimon : 0.9996029513171564
+bodysimple : -0.19097381016896628
+bodysingle : -0.7317768609819468
+bodysite : -0.25568554566687657
+bodysites : 0.4285927435849491
+bodyskills : 0.4067574123739454
+bodyskip : 0.12858549274253778
+bodysmall : -0.41520132198438686
+bodysms : -0.45624741697245785
+bodysocial : 0.2708615100427458
+bodysociety : -0.504617220370599
+bodysoftware : -0.34974414362912964
+bodysolutions : -0.17443504084501982
+bodyson : -0.5935043888347699
+bodysoon : 0.164301984059966
+bodysouth : -0.8316833611519806
+bodyspecial : -0.07755978576435417
+bodyspend : 0.07859246847795448
+bodysports : 0.6241050578732692
+bodyspread : 0.43173277908840074
+bodyst : 1.482075245285083
+bodystaff : -0.044814718054670466
+bodystandard : 0.16745822109236733
+bodystanford : 1.2033192681336602
+bodystar : 0.16289656017107135
+bodystars : -0.4860344616418247
+bodystart : 0.5590721566927185
+bodystarted : 0.29734893946423796
+bodystate : -0.16834605761165122
+bodystatement : 0.18432271497807595
+bodystates : -0.8384028922705563
+bodystatistics : 1.0084180730096628
+bodystatus : 0.21076935574236583
+bodystock : 0.24426087528960355
+bodystore : -0.16887072241361306
+bodystories : 0.5272728168927083
+bodystory : 0.0825475884196073
+bodystream : -1.8075513792832298
+bodystreaming : -1.1679916291261754
+bodystreet : 0.15904685260412169
+bodystructure : -0.8436269837360308
+bodystudent : -0.25490342460433507
+bodystudents : -0.1346178693555524
+bodystudies : -0.7792251242840834
+bodystudy : 0.23046083393658112
+bodystyle : 0.33090355049349884
+bodysubmit : -0.2900980199355685
+bodysubscribe : -0.5076631105557605
+bodysubscription : -0.7091260915061108
+bodysubscriptions : -0.15256580900350986
+bodysuccess : -0.07315375259585917
+bodysuccessful : -1.488188693796099
+bodysuggested : -0.0832197251424052
+bodysunday : 0.1273846616737937
+bodysupport : -0.5134219910777256
+bodysure : -0.364178565280281
+bodysvenska : -0.02384321521234019
+bodyswitch : -0.5066390784348815
+bodysystems : 0.8748125595893914
+bodytaking : -0.06941060030061982
+bodytalk : 0.35067608211554185
+bodytalking : 0.22724119356012562
+bodytap : -0.18373613160748783
+bodytax : 0.6676853143032744
+bodyteam : 0.7135498494484706
+bodytech : 0.2248146623768614
+bodytechnical : 0.4535755766250057
+bodytechnology : 0.2016544839160688
+bodytel : -0.031009977902576563
+bodyterm : -0.08935736370820445
+bodyterms : 0.06029387552786701
+bodytest : 0.37973791663367984
+bodytexas : -0.3510544913166344
+bodytext : 0.039008421591035236
+bodytextbook : -0.6963066252355032
+bodyth : 0.07924876640134891
+bodythank : -0.7241270435568996
+bodythanks : -0.6800907922923527
+bodytheory : -0.06827963676435869
+bodythings : 0.2792740145301364
+bodythink : -0.1529582617295882
+bodythoughts : 0.018059769175337338
+bodyti : -0.11424718027692002
+bodytickets : 0.31072786570259264
+bodytim : 0.5813374944889245
+bodytime : -0.05068917521444859
+bodytimeline : -0.5066668326831613
+bodytimes : 0.5393621267447843
+bodytina : -0.019435930657580508
+bodytitle : -1.0640389900192233
+bodytitles : 0.40275745659527035
+bodytoday : 0.4939427438653624
+bodytoggle : -0.6650856579020115
+bodytom : 0.8066950752474835
+bodytools : -1.0736294183293134
+bodytopic : -0.04581390119593082
+bodytopics : 0.19759295667374166
+bodytotal : 0.01620398751135349
+bodytrack : -0.4419929302563991
+bodytrade : 0.629819453497234
+bodytraining : 0.0011497330250522277
+bodytravel : -0.14507135325684545
+bodytrump : 0.3317858259923534
+bodytry : 0.31318623346918223
+bodytune : -0.08124003894195082
+bodyturn : 0.31984167445269207
+bodytv : -0.7307686698677374
+bodytweet : -0.7455560061539921
+bodytweets : -0.2734905352841926
+bodytwitter : -0.04835400157251246
+bodytype : 0.054033510076712914
+bodyuk : 0.19509756695349892
+bodyunderstand : -0.9370887323071392
+bodyunited : 0.34461536990598673
+bodyuniversity : 0.34977050079274674
+bodyunlimited : -0.04114037802224206
+bodyupdate : 0.0530682212345153
+bodyupdated : 0.032564041005415836
+bodyupdates : 0.051061675029826926
+bodyurl : -0.7378986002835396
+bodyusa : 0.3913223293014452
+bodyuse : 0.1920378431613785
+bodyused : -0.2617221299470711
+bodyuser : 0.17847599123320826
+bodyusers : 0.4083874404173324
+bodyuses : -0.09696463725659708
+bodyusing : 0.19225002264783456
+bodyvalue : 0.27051089520867067
+bodyvarious : -0.026454095485945454
+bodyve : 0.2738782913652254
+bodyverified : 0.1655519694611289
+bodyversion : 0.6739621316604505
+bodyvi : -0.6713835401874325
+bodyvideo : 0.45033798248281204
+bodyvideos : -0.38623295736789964
+bodyview : -0.238401632205555
+bodyviewing : 0.07966566983017256
+bodyviews : 0.3724528474552874
+bodyvision : 0.11504083679113283
+bodyvisit : -0.6788656756698285
+bodyvolume : -0.3871322668054265
+bodyvs : -0.8480169592280625
+bodywant : 0.21747534408711378
+bodywar : -0.6002084007293492
+bodywashington : -0.22958552217576722
+bodywatch : -0.25232891138604946
+bodyway : 1.2282432153049077
+bodyweb : -0.6693496441619086
+bodywebsite : -0.16586664804665557
+bodyweek : 0.4366891679982621
+bodywelcome : 0.08087942049074906
+bodywent : -0.4265144516719556
+bodywest : -0.7766432249187072
+bodywhite : 0.09987526012016495
+bodywilliam : -0.3294382700288775
+bodywind : -0.13799409571084245
+bodywithoutabox : 0.34643223820393965
+bodywoman : -0.2308755136679444
+bodywomen : 0.2768657046722562
+bodywon : 1.083507603365103
+bodyword : 0.02767006104805505
+bodywork : -0.4655170670171574
+bodyworked : 0.42027209457703246
+bodyworking : 0.10577124947077071
+bodyworks : -0.31894060357001297
+bodyworld : -0.22596147079984003
+bodyworldwide : 0.07248243792635879
+bodywriting : -0.8159944455116336
+bodywrote : 0.1344147394995878
+bodywww : -0.1554369971073097
+bodyxl : -0.4588387025581671
+bodyyear : 0.36320626575417936
+bodyyears : 1.0685955138124914
+bodyyes : 0.38059764728525364
+bodyyork : 0.3438526377217803
+bodyyoung : -0.3417505363379862
+bodyyoutube : -0.5480171970525817
+co : -0.778000461443825
+facebook : 0.007555897388071938
+html : -0.26754834341644307
+titlecom : -0.6415622003332401
+titlecontainsnamecombination : 0.11528182736556561
+titlecontainsonenameorgan : -0.11565226415588298
+titlefullname : 0.47933279435529796
+titlenoofwords_greater : -0.5668916143927488
+titlenoofwordslessthan10 : -0.48450406640378524
+titlenoofwordslessthan5 : 0.11213839718355138
+titlenoofwordslessthan7 : -0.6108570806078462
+urlcom : -0.1279799170153197
+urlcontainsnamecombination : 0.7038084574468714
+urlcontainsonenameorgan : 1.1904833045605663
+urledu : -0.36585881720339714
+urlfacebook : -0.7413132868159221
+urlfacebookpage : -0.14076709101291734
+urlhtml : -0.5181850473256553
+urlhttp : -1.0720047672900217
+urlhttps : -0.1661455221911554
+urlil : 0.37184414824691636
+urlnoofpartslessthan10 : -0.5920943977311371
+urlnoofpartslessthan5 : -0.23823839298452823
+urlnoofpartslessthan7 : 0.008110703179261942
+urlorg : -0.5562926260193006
+urlpublic : 0.04919453316010479
+urlrank : 0.0030926148681733627
+urlrank10 : -0.5964518200778366
+urlrank11 : -0.1436465261322834
+urlrank12 : 0.5802934827901965
+urlrank13 : -0.9014210569468463
+urlrank14 : -1.1344727140024984
+urlrank15 : -1.1334457282566575
+urlrank16 : -0.993917452232408
+urlrank6 : 0.10350638297910084
+urlrank7 : 0.08352342127647393
+urlrank8 : 0.09599028198121594
+urlrank9 : -0.4991521177837048
+urlwww : 0.48629649367628947
+//scholar : 0.6439857906864188
+ac : 1.3602964734654397
+bodyable : 1.0296480554052618
+bodyacademy : -0.5323261012479603
+bodyacm : 0.8963099095735148
+bodyactivity : 0.46681814891615747
+bodyaddition : -0.6748241407355275
+bodyadministration : 0.4695857176324851
+bodyadvisor : 0.45247543362958487
+bodyaffairs : -0.46521128891388175
+bodyalgorithm : 0.4724049648117855
+bodyalgorithms : 0.22101438945097127
+bodyandrew : 0.5322909753738344
+bodyapr : -0.11612581304391595
+bodyartificial : 0.9423327756295266
+bodyassociate : 0.3874962912109778
+bodyaug : 0.5714623168172227
+bodyaway : 0.11673907711827657
+bodybackground : -0.4190442365953694
+bodybanks : 0.41314377005119457
+bodybase : 0.8623129260847855
+bodybegan : -0.4847336831086169
+bodybiggest : 0.38042788414744644
+bodybillion : -0.5181343366841674
+bodybio : 0.28888253836876815
+bodyblack : -0.39733738200239765
+bodyboston : 0.07375694517414025
+bodybritish : -0.22170853212569316
+bodybuild : 0.7556590435297478
+bodycame : 0.6557735039617608
+bodyceo : 0.25968809814583305
+bodychallenge : 0.508596811891764
+bodychanged : -0.6305535694503138
+bodychanges : 0.2830357318903524
+bodychief : 0.06879503908915749
+bodycitations : -0.3664011311452328
+bodyclassification : 1.3143315098349104
+bodycohen : -0.3613502336910912
+bodycombined : 0.3736427716171569
+bodycommon : 0.16423127609052984
+bodycommunications : -0.4079259823128083
+bodycommunities : -0.545367622905079
+bodycomplex : 0.2595640593094312
+bodycomputational : -0.5929370498064037
+bodyconferences : 1.1798913985349435
+bodyconnected : -0.3264635184385201
+bodyconsidered : 0.4412117764786865
+bodyconstraints : 0.16731095314863592
+bodyconsumer : -0.618664075696224
+bodycontacts : 0.28984947672886463
+bodycontributions : -0.8099018091321785
+bodycore : 0.27840410363194623
+bodycorrect : -0.1636100092424741
+bodycouncil : 0.3501034245075748
+bodycover : 0.8605158012022296
+bodycrisis : 0.15025904446259633
+bodycritical : 0.13526572805002582
+bodycs : 0.6838346469874934
+bodydec : -0.33541849955134095
+bodydefault : -0.07370424496405031
+bodydespite : -0.23980964491617343
+bodydeveloped : -0.19664421467396395
+bodydidn : -0.5521816853101289
+bodydirectors : -0.3436334152054447
+bodydocuments : -0.1481260324725646
+bodydoesn : 0.08271650986606097
+bodydoing : 0.44040468994998094
+bodydonald : 0.12213729032756988
+bodydynamic : -0.7019306623008277
+bodyearlier : -0.785454192629715
+bodyedu : 0.03198978980550435
+bodyeffect : 0.3207158794658903
+bodyeffective : -0.2707862336640258
+bodyefficient : -0.4512660455469896
+bodyefforts : 0.8037025084621859
+bodyelectronic : 0.6524446530569868
+bodyemployment : 0.14361676085558917
+bodyeric : -0.04140727100075594
+bodyet : 0.4306871404939224
+bodyexchange : 0.11033740383335322
+bodyexpected : -0.15554822740343224
+bodyface : 0.007392475605555886
+bodyfact : 0.11162828554201776
+bodyfall : 0.5938566596427426
+bodyfar : -0.5125828592511791
+bodyfax : 0.015268652550288721
+bodyfeb : 0.3158539189864968
+bodyfed : 0.18816123614239044
+bodyfederal : 0.41214193662021836
+bodyfields : 0.1754763391163886
+bodyfixed : 0.10769757376516974
+bodyfootball : -0.09256459089110869
+bodyfounder : 0.0366930815185011
+bodyframework : 0.33682212446124205
+bodyfrank : 1.0363627089714331
+bodyfunction : -0.020782106787889044
+bodyfunctions : -0.6257259691603027
+bodygeneration : -0.25275647469476226
+bodygolden : 0.06734370649299724
+bodygovernor : -0.05840831816236341
+bodygovernors : 1.252736937724201
+bodygreen : 0.49339961863004084
+bodyhalf : -0.0654711483307406
+bodyharvard : -1.2498002697761657
+bodyheight : 0.7457571314079944
+bodyhit : 0.4217113003837101
+bodyholds : -1.0628909944719878
+bodyhomepage : 0.5041354410855124
+bodyidea : 0.8697445806992937
+bodyieee : 0.5797705224662972
+bodyimagealtc : 1.4956955498936433
+bodyimagealtuniversity : -0.557688675158175
+bodyimagealtw : 0.3169234079421571
+bodyincludes : -0.6486422594738412
+bodyincome : -0.5670574483511396
+bodyindependent : -1.2018533145312067
+bodyindividual : -0.5897200331866215
+bodyindustries : -0.008167511220978281
+bodyinfluence : 0.7213163300088004
+bodyinfrastructure : -0.3395889270099467
+bodyinnovation : 0.6608924270808442
+bodyinsights : -0.662644898525579
+bodyinstitutions : -0.7526071464098996
+bodyinstructions : 0.03578708803183025
+bodyinsurance : -0.02555375172470921
+bodyintelligence : 0.1836713479516201
+bodyinterests : 0.6223350262083693
+bodyinterview : -0.3399353329050327
+bodyinvesting : 0.27742369021190494
+bodyinvestors : 0.0645163300013979
+bodyinvolved : 1.1151969336644676
+bodyjames : 0.0997225388737978
+bodyjanet : 0.1548426655997326
+bodyjoining : 0.46973731500886395
+bodyjoint : 0.17616633353000674
+bodyjr : -0.10522417524769281
+bodyjustin : 0.34680402983016984
+bodykim : 0.45813539360361216
+bodylargest : 0.2748682118674889
+bodylate : 0.40414956192906504
+bodylead : 0.12352770943755322
+bodyleader : -0.616218757808196
+bodyleaders : -0.035624694408151115
+bodyleague : -0.8222174314987863
+bodyled : -0.6740883358567218
+bodyletters : 0.4331810208038953
+bodylicense : 0.4511132858945418
+bodylinear : 0.4448758060030622
+bodyliving : 0.35119576149366194
+bodyllc : 0.2530303853349142
+bodylost : 0.7795005462853872
+bodylow : -0.2684660851719476
+bodylower : 0.4418358129859286
+bodymachine : -0.6693335871273668
+bodymakes : 0.29196637591128
+bodymanaging : -0.20722351218229662
+bodymarketing : 0.361894708036883
+bodymarried : 0.7836149634632309
+bodymartin : -0.1584984520995471
+bodymassachusetts : -0.3275805972143885
+bodymean : -0.7004107990453796
+bodymeeting : -0.011267449007382663
+bodymethod : -0.43678251114354605
+bodymiller : 0.02367167381541685
+bodymitchell : 0.3087262028276017
+bodymodeling : -0.5042149139631364
+bodymodels : -0.3804155232764661
+bodymonetary : 0.21061349584075856
+bodyms : 0.5088003516639465
+bodymulti : -0.34461211853173856
+bodymultiple : -0.08548935023414937
+bodynamed : -0.8596293809554467
+bodynation : -0.03588388062057246
+bodynatural : -0.2181736782943588
+bodynear : -0.17141568362350287
+bodynecessary : -0.11198713335552961
+bodyneeded : 0.10886227677991886
+bodyneeds : 0.12618555793644518
+bodynetworks : 1.0636478789246988
+bodynfl : -0.8242111857861876
+bodynotes : 0.3314888433359023
+bodynumbers : -0.0164136382267834
+bodyobama : 0.552418208040313
+bodyofficer : -0.6337405272752124
+bodyones : 0.40034754934005684
+bodyoperations : 0.2551340629996263
+bodyopportunity : 0.20929174369429895
+bodyorganization : -0.41743803503226773
+bodyorganizations : 0.4907738355558852
+bodypath : 0.24433796775930888
+bodyphd : -0.1914127245997186
+bodyplanning : -0.6783734350411175
+bodyplans : -0.9416593536681702
+bodyplayer : -0.19098895039921732
+bodypolitical : 0.39491130199111196
+bodyportfolio : -0.50452492124444
+bodypositions : 0.29551331196328373
+bodypotential : -0.7298546687335385
+bodyprior : 0.8424975735290453
+bodyproceedings : 0.6647743895536949
+bodyprocessing : 0.2641097024659176
+bodyproduction : -0.3366011447569391
+bodyprof : 0.005368957424376118
+bodyprogramming : -0.8168302006737733
+bodyradio : 0.03718047275191692
+bodyrandom : -0.18243376133912742
+bodyrange : 0.25244580563845387
+bodyreasons : 4.3186605449190875E-4
+bodyrecovery : 0.3255737839129501
+bodyred : 0.7717526263338106
+bodyregulation : 0.12267026912728235
+bodyrelationship : -0.1495274938846245
+bodyreleased : -0.6043720839351194
+bodyreported : 0.22995295514265018
+bodyrepresentation : 0.20312246008802173
+bodyreserve : 0.7121722071244039
+bodyrich : -0.16550452178958996
+bodyroad : 0.7241826050088284
+bodyrobert : -0.16792339201658982
+bodyrule : -0.45355674450636774
+bodyrules : -0.20383413715097606
+bodyrunning : 1.0130224247365311
+bodysc : 0.14124813598681668
+bodyscale : 0.44556108978061454
+bodyschedule : 0.5983914434554285
+bodyscientists : -0.36834860921745294
+bodysemantic : 0.2915479230194242
+bodysettings : 0.17514808904046522
+bodyshares : 1.3619733570278523
+bodysimilar : -0.6701632566823508
+bodysize : -0.5159271537861174
+bodysmith : 1.250938943825437
+bodysource : 0.40737510717534997
+bodyspace : -0.17661352329032803
+bodystage : -0.048629682518270524
+bodystarting : 0.7618195262909473
+bodystartups : -0.22616235405004265
+bodystats : 0.23164408645098147
+bodystay : -0.4154090187868402
+bodystep : -0.5072242218981093
+bodystephen : -0.04617115853697856
+bodysteve : -0.4154109645623316
+bodystocks : -0.42487233645005906
+bodystrategy : -0.768893533632109
+bodystrong : -0.11872725869825507
+bodysummer : -0.34137814811272593
+bodysymposium : -0.3610559939758457
+bodytakes : -1.0378074510876627
+bodytalks : -1.1018843600911161
+bodyteaching : 0.13159109072487274
+bodyteams : 0.4306098940611967
+bodytechnion : 0.030231292531816514
+bodytechnologies : 0.31328857988856235
+bodytelevision : -0.018999695252698894
+bodythomas : 0.7679168263451078
+bodythought : -0.9806267618900909
+bodytold : -0.1840255141484256
+bodytook : 0.5074857988427474
+bodytoronto : 0.2770032907577581
+bodytransactions : 0.18709066505884484
+bodytrue : 0.36858693587646935
+bodyunderstanding : 0.04686332440478329
+bodyvalues : 0.3900295928842362
+bodyvice : -0.7041170238332021
+bodywall : 0.23319331110736272
+bodywang : -0.139009409805986
+bodyways : -0.34018892491912045
+bodywide : 0.5875312011644249
+bodywife : 0.006322912965620181
+bodywin : -0.41874144842880645
+bodyworkshop : 0.6708909400431674
+google : 0.04202360822383867
+titlegoogle : 0.295846825754485
+titlescholar : 0.6827141956732318
+urlac : 0.4078920249152773
+urlcitations : 0.5911697336842275
+urlgoogle : -0.11141013332806948
+urlpeople : 0.49365118542589953
+urlrank1 : 1.0921643044273723
+urlrank2 : 1.1663645280273607
+urlrank3 : 0.9666237103415654
+urlrank4 : 0.1462583395778087
+urlrank5 : 0.22422418386376086
+urlscholar : 0.5936506388362154
+urlscholargooglepage : 0.5688344913196813
+urluser : -1.0564397460336694
+===========================
+
+Likelihood: -87.53577034256317
+
+Penalty: -2666.455425718088
+
+Regularized Log Posterior: -2753.991196060651
+===========================
+
+
+
+Confusion matrix after cross validation:
+-----------------------
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 331 160 |   a = notRelevant
+ 150 636 |   b = relevant
+
+class notRelevant webpage
+F1: 0.6810699588477367
+Prec: 0.6881496881496881
+Recall: 0.6741344195519349
+class relevant webpage 
+F1: 0.8040455120101139
+Prec: 0.7989949748743719
+Recall: 0.8091603053435115
+
+Classifier evaluation:
+----------------------
+
+Correctly Classified Instances         967               75.7244 %
+Incorrectly Classified Instances       310               24.2756 %
+Kappa statistic                          0.4851
+Mean absolute error                      0.2428
+Root mean squared error                  0.4927
+Relative absolute error                 51.2832 %
+Root relative squared error            101.2798 %
+Coverage of cases (0.95 level)          75.7244 %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             1277     
+

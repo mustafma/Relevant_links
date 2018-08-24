@@ -1,0 +1,4 @@
+urlrank
+urlcontainsonenameorgan
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

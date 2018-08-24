@@ -1,0 +1,22 @@
+titlenoofwords_greater _than_10
+titlejoe
+urlhttps://www.instagram.com/repkennedy/
+titlerepkennedy
+urlwww
+titlecontainsonenameorgan
+titlerep
+titleinstagram
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlrepkennedy
+urlcontainsonenameorgan
+titlekennedy
+urlhttps
+titlema
+titlevideos
+bodynoofwordslessthan50
+titlephotos
+urlrank45
+bodynoofentitynameindoclessthan3
+urlinstagram

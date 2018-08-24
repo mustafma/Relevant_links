@@ -1,0 +1,16 @@
+urllisten
+urlrank28
+urltidal
+urlartist
+urlhttps://listen.tidal.com/artist/3527962?pid=tidal_sharing_page
+titletidal
+titlenoofwordslessthan5
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlhttps
+urlsharing
+urlpage
+bodynoofwordslessthan50
+urlpid
+bodynoofentitynameindoclessthan3

@@ -1,0 +1,7 @@
+urledu
+titlefullname
+titlecontainsonenameorgan
+titlenoofwordslessthan7
+urlrank
+urlrank1
+titlecontainsnamecombination

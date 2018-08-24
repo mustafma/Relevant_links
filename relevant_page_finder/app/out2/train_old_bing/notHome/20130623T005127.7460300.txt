@@ -1,0 +1,21 @@
+bodycookies
+titlealto
+urlfacebook
+urlzuck
+titlepalo
+titleharvard
+urlhttps
+bodynoofwordslessthan50
+titleuniversity
+urlnoofpartslessthan5
+bodyfacebook
+titlecontainsnamecombination
+titlecontainsonenameorgan
+urlcom
+urlwww
+titlezuckerberg
+bodynoofentitynameindoclessthan3
+titlemark
+titlefullname
+titlenoofwords_greater _than_10
+titlefacebook

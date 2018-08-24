@@ -1,0 +1,23 @@
+urlhttps://www.tel-aviv.law/yitzhak-fogel
+titlehacmun
+titlelaw
+titlenoofwords_greater _than_10
+titleaviv
+urlwww
+titletel
+titleyafo
+urltel
+titlelawyer
+titlefirm
+urlyitzhak
+urlaviv
+titleheskia
+urllaw
+urlrank
+urlnoofpartslessthan5
+titleisrael
+urlrank4
+urlhttps
+bodynoofwordslessthan50
+urlfogel
+bodynoofentitynameindoclessthan3

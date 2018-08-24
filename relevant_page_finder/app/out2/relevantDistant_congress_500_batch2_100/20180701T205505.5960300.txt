@@ -1,0 +1,15 @@
+urlrank38
+urlmd
+urlhttps://www.md.com/doctor/jeffrey-duncan-md
+urlwww
+titlenoofwordslessthan5
+urlcom
+urlnoofpartslessthan7
+urldoctor
+urlrank
+urlduncan
+urlcontainsonenameorgan
+urlhttps
+urljeffrey
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

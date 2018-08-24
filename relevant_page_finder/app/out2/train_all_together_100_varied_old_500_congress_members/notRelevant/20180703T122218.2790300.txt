@@ -1,0 +1,26 @@
+urlmcmorris
+urlcathy
+titlecontainsonenameorgan
+titleneed
+urlcom
+urlnoofpartslessthan7
+titleoffice
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+titlerunning
+titlenoofwords_greater _than_10
+titlerodgers
+urlwww
+titlemcmorris
+urlwork
+urlessay
+urlgirlboss
+urlrank
+titlecathy
+urlcontainsonenameorgan
+urlhttps
+bodynoofwordslessthan50
+titlewomen
+urlrodgers
+urlrank14
+urlhttps://www.girlboss.com/work/cathy-mcmorris-rodgers-essay

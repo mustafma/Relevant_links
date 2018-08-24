@@ -1,0 +1,17 @@
+bodycookies
+urlfacebook
+urlcontainsonenameorgan
+urlhttps
+urljustin
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+bodyfacebook
+titlejustin
+titlecontainsnamecombination
+titlecontainsonenameorgan
+urlcom
+urlchiu
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3
+titlechiu

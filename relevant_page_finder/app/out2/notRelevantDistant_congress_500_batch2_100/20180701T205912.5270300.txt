@@ -1,0 +1,15 @@
+urlwww
+titlenoofwordslessthan5
+urlliving
+urlcom
+urlnoofpartslessthan7
+urlhttp
+urlrank
+urlagent
+bodynoofwordslessthan50
+urlland
+urlrank13
+bodynoofentitynameindoclessthan3
+urlkw
+urlhttp://www.kw.com/kw/agent/land-park-living
+urlpark

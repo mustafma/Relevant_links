@@ -1,0 +1,4 @@
+bodycontainsnamecombination
+urlcontainsnamecombination
+bodyfullname
+urlcontainsonenameorgan

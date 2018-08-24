@@ -1,0 +1,15 @@
+urlmd
+urlwww
+urldoyle
+urlhttps://www.md.com/doctor/michael-doyle-3-md
+titlenoofwordslessthan5
+urlcom
+urlnoofpartslessthan7
+urldoctor
+urlrank
+urlcontainsonenameorgan
+urlhttps
+urlmichael
+urlrank42
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

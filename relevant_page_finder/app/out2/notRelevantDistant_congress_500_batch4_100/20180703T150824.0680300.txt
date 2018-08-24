@@ -1,0 +1,17 @@
+urlarticle
+urlwww
+urltranscripts
+titlenoofwordslessthan5
+urlasp
+urlgranger
+urlnoofpartslessthan10
+urlpolicyconference
+urlhttp
+urlrank
+urlcontainsonenameorgan
+urlorg
+urllowey
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
+urlrank47
+urlhttp://www.policyconference.org/article/transcripts/2017/granger-lowey.asp

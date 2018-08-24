@@ -1,0 +1,14 @@
+titlemeta
+urlwww
+urlcases
+urloyez
+urlhttps://www.oyez.org/cases/1981/80-1666
+titlefulltitle
+titlenoofwordslessthan5
+urlnoofpartslessthan7
+urlrank
+urlorg
+urlhttps
+bodynoofwordslessthan50
+urlrank46
+bodynoofentitynameindoclessthan3

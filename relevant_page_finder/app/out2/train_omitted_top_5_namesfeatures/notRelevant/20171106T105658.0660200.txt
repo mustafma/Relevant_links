@@ -1,0 +1,17 @@
+urlrank16
+urlhttps://gurushots.com/idan_ofer
+titleofer
+titlegurushots
+titlecontainsonenameorgan
+titlenoofwordslessthan5
+urlgurushots
+urlcom
+urlidan
+urlrank
+urlofer
+urlnoofpartslessthan5
+urlhttps
+bodynoofwordslessthan50
+titlecontainsnamecombination
+titleidan
+bodynoofentitynameindoclessthan3

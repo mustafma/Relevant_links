@@ -1,0 +1,8 @@
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+urlhttp
+urlcom
+urlwww
+bodynoofentitynameindoclessthan3
+titlenoofwordslessthan5
+urlberkshirehathaway

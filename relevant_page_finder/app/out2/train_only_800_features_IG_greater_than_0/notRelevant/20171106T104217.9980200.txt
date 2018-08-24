@@ -1,0 +1,7 @@
+urlrank16
+bodyfalse
+titlenoofwordslessthan7
+urlcom
+urlrank
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

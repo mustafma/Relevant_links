@@ -1,0 +1,5 @@
+urlcom
+urlrank
+bodynoofwordslessthan50
+urlrank13
+bodynoofentitynameindoclessthan3

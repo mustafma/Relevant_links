@@ -1,0 +1,14 @@
+bodycontainsnamecombination
+urledu
+titlefullname
+titlecontainsonenameorgan
+titlenoofwordslessthan7
+bodystanford
+titlecontainsnamecombination
+bodyprev
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfullname
+urlrank
+urlcontainsonenameorgan
+bodynoofwordslessthan50

@@ -1,0 +1,11 @@
+bodycontainsnamecombination
+bodyil
+bodylaw
+bodynoofentitynameindoclessthan3
+bodycontainsonenameorgan
+bodyfirm
+bodyfullname
+urlrank
+urlil
+bodynoofwordsgreaterthan500
+bodynews

@@ -1,0 +1,23 @@
+titlehouse
+titlenoofwords_greater _than_10
+titleann
+titlepinterest
+titlekuster
+urlpin
+titlemclane
+titlenh
+titlefullname
+urlwww
+titlecontainsonenameorgan
+titlerepresentatives
+urlcom
+urlhttps://www.pinterest.com/pin/638666790878009435/
+urlnoofpartslessthan7
+urlrank
+urlhttps
+urlrank43
+bodynoofwordslessthan50
+titlewomen
+titlecontainsnamecombination
+bodynoofentitynameindoclessthan3
+urlpinterest

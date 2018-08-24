@@ -1,0 +1,17 @@
+bodycookies
+titleeliakim
+urlhttp
+urlfacebook
+urlrami
+titlerami
+urlcontainsonenameorgan
+urleliakim
+bodynoofwordslessthan50
+urlnoofpartslessthan5
+bodyfacebook
+titlecontainsnamecombination
+titlecontainsonenameorgan
+urlcom
+urlwww
+titlenoofwordslessthan5
+bodynoofentitynameindoclessthan3

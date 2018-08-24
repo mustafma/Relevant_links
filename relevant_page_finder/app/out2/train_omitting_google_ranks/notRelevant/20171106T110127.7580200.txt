@@ -1,0 +1,15 @@
+urlkivunim
+titlenoofwords_greater _than_10
+urlextra
+urlcounselor
+urlhttp://kivunim.huji.ac.il/counselor/extra2.html
+bodydesigned
+urlnoofpartslessthan7
+urlhttp
+bodynoofwordslessthan100
+urlil
+urlac
+bodyenglish
+bodynoofentitynameindoclessthan3
+urlhtml
+urlhuji

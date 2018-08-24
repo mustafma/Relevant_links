@@ -1,0 +1,13 @@
+urlrank27
+urllisten
+urltidal
+urlartist
+titletidal
+titlenoofwordslessthan5
+urlcom
+urlnoofpartslessthan7
+urlrank
+urlhttps://listen.tidal.com/artist/6686805
+urlhttps
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3
