@@ -1,0 +1,13 @@
+urlwww
+urlbehance
+urlnet
+titlenoofwordslessthan5
+titlebehance
+urlrank
+urlnoofpartslessthan5
+urlmakulker
+urlhttps
+urlhttps://www.behance.net/makulker
+urlrank10
+bodynoofwordslessthan50
+bodynoofentitynameindoclessthan3

@@ -30,6 +30,12 @@ def StartEngine():
         print "Java engine is running"
     return proc
 
+def is_json(myjson):
+  try:
+    json_object = json.loads(myjson)
+  except ValueError, e:
+    return False
+  return True
 proc = StartEngine()
 # wrap p.stdout with a NonBlockingStreamReader object:
 nbsr = NBSR(proc.stdout)
@@ -49,14 +55,11 @@ def query():
         proc.stdin.write(q + "\r\n")
         proc.stdin.flush()
         # get the output
-        while True:
-            output = nbsr.readline(0.1)
-            # 0.1 secs to let the shell output the result
-            if not output:
-                print '[No more data]'
-                break
+        output = nbsr.readline(900000)
+        while (not is_json(output)):
             print output
-
+            output = nbsr.readline(900000)
+        # read the json
 #        line = proc.stdout.readline()
 #        print "python:" + line
 #        while(line != "JSONRESULT\n"):
@@ -65,35 +68,22 @@ def query():
 #        # now read the json
 #        line = proc.stdout.read()
 #        print "python: " + line
-        json_data = ""# json.loads(line)
-        try :
-            # case 1: results
-            if json_data['items']:
-                has_result = 1
-        except:
-                # case 2: error
-                try :
-                    json_data['error']
-                    error = 1
-                    # print json_data
-                    error_msg = 'error_code' +str(json_data['error']['code'])
-                    return render_template('index.html',q=q,error=error,error_msg=error_msg)
-                # case 3: no result
-                except :
-                    return "ERROR"
-        if has_result == 1 :
+        json_data = json.loads(output)
+
+        if bool(json_data) :
             # print "results"
+            print json.dumps(json_data, indent=4, sort_keys=True)
             result = []
             results = []
-            items = json_data['items']
             # print(items)
-            for item in items:
-                result = {"title" : item['htmlTitle'], "link" : item['link'], "displayLink" : item['htmlFormattedUrl'], "snippet" : item['htmlSnippet']}
+            for item in json_data:
+                result = {"title" : item['title'], "link" : item['url']}
+                print "result " + result["title"]
                 results.append(result)
                 result = {}
             return render_template('index.html',q=q,results=results,error=error)
         else :
-            return render_template('index.html',q=q,error=error)
+            return render_template('index.html',q=q,error=1)
 
 
 @app.errorhandler(404)

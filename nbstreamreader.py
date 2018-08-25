@@ -19,6 +19,7 @@ class NonBlockingStreamReader:
 
             while True:
                 line = stream.readline()
+                print "line = " + line
                 if line:
                     queue.put(line)
                 else:
@@ -34,6 +35,7 @@ class NonBlockingStreamReader:
             return self._q.get(block = timeout is not None,
                     timeout = timeout)
         except Empty:
+            print "Empty"
             return None
 
 class UnexpectedEndOfStream(Exception): pass
